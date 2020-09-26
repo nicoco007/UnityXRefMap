@@ -34,5 +34,31 @@ jobs:
     - name: Upload XRef Maps
       uses: actions/upload-artifact@v2.1.4
       with:
-        name: 'xrefmaps'
+        name: xrefmaps
         path: UnityXRefMap/out
+
+  deploy:
+    needs: [ build ]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+
+      - name: Download Built XRef Maps
+        uses: actions/download-artifact@v1
+        with:
+          name: xrefmaps
+
+      - name: Install SSH Client
+        uses: webfactory/ssh-agent@v0.2.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.6.1
+        with:
+          SSH: true
+          BRANCH: gh-pages
+          FOLDER: xrefmaps
