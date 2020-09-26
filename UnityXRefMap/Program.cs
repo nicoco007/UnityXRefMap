@@ -48,7 +48,6 @@ namespace UnityXRefMap
                     Commands.Checkout(repo, branch);
 
                     repo.Reset(ResetMode.Hard);
-                    repo.RemoveUntrackedFiles();
 
                     int exitCode = RunDocFx();
 
