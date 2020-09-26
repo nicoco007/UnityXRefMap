@@ -175,7 +175,7 @@ namespace UnityXRefMap
 
             Directory.CreateDirectory(OutputFolder);
 
-            string outputFilePath = Path.Join(OutputFolder, $"unity_{version}_xrefmap.yml");
+            string outputFilePath = Path.Join(OutputFolder, version, "xrefmap.yml");
 
             Logger.Info($"Saving XRef map to '{outputFilePath}'");
 
