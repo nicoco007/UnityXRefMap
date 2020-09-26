@@ -1,0 +1,38 @@
+name: Generate XRef Maps
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 3.1.x
+
+    - name: Install DocFX
+      run: choco install docfx -y
+
+    - name: Restore Packages
+      run: dotnet restore
+
+    - name: Build
+      run: dotnet build --configuration Release --no-restore
+
+    - name: Run
+      run: |
+        cd UnityXRefMap
+        dotnet run --configuration Release --no-build
+
+    - name: Upload XRef Maps
+      uses: actions/upload-artifact@v2.1.4
+      with:
+        name: 'maps'
+        path: UnityXRefMap/bin/Release/netcoreapp3.1/out
