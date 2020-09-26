@@ -80,7 +80,12 @@ namespace UnityXRefMap
             };
 
             process.OutputDataReceived += (sender, args) => Logger.Trace("[DocFX]" + args.Data, 1);
-            process.ErrorDataReceived += (sender, args) => Logger.Error("[DocFX]" + args.Data);
+            process.ErrorDataReceived += (sender, args) =>
+            {
+                if (string.IsNullOrEmpty(args.Data)) return;
+
+                Logger.Error("[DocFX]" + args.Data);
+            };
 
             process.Start();
 

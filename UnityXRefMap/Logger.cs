@@ -20,13 +20,9 @@ namespace UnityXRefMap
 
         public static void WriteLine(object obj, string prefix, ConsoleColor color = ConsoleColor.Gray)
         {
-            string text = obj?.ToString();
-
-            if (string.IsNullOrWhiteSpace(text)) return;
-
             Console.ForegroundColor = color;
             
-            foreach (string line in text.Split("\n"))
+            foreach (string line in obj?.ToString().Split("\n"))
             {
                 Console.WriteLine($"[{DateTime.Now:yyyy-MM-dd HH:mm:ss.fff}] {prefix} | {line}");
             }

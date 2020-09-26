@@ -34,5 +34,5 @@ jobs:
     - name: Upload XRef Maps
       uses: actions/upload-artifact@v2.1.4
       with:
-        name: 'maps'
-        path: UnityXRefMap/bin/Release/netcoreapp3.1/out
+        name: 'xrefmaps'
+        path: UnityXRefMap/out
