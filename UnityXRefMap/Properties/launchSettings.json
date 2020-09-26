@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "UnityXRefMap": {
+      "commandName": "Project",
+      "commandLineArgs": "2019.3"
+    }
+  }
+}

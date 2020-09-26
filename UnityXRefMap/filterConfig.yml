@@ -1,0 +1,13 @@
+apiRules:
+  - exclude:
+      uidRegex: ^AOT\.
+  - exclude:
+      uidRegex: ^JetBrains\.
+  - exclude:
+      uidRegex: ^TreeEditor\.
+  - exclude:
+      uidRegex: ^UnityEngineInternal\.
+  - exclude:
+      uidRegex: ^UnityEditor\.Internal\.
+  - exclude:
+      uidRegex: ^UnityEngine\.Internal\.
