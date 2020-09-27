@@ -25,6 +25,8 @@ namespace UnityXRefMap
                 Repository.Clone(UnityCsReferenceRepositoryUrl, UnityCsReferenceLocalPath);
             }
 
+            var files = new List<string>();
+
             using (var repo = new Repository(UnityCsReferenceLocalPath))
             {
                 Regex branchRegex = new Regex(@"^origin/(\d{4}\.\d+)$");
@@ -57,8 +59,22 @@ namespace UnityXRefMap
                         continue;
                     }
 
-                    GenerateMap(version);
+                    files.Add(GenerateMap(version));
                 }
+            }
+
+            using (var writer = new StreamWriter(Path.Join(OutputFolder, "index.html")))
+            {
+                Logger.Info("Writing index.html");
+
+                writer.WriteLine("<html>\n<body>\n<ul>");
+
+                foreach (string file in files)
+                {
+                    writer.WriteLine($"<li><a href=\"{file}\">{file}</a></li>");
+                }
+
+                writer.WriteLine("</ul>\n</body>\n</html>");
             }
         }
 
@@ -97,7 +113,7 @@ namespace UnityXRefMap
             return process.ExitCode;
         }
 
-        private static void GenerateMap(string version)
+        private static string GenerateMap(string version)
         {
             Logger.Info($"Generating XRef map for Unity {version}");
 
@@ -173,13 +189,16 @@ namespace UnityXRefMap
                 References = references.OrderBy(r => r.Uid).ToArray()
             });
 
-            Directory.CreateDirectory(OutputFolder);
-
-            string outputFilePath = Path.Join(OutputFolder, version, "xrefmap.yml");
+            string relativeOutputFilePath = Path.Join(version, "xrefmap.yml");
+            string outputFilePath = Path.Join(OutputFolder, relativeOutputFilePath);
 
             Logger.Info($"Saving XRef map to '{outputFilePath}'");
 
+            Directory.CreateDirectory(Path.GetDirectoryName(outputFilePath));
+
             File.WriteAllText(outputFilePath, "### YamlMime:XRefMap\n" + serializedMap);
+
+            return relativeOutputFilePath;
         }
 
         private static string Normalize(string text)
