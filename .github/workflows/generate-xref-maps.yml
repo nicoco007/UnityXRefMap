@@ -27,11 +27,16 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore
 
-    - name: Checkout
+    - name: Checkout GitHub Pages branch
       uses: actions/checkout@v2
       with:
         ref: gh-pages
         path: UnityXRefMap/out
+
+    - name: Clean existing GitHub Pages files
+      run: |
+        cd UnityXRefMap/out
+        git rm -r .
 
     - name: Run
       run: |
