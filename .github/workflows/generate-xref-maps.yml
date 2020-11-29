@@ -1,6 +1,7 @@
-name: Generate XRef Maps
+name: generate-xref-maps
 
 on:
+  workflow_dispatch:
   schedule:
     - cron:  '0 5 * * SUN'
 
@@ -26,6 +27,12 @@ jobs:
     - name: Build
       run: dotnet build --configuration Release --no-restore
 
+    - name: Checkout
+      uses: actions/checkout@v2
+      with:
+        ref: gh-pages
+        path: UnityXRefMap/out
+
     - name: Run
       run: |
         cd UnityXRefMap
@@ -37,28 +44,19 @@ jobs:
         name: xrefmaps
         path: UnityXRefMap/out
 
-  deploy:
-    needs: [ build ]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-        with:
-          persist-credentials: false
+    - name: Push to GitHub Pages
+      run: |
+        $hash = (git log -n 1 --pretty="%h").Trim()
+        $name = (git log -n 1 --pretty="%an").Trim()
+        $email = (git log -n 1 --pretty="%ae").Trim()
 
-      - name: Download Built XRef Maps
-        uses: actions/download-artifact@v1
-        with:
-          name: xrefmaps
+        cd UnityXRefMap/out
 
-      - name: Install SSH Client
-        uses: webfactory/ssh-agent@v0.2.0
-        with:
-          ssh-private-key: ${{ secrets.DEPLOY_KEY }}
+        echo "Committing as $name <$email>"
 
-      - name: Deploy
-        uses: JamesIves/github-pages-deploy-action@3.6.1
-        with:
-          SSH: true
-          BRANCH: gh-pages
-          FOLDER: xrefmaps
+        git config user.name $name
+        git config user.email $email
+
+        git add .
+        git commit --message "Scheduled XRef Map Update"
+        git push
