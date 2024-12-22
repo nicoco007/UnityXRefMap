@@ -19753,6 +19753,24 @@ references:
   commentId: F:UnityEditor.Build.Content.WriteSceneParameters.writeCommand
   fullName: UnityEditor.Build.Content.WriteSceneParameters.writeCommand
   nameWithType: WriteSceneParameters.writeCommand
+- uid: UnityEditor.Build.DefaultLaunchReport
+  name: DefaultLaunchReport
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.DefaultLaunchReport.html
+  commentId: T:UnityEditor.Build.DefaultLaunchReport
+  fullName: UnityEditor.Build.DefaultLaunchReport
+  nameWithType: DefaultLaunchReport
+- uid: UnityEditor.Build.DefaultLaunchReport.buildTarget
+  name: buildTarget
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.DefaultLaunchReport-buildTarget.html
+  commentId: P:UnityEditor.Build.DefaultLaunchReport.buildTarget
+  fullName: UnityEditor.Build.DefaultLaunchReport.buildTarget
+  nameWithType: DefaultLaunchReport.buildTarget
+- uid: UnityEditor.Build.DefaultLaunchReport.result
+  name: result
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.DefaultLaunchReport-result.html
+  commentId: P:UnityEditor.Build.DefaultLaunchReport.result
+  fullName: UnityEditor.Build.DefaultLaunchReport.result
+  nameWithType: DefaultLaunchReport.result
 - uid: UnityEditor.Build.IActiveBuildTargetChanged
   name: IActiveBuildTargetChanged
   href: https://docs.unity3d.com/Documentation/ScriptReference/Build.IActiveBuildTargetChanged.html
@@ -19801,6 +19819,24 @@ references:
   commentId: F:UnityEditor.Build.Il2CppCodeGeneration.OptimizeSpeed
   fullName: UnityEditor.Build.Il2CppCodeGeneration.OptimizeSpeed
   nameWithType: Il2CppCodeGeneration.OptimizeSpeed
+- uid: UnityEditor.Build.ILaunchReport
+  name: ILaunchReport
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.ILaunchReport.html
+  commentId: T:UnityEditor.Build.ILaunchReport
+  fullName: UnityEditor.Build.ILaunchReport
+  nameWithType: ILaunchReport
+- uid: UnityEditor.Build.ILaunchReport.buildTarget
+  name: buildTarget
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.ILaunchReport-buildTarget.html
+  commentId: P:UnityEditor.Build.ILaunchReport.buildTarget
+  fullName: UnityEditor.Build.ILaunchReport.buildTarget
+  nameWithType: ILaunchReport.buildTarget
+- uid: UnityEditor.Build.ILaunchReport.result
+  name: result
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.ILaunchReport-result.html
+  commentId: P:UnityEditor.Build.ILaunchReport.result
+  fullName: UnityEditor.Build.ILaunchReport.result
+  nameWithType: ILaunchReport.result
 - uid: UnityEditor.Build.IOrderedCallback
   name: IOrderedCallback
   href: https://docs.unity3d.com/Documentation/ScriptReference/Build.IOrderedCallback.html
@@ -19849,6 +19885,18 @@ references:
   commentId: M:UnityEditor.Build.IPostprocessBuildWithReport.OnPostprocessBuild(UnityEditor.Build.Reporting.BuildReport)
   fullName: UnityEditor.Build.IPostprocessBuildWithReport.OnPostprocessBuild
   nameWithType: IPostprocessBuildWithReport.OnPostprocessBuild(BuildReport)
+- uid: UnityEditor.Build.IPostprocessLaunch
+  name: IPostprocessLaunch
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.IPostprocessLaunch.html
+  commentId: T:UnityEditor.Build.IPostprocessLaunch
+  fullName: UnityEditor.Build.IPostprocessLaunch
+  nameWithType: IPostprocessLaunch
+- uid: UnityEditor.Build.IPostprocessLaunch.OnPostprocessLaunch(UnityEditor.Build.ILaunchReport)
+  name: OnPostprocessLaunch
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.IPostprocessLaunch.OnPostprocessLaunch.html
+  commentId: M:UnityEditor.Build.IPostprocessLaunch.OnPostprocessLaunch(UnityEditor.Build.ILaunchReport)
+  fullName: UnityEditor.Build.IPostprocessLaunch.OnPostprocessLaunch
+  nameWithType: IPostprocessLaunch.OnPostprocessLaunch(ILaunchReport)
 - uid: UnityEditor.Build.IPreprocessBuild
   name: IPreprocessBuild
   href: https://docs.unity3d.com/Documentation/ScriptReference/Build.IPreprocessBuild.html
@@ -19933,6 +19981,36 @@ references:
   commentId: M:UnityEditor.Build.IUnityLinkerProcessor.GenerateAdditionalLinkXmlFile(UnityEditor.Build.Reporting.BuildReport,UnityEditor.UnityLinker.UnityLinkerBuildPipelineData)
   fullName: UnityEditor.Build.IUnityLinkerProcessor.GenerateAdditionalLinkXmlFile
   nameWithType: IUnityLinkerProcessor.GenerateAdditionalLinkXmlFile(BuildReport, UnityLinkerBuildPipelineData)
+- uid: UnityEditor.Build.LaunchResult
+  name: LaunchResult
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.LaunchResult.html
+  commentId: T:UnityEditor.Build.LaunchResult
+  fullName: UnityEditor.Build.LaunchResult
+  nameWithType: LaunchResult
+- uid: UnityEditor.Build.LaunchResult.Failed
+  name: Failed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.LaunchResult.Failed.html
+  commentId: F:UnityEditor.Build.LaunchResult.Failed
+  fullName: UnityEditor.Build.LaunchResult.Failed
+  nameWithType: LaunchResult.Failed
+- uid: UnityEditor.Build.LaunchResult.PartiallySucceeded
+  name: PartiallySucceeded
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.LaunchResult.PartiallySucceeded.html
+  commentId: F:UnityEditor.Build.LaunchResult.PartiallySucceeded
+  fullName: UnityEditor.Build.LaunchResult.PartiallySucceeded
+  nameWithType: LaunchResult.PartiallySucceeded
+- uid: UnityEditor.Build.LaunchResult.Succeeded
+  name: Succeeded
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.LaunchResult.Succeeded.html
+  commentId: F:UnityEditor.Build.LaunchResult.Succeeded
+  fullName: UnityEditor.Build.LaunchResult.Succeeded
+  nameWithType: LaunchResult.Succeeded
+- uid: UnityEditor.Build.LaunchResult.Unknown
+  name: Unknown
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.LaunchResult.Unknown.html
+  commentId: F:UnityEditor.Build.LaunchResult.Unknown
+  fullName: UnityEditor.Build.LaunchResult.Unknown
+  nameWithType: LaunchResult.Unknown
 - uid: UnityEditor.Build.NamedBuildTarget
   name: NamedBuildTarget
   href: https://docs.unity3d.com/Documentation/ScriptReference/Build.NamedBuildTarget.html
@@ -33187,6 +33265,12 @@ references:
   commentId: P:UnityEditor.EditorUserBuildSettings.switchEnableRomCompression
   fullName: UnityEditor.EditorUserBuildSettings.switchEnableRomCompression
   nameWithType: EditorUserBuildSettings.switchEnableRomCompression
+- uid: UnityEditor.EditorUserBuildSettings.switchEnableUnpublishableErrors
+  name: switchEnableUnpublishableErrors
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EditorUserBuildSettings-switchEnableUnpublishableErrors.html
+  commentId: P:UnityEditor.EditorUserBuildSettings.switchEnableUnpublishableErrors
+  fullName: UnityEditor.EditorUserBuildSettings.switchEnableUnpublishableErrors
+  nameWithType: EditorUserBuildSettings.switchEnableUnpublishableErrors
 - uid: UnityEditor.EditorUserBuildSettings.switchHTCSScriptDebugging
   name: switchHTCSScriptDebugging
   href: https://docs.unity3d.com/Documentation/ScriptReference/EditorUserBuildSettings-switchHTCSScriptDebugging.html
@@ -89035,6 +89119,36 @@ references:
   commentId: M:UnityEditor.UIElements.AssetMonitoringUtilities.SetResetPanelRenderingOnAssetChange(UnityEditor.EditorWindow,System.Boolean)
   fullName: UnityEditor.UIElements.AssetMonitoringUtilities.SetResetPanelRenderingOnAssetChange
   nameWithType: AssetMonitoringUtilities.SetResetPanelRenderingOnAssetChange(EditorWindow, Boolean)
+- uid: UnityEditor.UIElements.BaseMask64Field
+  name: BaseMask64Field
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseMask64Field.html
+  commentId: T:UnityEditor.UIElements.BaseMask64Field
+  fullName: UnityEditor.UIElements.BaseMask64Field
+  nameWithType: BaseMask64Field
+- uid: UnityEditor.UIElements.BaseMask64Field.choices
+  name: choices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseMask64Field-choices.html
+  commentId: P:UnityEditor.UIElements.BaseMask64Field.choices
+  fullName: UnityEditor.UIElements.BaseMask64Field.choices
+  nameWithType: BaseMask64Field.choices
+- uid: UnityEditor.UIElements.BaseMask64Field.choicesMasks
+  name: choicesMasks
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseMask64Field-choicesMasks.html
+  commentId: P:UnityEditor.UIElements.BaseMask64Field.choicesMasks
+  fullName: UnityEditor.UIElements.BaseMask64Field.choicesMasks
+  nameWithType: BaseMask64Field.choicesMasks
+- uid: UnityEditor.UIElements.BaseMask64Field.SetValueWithoutNotify(UInt64)
+  name: SetValueWithoutNotify
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseMask64Field.SetValueWithoutNotify.html
+  commentId: M:UnityEditor.UIElements.BaseMask64Field.SetValueWithoutNotify(UInt64)
+  fullName: UnityEditor.UIElements.BaseMask64Field.SetValueWithoutNotify
+  nameWithType: BaseMask64Field.SetValueWithoutNotify(UInt64)
+- uid: UnityEditor.UIElements.BaseMask64Field.value
+  name: value
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseMask64Field-value.html
+  commentId: P:UnityEditor.UIElements.BaseMask64Field.value
+  fullName: UnityEditor.UIElements.BaseMask64Field.value
+  nameWithType: BaseMask64Field.value
 - uid: UnityEditor.UIElements.BaseMaskField`1
   name: BaseMaskField
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseMaskField.html
@@ -90019,6 +90133,90 @@ references:
   commentId: M:UnityEditor.UIElements.LayerMaskField.UxmlTraits.Init(UnityEngine.UIElements.VisualElement,UnityEngine.UIElements.IUxmlAttributes,UnityEngine.UIElements.CreationContext)
   fullName: UnityEditor.UIElements.LayerMaskField.UxmlTraits.Init
   nameWithType: LayerMaskField.UxmlTraits.Init(VisualElement, IUxmlAttributes, CreationContext)
+- uid: UnityEditor.UIElements.Mask64Field
+  name: Mask64Field
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.html
+  commentId: T:UnityEditor.UIElements.Mask64Field
+  fullName: UnityEditor.UIElements.Mask64Field
+  nameWithType: Mask64Field
+- uid: UnityEditor.UIElements.Mask64Field.#ctor
+  name: Mask64Field
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.Mask64Field.html
+  commentId: M:UnityEditor.UIElements.Mask64Field.#ctor
+  fullName: UnityEditor.UIElements.Mask64Field.Mask64Field
+  nameWithType: Mask64Field.Mask64Field()
+- uid: UnityEditor.UIElements.Mask64Field.#ctor(List{System.String},UInt64,Func{System.String,System.String},Func{System.String,System.String})
+  name: Mask64Field
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.Mask64Field.html
+  commentId: M:UnityEditor.UIElements.Mask64Field.#ctor(List{System.String},UInt64,Func{System.String,System.String},Func{System.String,System.String})
+  fullName: UnityEditor.UIElements.Mask64Field.Mask64Field
+  nameWithType: Mask64Field.Mask64Field(List<String>, UInt64, Func<String, String>, Func<String, String>)
+- uid: UnityEditor.UIElements.Mask64Field.#ctor(System.String,List{System.String},UInt64,Func{System.String,System.String},Func{System.String,System.String})
+  name: Mask64Field
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.Mask64Field.html
+  commentId: M:UnityEditor.UIElements.Mask64Field.#ctor(System.String,List{System.String},UInt64,Func{System.String,System.String},Func{System.String,System.String})
+  fullName: UnityEditor.UIElements.Mask64Field.Mask64Field
+  nameWithType: Mask64Field.Mask64Field(String, List<String>, UInt64, Func<String, String>, Func<String, String>)
+- uid: UnityEditor.UIElements.Mask64Field.#ctor(System.String)
+  name: Mask64Field
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.Mask64Field.html
+  commentId: M:UnityEditor.UIElements.Mask64Field.#ctor(System.String)
+  fullName: UnityEditor.UIElements.Mask64Field.Mask64Field
+  nameWithType: Mask64Field.Mask64Field(String)
+- uid: UnityEditor.UIElements.Mask64Field.formatListItemCallback
+  name: formatListItemCallback
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field-formatListItemCallback.html
+  commentId: P:UnityEditor.UIElements.Mask64Field.formatListItemCallback
+  fullName: UnityEditor.UIElements.Mask64Field.formatListItemCallback
+  nameWithType: Mask64Field.formatListItemCallback
+- uid: UnityEditor.UIElements.Mask64Field.formatSelectedValueCallback
+  name: formatSelectedValueCallback
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field-formatSelectedValueCallback.html
+  commentId: P:UnityEditor.UIElements.Mask64Field.formatSelectedValueCallback
+  fullName: UnityEditor.UIElements.Mask64Field.formatSelectedValueCallback
+  nameWithType: Mask64Field.formatSelectedValueCallback
+- uid: UnityEditor.UIElements.Mask64Field.inputUssClassName
+  name: inputUssClassName
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field-inputUssClassName.html
+  commentId: F:UnityEditor.UIElements.Mask64Field.inputUssClassName
+  fullName: UnityEditor.UIElements.Mask64Field.inputUssClassName
+  nameWithType: Mask64Field.inputUssClassName
+- uid: UnityEditor.UIElements.Mask64Field.labelUssClassName
+  name: labelUssClassName
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field-labelUssClassName.html
+  commentId: F:UnityEditor.UIElements.Mask64Field.labelUssClassName
+  fullName: UnityEditor.UIElements.Mask64Field.labelUssClassName
+  nameWithType: Mask64Field.labelUssClassName
+- uid: UnityEditor.UIElements.Mask64Field.ussClassName
+  name: ussClassName
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field-ussClassName.html
+  commentId: F:UnityEditor.UIElements.Mask64Field.ussClassName
+  fullName: UnityEditor.UIElements.Mask64Field.ussClassName
+  nameWithType: Mask64Field.ussClassName
+- uid: UnityEditor.UIElements.Mask64Field.UxmlSerializedData
+  name: Mask64Field.UxmlSerializedData
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.UxmlSerializedData.html
+  commentId: T:UnityEditor.UIElements.Mask64Field.UxmlSerializedData
+  fullName: UnityEditor.UIElements.Mask64Field.UxmlSerializedData
+  nameWithType: Mask64Field.UxmlSerializedData
+- uid: UnityEditor.UIElements.Mask64Field.UxmlSerializedData.CreateInstance
+  name: CreateInstance
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.UxmlSerializedData.CreateInstance.html
+  commentId: M:UnityEditor.UIElements.Mask64Field.UxmlSerializedData.CreateInstance
+  fullName: UnityEditor.UIElements.Mask64Field.UxmlSerializedData.CreateInstance
+  nameWithType: Mask64Field.UxmlSerializedData.CreateInstance()
+- uid: UnityEditor.UIElements.Mask64Field.UxmlSerializedData.Deserialize(System.Object)
+  name: Deserialize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.UxmlSerializedData.Deserialize.html
+  commentId: M:UnityEditor.UIElements.Mask64Field.UxmlSerializedData.Deserialize(System.Object)
+  fullName: UnityEditor.UIElements.Mask64Field.UxmlSerializedData.Deserialize
+  nameWithType: Mask64Field.UxmlSerializedData.Deserialize(Object)
+- uid: UnityEditor.UIElements.Mask64Field.UxmlSerializedData.Register
+  name: Register
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Mask64Field.UxmlSerializedData.Register.html
+  commentId: M:UnityEditor.UIElements.Mask64Field.UxmlSerializedData.Register
+  fullName: UnityEditor.UIElements.Mask64Field.UxmlSerializedData.Register
+  nameWithType: Mask64Field.UxmlSerializedData.Register()
 - uid: UnityEditor.UIElements.MaskField
   name: MaskField
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MaskField.html
@@ -120133,204 +120331,6 @@ references:
   commentId: P:UnityEngine.Camera.renderingPath
   fullName: UnityEngine.Camera.renderingPath
   nameWithType: Camera.renderingPath
-- uid: UnityEngine.Camera.RenderRequest
-  name: Camera.RenderRequest
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequest.html
-  commentId: T:UnityEngine.Camera.RenderRequest
-  fullName: UnityEngine.Camera.RenderRequest
-  nameWithType: Camera.RenderRequest
-- uid: UnityEngine.Camera.RenderRequest.#ctor(UnityEngine.Camera.RenderRequestMode,UnityEngine.Camera.RenderRequestOutputSpace,UnityEngine.RenderTexture)
-  name: RenderRequest
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequest.RenderRequest.html
-  commentId: M:UnityEngine.Camera.RenderRequest.#ctor(UnityEngine.Camera.RenderRequestMode,UnityEngine.Camera.RenderRequestOutputSpace,UnityEngine.RenderTexture)
-  fullName: UnityEngine.Camera.RenderRequest.RenderRequest
-  nameWithType: Camera.RenderRequest.RenderRequest(Camera.RenderRequestMode, Camera.RenderRequestOutputSpace, RenderTexture)
-- uid: UnityEngine.Camera.RenderRequest.#ctor(UnityEngine.Camera.RenderRequestMode,UnityEngine.RenderTexture)
-  name: RenderRequest
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequest.RenderRequest.html
-  commentId: M:UnityEngine.Camera.RenderRequest.#ctor(UnityEngine.Camera.RenderRequestMode,UnityEngine.RenderTexture)
-  fullName: UnityEngine.Camera.RenderRequest.RenderRequest
-  nameWithType: Camera.RenderRequest.RenderRequest(Camera.RenderRequestMode, RenderTexture)
-- uid: UnityEngine.Camera.RenderRequest.isValid
-  name: isValid
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequest-isValid.html
-  commentId: P:UnityEngine.Camera.RenderRequest.isValid
-  fullName: UnityEngine.Camera.RenderRequest.isValid
-  nameWithType: Camera.RenderRequest.isValid
-- uid: UnityEngine.Camera.RenderRequest.mode
-  name: mode
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequest-mode.html
-  commentId: P:UnityEngine.Camera.RenderRequest.mode
-  fullName: UnityEngine.Camera.RenderRequest.mode
-  nameWithType: Camera.RenderRequest.mode
-- uid: UnityEngine.Camera.RenderRequest.outputSpace
-  name: outputSpace
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequest-outputSpace.html
-  commentId: P:UnityEngine.Camera.RenderRequest.outputSpace
-  fullName: UnityEngine.Camera.RenderRequest.outputSpace
-  nameWithType: Camera.RenderRequest.outputSpace
-- uid: UnityEngine.Camera.RenderRequest.result
-  name: result
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequest-result.html
-  commentId: P:UnityEngine.Camera.RenderRequest.result
-  fullName: UnityEngine.Camera.RenderRequest.result
-  nameWithType: Camera.RenderRequest.result
-- uid: UnityEngine.Camera.RenderRequestMode
-  name: Camera.RenderRequestMode
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.html
-  commentId: T:UnityEngine.Camera.RenderRequestMode
-  fullName: UnityEngine.Camera.RenderRequestMode
-  nameWithType: Camera.RenderRequestMode
-- uid: UnityEngine.Camera.RenderRequestMode.BaseColor
-  name: BaseColor
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.BaseColor.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.BaseColor
-  fullName: UnityEngine.Camera.RenderRequestMode.BaseColor
-  nameWithType: Camera.RenderRequestMode.BaseColor
-- uid: UnityEngine.Camera.RenderRequestMode.Depth
-  name: Depth
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.Depth.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.Depth
-  fullName: UnityEngine.Camera.RenderRequestMode.Depth
-  nameWithType: Camera.RenderRequestMode.Depth
-- uid: UnityEngine.Camera.RenderRequestMode.DiffuseColor
-  name: DiffuseColor
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.DiffuseColor.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.DiffuseColor
-  fullName: UnityEngine.Camera.RenderRequestMode.DiffuseColor
-  nameWithType: Camera.RenderRequestMode.DiffuseColor
-- uid: UnityEngine.Camera.RenderRequestMode.Emission
-  name: Emission
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.Emission.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.Emission
-  fullName: UnityEngine.Camera.RenderRequestMode.Emission
-  nameWithType: Camera.RenderRequestMode.Emission
-- uid: UnityEngine.Camera.RenderRequestMode.EntityId
-  name: EntityId
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.EntityId.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.EntityId
-  fullName: UnityEngine.Camera.RenderRequestMode.EntityId
-  nameWithType: Camera.RenderRequestMode.EntityId
-- uid: UnityEngine.Camera.RenderRequestMode.Metallic
-  name: Metallic
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.Metallic.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.Metallic
-  fullName: UnityEngine.Camera.RenderRequestMode.Metallic
-  nameWithType: Camera.RenderRequestMode.Metallic
-- uid: UnityEngine.Camera.RenderRequestMode.None
-  name: None
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.None.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.None
-  fullName: UnityEngine.Camera.RenderRequestMode.None
-  nameWithType: Camera.RenderRequestMode.None
-- uid: UnityEngine.Camera.RenderRequestMode.Normal
-  name: Normal
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.Normal.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.Normal
-  fullName: UnityEngine.Camera.RenderRequestMode.Normal
-  nameWithType: Camera.RenderRequestMode.Normal
-- uid: UnityEngine.Camera.RenderRequestMode.ObjectId
-  name: ObjectId
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.ObjectId.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.ObjectId
-  fullName: UnityEngine.Camera.RenderRequestMode.ObjectId
-  nameWithType: Camera.RenderRequestMode.ObjectId
-- uid: UnityEngine.Camera.RenderRequestMode.Occlusion
-  name: Occlusion
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.Occlusion.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.Occlusion
-  fullName: UnityEngine.Camera.RenderRequestMode.Occlusion
-  nameWithType: Camera.RenderRequestMode.Occlusion
-- uid: UnityEngine.Camera.RenderRequestMode.Smoothness
-  name: Smoothness
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.Smoothness.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.Smoothness
-  fullName: UnityEngine.Camera.RenderRequestMode.Smoothness
-  nameWithType: Camera.RenderRequestMode.Smoothness
-- uid: UnityEngine.Camera.RenderRequestMode.SpecularColor
-  name: SpecularColor
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.SpecularColor.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.SpecularColor
-  fullName: UnityEngine.Camera.RenderRequestMode.SpecularColor
-  nameWithType: Camera.RenderRequestMode.SpecularColor
-- uid: UnityEngine.Camera.RenderRequestMode.VertexNormal
-  name: VertexNormal
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.VertexNormal.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.VertexNormal
-  fullName: UnityEngine.Camera.RenderRequestMode.VertexNormal
-  nameWithType: Camera.RenderRequestMode.VertexNormal
-- uid: UnityEngine.Camera.RenderRequestMode.WorldPosition
-  name: WorldPosition
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestMode.WorldPosition.html
-  commentId: F:UnityEngine.Camera.RenderRequestMode.WorldPosition
-  fullName: UnityEngine.Camera.RenderRequestMode.WorldPosition
-  nameWithType: Camera.RenderRequestMode.WorldPosition
-- uid: UnityEngine.Camera.RenderRequestOutputSpace
-  name: Camera.RenderRequestOutputSpace
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.html
-  commentId: T:UnityEngine.Camera.RenderRequestOutputSpace
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace
-  nameWithType: Camera.RenderRequestOutputSpace
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.ScreenSpace
-  name: ScreenSpace
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.ScreenSpace.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.ScreenSpace
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.ScreenSpace
-  nameWithType: Camera.RenderRequestOutputSpace.ScreenSpace
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV0
-  name: UV0
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV0.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV0
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV0
-  nameWithType: Camera.RenderRequestOutputSpace.UV0
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV1
-  name: UV1
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV1.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV1
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV1
-  nameWithType: Camera.RenderRequestOutputSpace.UV1
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV2
-  name: UV2
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV2.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV2
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV2
-  nameWithType: Camera.RenderRequestOutputSpace.UV2
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV3
-  name: UV3
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV3.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV3
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV3
-  nameWithType: Camera.RenderRequestOutputSpace.UV3
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV4
-  name: UV4
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV4.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV4
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV4
-  nameWithType: Camera.RenderRequestOutputSpace.UV4
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV5
-  name: UV5
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV5.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV5
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV5
-  nameWithType: Camera.RenderRequestOutputSpace.UV5
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV6
-  name: UV6
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV6.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV6
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV6
-  nameWithType: Camera.RenderRequestOutputSpace.UV6
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV7
-  name: UV7
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV7.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV7
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV7
-  nameWithType: Camera.RenderRequestOutputSpace.UV7
-- uid: UnityEngine.Camera.RenderRequestOutputSpace.UV8
-  name: UV8
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderRequestOutputSpace.UV8.html
-  commentId: F:UnityEngine.Camera.RenderRequestOutputSpace.UV8
-  fullName: UnityEngine.Camera.RenderRequestOutputSpace.UV8
-  nameWithType: Camera.RenderRequestOutputSpace.UV8
 - uid: UnityEngine.Camera.RenderToCubemap(UnityEngine.Cubemap,System.Int32)
   name: RenderToCubemap
   href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.RenderToCubemap.html
@@ -120595,12 +120595,6 @@ references:
   commentId: M:UnityEngine.Camera.SubmitRenderRequest``1(``0)
   fullName: UnityEngine.Camera.SubmitRenderRequest
   nameWithType: Camera.SubmitRenderRequest<RequestData>(RequestData)
-- uid: UnityEngine.Camera.SubmitRenderRequests(System.Collections.Generic.List{UnityEngine.Camera.RenderRequest})
-  name: SubmitRenderRequests
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Camera.SubmitRenderRequests.html
-  commentId: M:UnityEngine.Camera.SubmitRenderRequests(System.Collections.Generic.List{UnityEngine.Camera.RenderRequest})
-  fullName: UnityEngine.Camera.SubmitRenderRequests
-  nameWithType: Camera.SubmitRenderRequests(List<Camera.RenderRequest>)
 - uid: UnityEngine.Camera.targetDisplay
   name: targetDisplay
   href: https://docs.unity3d.com/Documentation/ScriptReference/Camera-targetDisplay.html
@@ -133249,30 +133243,6 @@ references:
   commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_ETC2_UNorm
   fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_ETC2_UNorm
   nameWithType: GraphicsFormat.RGB_ETC2_UNorm
-- uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_2Bpp_SRGB
-  name: RGB_PVRTC_2Bpp_SRGB
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGB_PVRTC_2Bpp_SRGB.html
-  commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_2Bpp_SRGB
-  fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_2Bpp_SRGB
-  nameWithType: GraphicsFormat.RGB_PVRTC_2Bpp_SRGB
-- uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_2Bpp_UNorm
-  name: RGB_PVRTC_2Bpp_UNorm
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGB_PVRTC_2Bpp_UNorm.html
-  commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_2Bpp_UNorm
-  fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_2Bpp_UNorm
-  nameWithType: GraphicsFormat.RGB_PVRTC_2Bpp_UNorm
-- uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_4Bpp_SRGB
-  name: RGB_PVRTC_4Bpp_SRGB
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGB_PVRTC_4Bpp_SRGB.html
-  commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_4Bpp_SRGB
-  fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_4Bpp_SRGB
-  nameWithType: GraphicsFormat.RGB_PVRTC_4Bpp_SRGB
-- uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_4Bpp_UNorm
-  name: RGB_PVRTC_4Bpp_UNorm
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGB_PVRTC_4Bpp_UNorm.html
-  commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_4Bpp_UNorm
-  fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGB_PVRTC_4Bpp_UNorm
-  nameWithType: GraphicsFormat.RGB_PVRTC_4Bpp_UNorm
 - uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_ASTC10X10_SRGB
   name: RGBA_ASTC10X10_SRGB
   href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGBA_ASTC10X10_SRGB.html
@@ -133441,30 +133411,6 @@ references:
   commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_ETC2_UNorm
   fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_ETC2_UNorm
   nameWithType: GraphicsFormat.RGBA_ETC2_UNorm
-- uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_2Bpp_SRGB
-  name: RGBA_PVRTC_2Bpp_SRGB
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_2Bpp_SRGB.html
-  commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_2Bpp_SRGB
-  fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_2Bpp_SRGB
-  nameWithType: GraphicsFormat.RGBA_PVRTC_2Bpp_SRGB
-- uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_2Bpp_UNorm
-  name: RGBA_PVRTC_2Bpp_UNorm
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_2Bpp_UNorm.html
-  commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_2Bpp_UNorm
-  fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_2Bpp_UNorm
-  nameWithType: GraphicsFormat.RGBA_PVRTC_2Bpp_UNorm
-- uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_4Bpp_SRGB
-  name: RGBA_PVRTC_4Bpp_SRGB
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_4Bpp_SRGB.html
-  commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_4Bpp_SRGB
-  fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_4Bpp_SRGB
-  nameWithType: GraphicsFormat.RGBA_PVRTC_4Bpp_SRGB
-- uid: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_4Bpp_UNorm
-  name: RGBA_PVRTC_4Bpp_UNorm
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_4Bpp_UNorm.html
-  commentId: F:UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_4Bpp_UNorm
-  fullName: UnityEngine.Experimental.Rendering.GraphicsFormat.RGBA_PVRTC_4Bpp_UNorm
-  nameWithType: GraphicsFormat.RGBA_PVRTC_4Bpp_UNorm
 - uid: UnityEngine.Experimental.Rendering.GraphicsFormat.S8_UInt
   name: S8_UInt
   href: https://docs.unity3d.com/Documentation/ScriptReference/Experimental.Rendering.GraphicsFormat.S8_UInt.html
@@ -143599,6 +143545,30 @@ references:
   commentId: F:UnityEngine.InspectorSortDirection.Descending
   fullName: UnityEngine.InspectorSortDirection.Descending
   nameWithType: InspectorSortDirection.Descending
+- uid: UnityEngine.InstantiateParameters
+  name: InstantiateParameters
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters.html
+  commentId: T:UnityEngine.InstantiateParameters
+  fullName: UnityEngine.InstantiateParameters
+  nameWithType: InstantiateParameters
+- uid: UnityEngine.InstantiateParameters.parent
+  name: parent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters-parent.html
+  commentId: F:UnityEngine.InstantiateParameters.parent
+  fullName: UnityEngine.InstantiateParameters.parent
+  nameWithType: InstantiateParameters.parent
+- uid: UnityEngine.InstantiateParameters.scene
+  name: scene
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters-scene.html
+  commentId: F:UnityEngine.InstantiateParameters.scene
+  fullName: UnityEngine.InstantiateParameters.scene
+  nameWithType: InstantiateParameters.scene
+- uid: UnityEngine.InstantiateParameters.worldSpace
+  name: worldSpace
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters-worldSpace.html
+  commentId: F:UnityEngine.InstantiateParameters.worldSpace
+  fullName: UnityEngine.InstantiateParameters.worldSpace
+  nameWithType: InstantiateParameters.worldSpace
 - uid: UnityEngine.IntegratedSubsystem
   name: IntegratedSubsystem
   href: https://docs.unity3d.com/Documentation/ScriptReference/IntegratedSubsystem.html
@@ -157963,6 +157933,12 @@ references:
   commentId: M:UnityEngine.Object.Instantiate(UnityEngine.Object)
   fullName: UnityEngine.Object.Instantiate
   nameWithType: Object.Instantiate(Object)
+- uid: UnityEngine.Object.Instantiate``1(``0,UnityEngine.InstantiateParameters)
+  name: Instantiate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html
+  commentId: M:UnityEngine.Object.Instantiate``1(``0,UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.Instantiate
+  nameWithType: Object.Instantiate<T>(T, InstantiateParameters)
 - uid: UnityEngine.Object.Instantiate``1(``0,UnityEngine.Transform,System.Boolean)
   name: Instantiate
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html
@@ -157975,6 +157951,12 @@ references:
   commentId: M:UnityEngine.Object.Instantiate``1(``0,UnityEngine.Transform)
   fullName: UnityEngine.Object.Instantiate
   nameWithType: Object.Instantiate<T>(T, Transform)
+- uid: UnityEngine.Object.Instantiate``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters)
+  name: Instantiate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html
+  commentId: M:UnityEngine.Object.Instantiate``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.Instantiate
+  nameWithType: Object.Instantiate<T>(T, Vector3, Quaternion, InstantiateParameters)
 - uid: UnityEngine.Object.Instantiate``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform)
   name: Instantiate
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html
@@ -157993,12 +157975,24 @@ references:
   commentId: M:UnityEngine.Object.Instantiate``1(``0)
   fullName: UnityEngine.Object.Instantiate
   nameWithType: Object.Instantiate<T>(T)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion},UnityEngine.InstantiateParameters,CancellationToken)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion},UnityEngine.InstantiateParameters,CancellationToken)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, Int32, ReadOnlySpan<Vector3>, ReadOnlySpan<Quaternion>, InstantiateParameters, CancellationToken)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion})
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
   commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion})
   fullName: UnityEngine.Object.InstantiateAsync
   nameWithType: Object.InstantiateAsync<T>(T, Int32, ReadOnlySpan<Vector3>, ReadOnlySpan<Quaternion>)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.InstantiateParameters,CancellationToken)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.InstantiateParameters,CancellationToken)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, Int32, InstantiateParameters, CancellationToken)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Transform,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion},CancellationToken)
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
@@ -158029,6 +158023,12 @@ references:
   commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Transform)
   fullName: UnityEngine.Object.InstantiateAsync
   nameWithType: Object.InstantiateAsync<T>(T, Int32, Transform)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters,CancellationToken)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters,CancellationToken)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, Int32, Vector3, Quaternion, InstantiateParameters, CancellationToken)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion)
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
@@ -158041,6 +158041,12 @@ references:
   commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32)
   fullName: UnityEngine.Object.InstantiateAsync
   nameWithType: Object.InstantiateAsync<T>(T, Int32)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.InstantiateParameters,CancellationToken)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.InstantiateParameters,CancellationToken)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, InstantiateParameters, CancellationToken)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Transform,UnityEngine.Vector3,UnityEngine.Quaternion)
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
@@ -158053,6 +158059,12 @@ references:
   commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Transform)
   fullName: UnityEngine.Object.InstantiateAsync
   nameWithType: Object.InstantiateAsync<T>(T, Transform)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters,CancellationToken)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters,CancellationToken)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, Vector3, Quaternion, InstantiateParameters, CancellationToken)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion)
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
@@ -193657,6 +193669,18 @@ references:
   commentId: F:UnityEngine.RuntimePlatform.IPhonePlayer
   fullName: UnityEngine.RuntimePlatform.IPhonePlayer
   nameWithType: RuntimePlatform.IPhonePlayer
+- uid: UnityEngine.RuntimePlatform.KeplerArm64
+  name: KeplerArm64
+  href: https://docs.unity3d.com/Documentation/ScriptReference/RuntimePlatform.KeplerArm64.html
+  commentId: F:UnityEngine.RuntimePlatform.KeplerArm64
+  fullName: UnityEngine.RuntimePlatform.KeplerArm64
+  nameWithType: RuntimePlatform.KeplerArm64
+- uid: UnityEngine.RuntimePlatform.KeplerX64
+  name: KeplerX64
+  href: https://docs.unity3d.com/Documentation/ScriptReference/RuntimePlatform.KeplerX64.html
+  commentId: F:UnityEngine.RuntimePlatform.KeplerX64
+  fullName: UnityEngine.RuntimePlatform.KeplerX64
+  nameWithType: RuntimePlatform.KeplerX64
 - uid: UnityEngine.RuntimePlatform.LinuxEditor
   name: LinuxEditor
   href: https://docs.unity3d.com/Documentation/ScriptReference/RuntimePlatform.LinuxEditor.html
@@ -208579,30 +208603,6 @@ references:
   commentId: F:UnityEngine.TextureFormat.ETC2_RGBA8Crunched
   fullName: UnityEngine.TextureFormat.ETC2_RGBA8Crunched
   nameWithType: TextureFormat.ETC2_RGBA8Crunched
-- uid: UnityEngine.TextureFormat.PVRTC_RGB2
-  name: PVRTC_RGB2
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextureFormat.PVRTC_RGB2.html
-  commentId: F:UnityEngine.TextureFormat.PVRTC_RGB2
-  fullName: UnityEngine.TextureFormat.PVRTC_RGB2
-  nameWithType: TextureFormat.PVRTC_RGB2
-- uid: UnityEngine.TextureFormat.PVRTC_RGB4
-  name: PVRTC_RGB4
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextureFormat.PVRTC_RGB4.html
-  commentId: F:UnityEngine.TextureFormat.PVRTC_RGB4
-  fullName: UnityEngine.TextureFormat.PVRTC_RGB4
-  nameWithType: TextureFormat.PVRTC_RGB4
-- uid: UnityEngine.TextureFormat.PVRTC_RGBA2
-  name: PVRTC_RGBA2
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextureFormat.PVRTC_RGBA2.html
-  commentId: F:UnityEngine.TextureFormat.PVRTC_RGBA2
-  fullName: UnityEngine.TextureFormat.PVRTC_RGBA2
-  nameWithType: TextureFormat.PVRTC_RGBA2
-- uid: UnityEngine.TextureFormat.PVRTC_RGBA4
-  name: PVRTC_RGBA4
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextureFormat.PVRTC_RGBA4.html
-  commentId: F:UnityEngine.TextureFormat.PVRTC_RGBA4
-  fullName: UnityEngine.TextureFormat.PVRTC_RGBA4
-  nameWithType: TextureFormat.PVRTC_RGBA4
 - uid: UnityEngine.TextureFormat.R16
   name: R16
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextureFormat.R16.html
@@ -247357,6 +247357,12 @@ references:
   commentId: M:UnityEngine.XR.XRDisplaySubsystem.GetSharedDepthTextureForRenderPass(System.Int32)
   fullName: UnityEngine.XR.XRDisplaySubsystem.GetSharedDepthTextureForRenderPass
   nameWithType: XRDisplaySubsystem.GetSharedDepthTextureForRenderPass(Int32)
+- uid: UnityEngine.XR.XRDisplaySubsystem.globalDynamicScale
+  name: globalDynamicScale
+  href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem-globalDynamicScale.html
+  commentId: P:UnityEngine.XR.XRDisplaySubsystem.globalDynamicScale
+  fullName: UnityEngine.XR.XRDisplaySubsystem.globalDynamicScale
+  nameWithType: XRDisplaySubsystem.globalDynamicScale
 - uid: UnityEngine.XR.XRDisplaySubsystem.hdrOutputSettings
   name: hdrOutputSettings
   href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem-hdrOutputSettings.html
@@ -247435,6 +247441,18 @@ references:
   commentId: F:UnityEngine.XR.XRDisplaySubsystem.ReprojectionMode.Unspecified
   fullName: UnityEngine.XR.XRDisplaySubsystem.ReprojectionMode.Unspecified
   nameWithType: XRDisplaySubsystem.ReprojectionMode.Unspecified
+- uid: UnityEngine.XR.XRDisplaySubsystem.ScaledTextureHeight(UnityEngine.RenderTexture)
+  name: ScaledTextureHeight
+  href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem.ScaledTextureHeight.html
+  commentId: M:UnityEngine.XR.XRDisplaySubsystem.ScaledTextureHeight(UnityEngine.RenderTexture)
+  fullName: UnityEngine.XR.XRDisplaySubsystem.ScaledTextureHeight
+  nameWithType: XRDisplaySubsystem.ScaledTextureHeight(RenderTexture)
+- uid: UnityEngine.XR.XRDisplaySubsystem.ScaledTextureWidth(UnityEngine.RenderTexture)
+  name: ScaledTextureWidth
+  href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem.ScaledTextureWidth.html
+  commentId: M:UnityEngine.XR.XRDisplaySubsystem.ScaledTextureWidth(UnityEngine.RenderTexture)
+  fullName: UnityEngine.XR.XRDisplaySubsystem.ScaledTextureWidth
+  nameWithType: XRDisplaySubsystem.ScaledTextureWidth(RenderTexture)
 - uid: UnityEngine.XR.XRDisplaySubsystem.scaleOfAllRenderTargets
   name: scaleOfAllRenderTargets
   href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem-scaleOfAllRenderTargets.html
@@ -247747,6 +247765,18 @@ references:
   commentId: F:UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.renderTargetDesc
   fullName: UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.renderTargetDesc
   nameWithType: XRDisplaySubsystem.XRRenderPass.renderTargetDesc
+- uid: UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.renderTargetScaledHeight
+  name: renderTargetScaledHeight
+  href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem.XRRenderPass-renderTargetScaledHeight.html
+  commentId: F:UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.renderTargetScaledHeight
+  fullName: UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.renderTargetScaledHeight
+  nameWithType: XRDisplaySubsystem.XRRenderPass.renderTargetScaledHeight
+- uid: UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.renderTargetScaledWidth
+  name: renderTargetScaledWidth
+  href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem.XRRenderPass-renderTargetScaledWidth.html
+  commentId: F:UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.renderTargetScaledWidth
+  fullName: UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.renderTargetScaledWidth
+  nameWithType: XRDisplaySubsystem.XRRenderPass.renderTargetScaledWidth
 - uid: UnityEngine.XR.XRDisplaySubsystem.XRRenderPass.shouldFillOutDepth
   name: shouldFillOutDepth
   href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem.XRRenderPass-shouldFillOutDepth.html

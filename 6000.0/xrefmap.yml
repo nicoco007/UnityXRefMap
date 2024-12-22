@@ -226921,6 +226921,12 @@ references:
   commentId: M:UnityEngine.UIElements.RuntimePanelUtils.ResetDynamicAtlas(UnityEngine.UIElements.IPanel)
   fullName: UnityEngine.UIElements.RuntimePanelUtils.ResetDynamicAtlas
   nameWithType: RuntimePanelUtils.ResetDynamicAtlas(IPanel)
+- uid: UnityEngine.UIElements.RuntimePanelUtils.ResetRenderer(UnityEngine.UIElements.IPanel)
+  name: ResetRenderer
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.RuntimePanelUtils.ResetRenderer.html
+  commentId: M:UnityEngine.UIElements.RuntimePanelUtils.ResetRenderer(UnityEngine.UIElements.IPanel)
+  fullName: UnityEngine.UIElements.RuntimePanelUtils.ResetRenderer
+  nameWithType: RuntimePanelUtils.ResetRenderer(IPanel)
 - uid: UnityEngine.UIElements.RuntimePanelUtils.ScreenToPanel(UnityEngine.UIElements.IPanel,UnityEngine.Vector2)
   name: ScreenToPanel
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.RuntimePanelUtils.ScreenToPanel.html
