@@ -17287,6 +17287,12 @@ references:
   commentId: F:UnityEditor.BuildAssetBundleOptions.StrictMode
   fullName: UnityEditor.BuildAssetBundleOptions.StrictMode
   nameWithType: BuildAssetBundleOptions.StrictMode
+- uid: UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  name: StripUnatlasedSpriteCopies
+  href: https://docs.unity3d.com/Documentation/ScriptReference/BuildAssetBundleOptions.StripUnatlasedSpriteCopies.html
+  commentId: F:UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  fullName: UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  nameWithType: BuildAssetBundleOptions.StripUnatlasedSpriteCopies
 - uid: UnityEditor.BuildAssetBundleOptions.UncompressedAssetBundle
   name: UncompressedAssetBundle
   href: https://docs.unity3d.com/Documentation/ScriptReference/BuildAssetBundleOptions.UncompressedAssetBundle.html
@@ -133843,6 +133849,30 @@ references:
   commentId: F:UnityEngine.InspectorSortDirection.Descending
   fullName: UnityEngine.InspectorSortDirection.Descending
   nameWithType: InspectorSortDirection.Descending
+- uid: UnityEngine.InstantiateParameters
+  name: InstantiateParameters
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters.html
+  commentId: T:UnityEngine.InstantiateParameters
+  fullName: UnityEngine.InstantiateParameters
+  nameWithType: InstantiateParameters
+- uid: UnityEngine.InstantiateParameters.parent
+  name: parent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters-parent.html
+  commentId: F:UnityEngine.InstantiateParameters.parent
+  fullName: UnityEngine.InstantiateParameters.parent
+  nameWithType: InstantiateParameters.parent
+- uid: UnityEngine.InstantiateParameters.scene
+  name: scene
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters-scene.html
+  commentId: F:UnityEngine.InstantiateParameters.scene
+  fullName: UnityEngine.InstantiateParameters.scene
+  nameWithType: InstantiateParameters.scene
+- uid: UnityEngine.InstantiateParameters.worldSpace
+  name: worldSpace
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters-worldSpace.html
+  commentId: F:UnityEngine.InstantiateParameters.worldSpace
+  fullName: UnityEngine.InstantiateParameters.worldSpace
+  nameWithType: InstantiateParameters.worldSpace
 - uid: UnityEngine.IntegratedSubsystem
   name: IntegratedSubsystem
   href: https://docs.unity3d.com/Documentation/ScriptReference/IntegratedSubsystem.html
@@ -146713,6 +146743,12 @@ references:
   commentId: M:UnityEngine.Object.Instantiate(UnityEngine.Object)
   fullName: UnityEngine.Object.Instantiate
   nameWithType: Object.Instantiate(Object)
+- uid: UnityEngine.Object.Instantiate``1(``0,UnityEngine.InstantiateParameters)
+  name: Instantiate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html
+  commentId: M:UnityEngine.Object.Instantiate``1(``0,UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.Instantiate
+  nameWithType: Object.Instantiate<T>(T, InstantiateParameters)
 - uid: UnityEngine.Object.Instantiate``1(``0,UnityEngine.Transform,System.Boolean)
   name: Instantiate
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html
@@ -146725,6 +146761,12 @@ references:
   commentId: M:UnityEngine.Object.Instantiate``1(``0,UnityEngine.Transform)
   fullName: UnityEngine.Object.Instantiate
   nameWithType: Object.Instantiate<T>(T, Transform)
+- uid: UnityEngine.Object.Instantiate``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters)
+  name: Instantiate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html
+  commentId: M:UnityEngine.Object.Instantiate``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.Instantiate
+  nameWithType: Object.Instantiate<T>(T, Vector3, Quaternion, InstantiateParameters)
 - uid: UnityEngine.Object.Instantiate``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Transform)
   name: Instantiate
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.Instantiate.html
@@ -146743,12 +146785,24 @@ references:
   commentId: M:UnityEngine.Object.Instantiate``1(``0)
   fullName: UnityEngine.Object.Instantiate
   nameWithType: Object.Instantiate<T>(T)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion},UnityEngine.InstantiateParameters)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion},UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, Int32, ReadOnlySpan<Vector3>, ReadOnlySpan<Quaternion>, InstantiateParameters)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion})
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
   commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion})
   fullName: UnityEngine.Object.InstantiateAsync
   nameWithType: Object.InstantiateAsync<T>(T, Int32, ReadOnlySpan<Vector3>, ReadOnlySpan<Quaternion>)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.InstantiateParameters)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, Int32, InstantiateParameters)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Transform,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Quaternion})
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
@@ -146767,6 +146821,12 @@ references:
   commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Transform)
   fullName: UnityEngine.Object.InstantiateAsync
   nameWithType: Object.InstantiateAsync<T>(T, Int32, Transform)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, Int32, Vector3, Quaternion, InstantiateParameters)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion)
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
@@ -146779,6 +146839,12 @@ references:
   commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,System.Int32)
   fullName: UnityEngine.Object.InstantiateAsync
   nameWithType: Object.InstantiateAsync<T>(T, Int32)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.InstantiateParameters)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, InstantiateParameters)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Transform,UnityEngine.Vector3,UnityEngine.Quaternion)
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
@@ -146791,6 +146857,12 @@ references:
   commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Transform)
   fullName: UnityEngine.Object.InstantiateAsync
   nameWithType: Object.InstantiateAsync<T>(T, Transform)
+- uid: UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters)
+  name: InstantiateAsync
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html
+  commentId: M:UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.InstantiateParameters)
+  fullName: UnityEngine.Object.InstantiateAsync
+  nameWithType: Object.InstantiateAsync<T>(T, Vector3, Quaternion, InstantiateParameters)
 - uid: UnityEngine.Object.InstantiateAsync``1(``0,UnityEngine.Vector3,UnityEngine.Quaternion)
   name: InstantiateAsync
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.InstantiateAsync.html

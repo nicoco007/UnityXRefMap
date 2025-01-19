@@ -42271,6 +42271,12 @@ references:
   commentId: M:UnityEditor.Handles.RectangleHandleCap(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,System.Single,UnityEngine.EventType)
   fullName: UnityEditor.Handles.RectangleHandleCap
   nameWithType: Handles.RectangleHandleCap(Int32, Vector3, Quaternion, Single, EventType)
+- uid: UnityEditor.Handles.RectangleHandleCap(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Vector2,UnityEngine.EventType)
+  name: RectangleHandleCap
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Handles.RectangleHandleCap.html
+  commentId: M:UnityEditor.Handles.RectangleHandleCap(System.Int32,UnityEngine.Vector3,UnityEngine.Quaternion,UnityEngine.Vector2,UnityEngine.EventType)
+  fullName: UnityEditor.Handles.RectangleHandleCap
+  nameWithType: Handles.RectangleHandleCap(Int32, Vector3, Quaternion, Vector2, EventType)
 - uid: UnityEditor.Handles.RotationHandle(UnityEditor.Handles.RotationHandleIds,UnityEngine.Quaternion,UnityEngine.Vector3)
   name: RotationHandle
   href: https://docs.unity3d.com/Documentation/ScriptReference/Handles.RotationHandle.html
@@ -63667,6 +63673,12 @@ references:
   commentId: M:UnityEditor.PrefabUtility.LoadPrefabContents(System.String)
   fullName: UnityEditor.PrefabUtility.LoadPrefabContents
   nameWithType: PrefabUtility.LoadPrefabContents(String)
+- uid: UnityEditor.PrefabUtility.LoadPrefabContentsIntoPreviewScene(System.String,UnityEngine.SceneManagement.Scene,UnityEngine.GameObject@)
+  name: LoadPrefabContentsIntoPreviewScene
+  href: https://docs.unity3d.com/Documentation/ScriptReference/PrefabUtility.LoadPrefabContentsIntoPreviewScene.html
+  commentId: M:UnityEditor.PrefabUtility.LoadPrefabContentsIntoPreviewScene(System.String,UnityEngine.SceneManagement.Scene,UnityEngine.GameObject@)
+  fullName: UnityEditor.PrefabUtility.LoadPrefabContentsIntoPreviewScene
+  nameWithType: PrefabUtility.LoadPrefabContentsIntoPreviewScene(String, Scene, out GameObject)
 - uid: UnityEditor.PrefabUtility.LoadPrefabContentsIntoPreviewScene(System.String,UnityEngine.SceneManagement.Scene)
   name: LoadPrefabContentsIntoPreviewScene
   href: https://docs.unity3d.com/Documentation/ScriptReference/PrefabUtility.LoadPrefabContentsIntoPreviewScene.html
@@ -217537,6 +217549,18 @@ references:
   commentId: T:UnityEngine.UIElements.ContextClickEvent
   fullName: UnityEngine.UIElements.ContextClickEvent
   nameWithType: ContextClickEvent
+- uid: UnityEngine.UIElements.ContextClickEvent.#ctor
+  name: ContextClickEvent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.ContextClickEvent.ContextClickEvent.html
+  commentId: M:UnityEngine.UIElements.ContextClickEvent.#ctor
+  fullName: UnityEngine.UIElements.ContextClickEvent.ContextClickEvent
+  nameWithType: ContextClickEvent.ContextClickEvent()
+- uid: UnityEngine.UIElements.ContextClickEvent.Init
+  name: Init
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.ContextClickEvent.Init.html
+  commentId: M:UnityEngine.UIElements.ContextClickEvent.Init
+  fullName: UnityEngine.UIElements.ContextClickEvent.Init
+  nameWithType: ContextClickEvent.Init()
 - uid: UnityEngine.UIElements.ContextType
   name: ContextType
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.ContextType.html
@@ -218485,12 +218509,6 @@ references:
   commentId: M:UnityEngine.UIElements.DragExitedEvent.Init
   fullName: UnityEngine.UIElements.DragExitedEvent.Init
   nameWithType: DragExitedEvent.Init()
-- uid: UnityEngine.UIElements.DragExitedEvent.PostDispatch(UnityEngine.UIElements.IPanel)
-  name: PostDispatch
-  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragExitedEvent.PostDispatch.html
-  commentId: M:UnityEngine.UIElements.DragExitedEvent.PostDispatch(UnityEngine.UIElements.IPanel)
-  fullName: UnityEngine.UIElements.DragExitedEvent.PostDispatch
-  nameWithType: DragExitedEvent.PostDispatch(IPanel)
 - uid: UnityEngine.UIElements.DragLeaveEvent
   name: DragLeaveEvent
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragLeaveEvent.html
@@ -218515,24 +218533,42 @@ references:
   commentId: T:UnityEngine.UIElements.DragPerformEvent
   fullName: UnityEngine.UIElements.DragPerformEvent
   nameWithType: DragPerformEvent
+- uid: UnityEngine.UIElements.DragPerformEvent.#ctor
+  name: DragPerformEvent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragPerformEvent.DragPerformEvent.html
+  commentId: M:UnityEngine.UIElements.DragPerformEvent.#ctor
+  fullName: UnityEngine.UIElements.DragPerformEvent.DragPerformEvent
+  nameWithType: DragPerformEvent.DragPerformEvent()
+- uid: UnityEngine.UIElements.DragPerformEvent.Init
+  name: Init
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragPerformEvent.Init.html
+  commentId: M:UnityEngine.UIElements.DragPerformEvent.Init
+  fullName: UnityEngine.UIElements.DragPerformEvent.Init
+  nameWithType: DragPerformEvent.Init()
 - uid: UnityEngine.UIElements.DragUpdatedEvent
   name: DragUpdatedEvent
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragUpdatedEvent.html
   commentId: T:UnityEngine.UIElements.DragUpdatedEvent
   fullName: UnityEngine.UIElements.DragUpdatedEvent
   nameWithType: DragUpdatedEvent
+- uid: UnityEngine.UIElements.DragUpdatedEvent.#ctor
+  name: DragUpdatedEvent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragUpdatedEvent.DragUpdatedEvent.html
+  commentId: M:UnityEngine.UIElements.DragUpdatedEvent.#ctor
+  fullName: UnityEngine.UIElements.DragUpdatedEvent.DragUpdatedEvent
+  nameWithType: DragUpdatedEvent.DragUpdatedEvent()
 - uid: UnityEngine.UIElements.DragUpdatedEvent.GetPooled(UnityEngine.Event)
   name: GetPooled
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragUpdatedEvent.GetPooled.html
   commentId: M:UnityEngine.UIElements.DragUpdatedEvent.GetPooled(UnityEngine.Event)
   fullName: UnityEngine.UIElements.DragUpdatedEvent.GetPooled
   nameWithType: DragUpdatedEvent.GetPooled(Event)
-- uid: UnityEngine.UIElements.DragUpdatedEvent.PostDispatch(UnityEngine.UIElements.IPanel)
-  name: PostDispatch
-  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragUpdatedEvent.PostDispatch.html
-  commentId: M:UnityEngine.UIElements.DragUpdatedEvent.PostDispatch(UnityEngine.UIElements.IPanel)
-  fullName: UnityEngine.UIElements.DragUpdatedEvent.PostDispatch
-  nameWithType: DragUpdatedEvent.PostDispatch(IPanel)
+- uid: UnityEngine.UIElements.DragUpdatedEvent.Init
+  name: Init
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragUpdatedEvent.Init.html
+  commentId: M:UnityEngine.UIElements.DragUpdatedEvent.Init
+  fullName: UnityEngine.UIElements.DragUpdatedEvent.Init
+  nameWithType: DragUpdatedEvent.Init()
 - uid: UnityEngine.UIElements.DragVisualMode
   name: DragVisualMode
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DragVisualMode.html
@@ -225493,12 +225529,6 @@ references:
   commentId: M:UnityEngine.UIElements.MouseEnterWindowEvent.Init
   fullName: UnityEngine.UIElements.MouseEnterWindowEvent.Init
   nameWithType: MouseEnterWindowEvent.Init()
-- uid: UnityEngine.UIElements.MouseEnterWindowEvent.PostDispatch(UnityEngine.UIElements.IPanel)
-  name: PostDispatch
-  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MouseEnterWindowEvent.PostDispatch.html
-  commentId: M:UnityEngine.UIElements.MouseEnterWindowEvent.PostDispatch(UnityEngine.UIElements.IPanel)
-  fullName: UnityEngine.UIElements.MouseEnterWindowEvent.PostDispatch
-  nameWithType: MouseEnterWindowEvent.PostDispatch(IPanel)
 - uid: UnityEngine.UIElements.MouseEventBase`1
   name: MouseEventBase
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MouseEventBase.html
