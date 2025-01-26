@@ -123325,36 +123325,264 @@ references:
   commentId: F:UnityEngine.Color.a
   fullName: UnityEngine.Color.a
   nameWithType: Color.a
+- uid: UnityEngine.Color.aliceBlue
+  name: aliceBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-aliceBlue.html
+  commentId: P:UnityEngine.Color.aliceBlue
+  fullName: UnityEngine.Color.aliceBlue
+  nameWithType: Color.aliceBlue
+- uid: UnityEngine.Color.antiqueWhite
+  name: antiqueWhite
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-antiqueWhite.html
+  commentId: P:UnityEngine.Color.antiqueWhite
+  fullName: UnityEngine.Color.antiqueWhite
+  nameWithType: Color.antiqueWhite
+- uid: UnityEngine.Color.aquamarine
+  name: aquamarine
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-aquamarine.html
+  commentId: P:UnityEngine.Color.aquamarine
+  fullName: UnityEngine.Color.aquamarine
+  nameWithType: Color.aquamarine
+- uid: UnityEngine.Color.azure
+  name: azure
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-azure.html
+  commentId: P:UnityEngine.Color.azure
+  fullName: UnityEngine.Color.azure
+  nameWithType: Color.azure
 - uid: UnityEngine.Color.b
   name: b
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-b.html
   commentId: F:UnityEngine.Color.b
   fullName: UnityEngine.Color.b
   nameWithType: Color.b
+- uid: UnityEngine.Color.beige
+  name: beige
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-beige.html
+  commentId: P:UnityEngine.Color.beige
+  fullName: UnityEngine.Color.beige
+  nameWithType: Color.beige
+- uid: UnityEngine.Color.bisque
+  name: bisque
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-bisque.html
+  commentId: P:UnityEngine.Color.bisque
+  fullName: UnityEngine.Color.bisque
+  nameWithType: Color.bisque
 - uid: UnityEngine.Color.black
   name: black
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-black.html
   commentId: P:UnityEngine.Color.black
   fullName: UnityEngine.Color.black
   nameWithType: Color.black
+- uid: UnityEngine.Color.blanchedAlmond
+  name: blanchedAlmond
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-blanchedAlmond.html
+  commentId: P:UnityEngine.Color.blanchedAlmond
+  fullName: UnityEngine.Color.blanchedAlmond
+  nameWithType: Color.blanchedAlmond
 - uid: UnityEngine.Color.blue
   name: blue
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-blue.html
   commentId: P:UnityEngine.Color.blue
   fullName: UnityEngine.Color.blue
   nameWithType: Color.blue
+- uid: UnityEngine.Color.blueViolet
+  name: blueViolet
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-blueViolet.html
+  commentId: P:UnityEngine.Color.blueViolet
+  fullName: UnityEngine.Color.blueViolet
+  nameWithType: Color.blueViolet
+- uid: UnityEngine.Color.brown
+  name: brown
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-brown.html
+  commentId: P:UnityEngine.Color.brown
+  fullName: UnityEngine.Color.brown
+  nameWithType: Color.brown
+- uid: UnityEngine.Color.burlywood
+  name: burlywood
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-burlywood.html
+  commentId: P:UnityEngine.Color.burlywood
+  fullName: UnityEngine.Color.burlywood
+  nameWithType: Color.burlywood
+- uid: UnityEngine.Color.cadetBlue
+  name: cadetBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-cadetBlue.html
+  commentId: P:UnityEngine.Color.cadetBlue
+  fullName: UnityEngine.Color.cadetBlue
+  nameWithType: Color.cadetBlue
+- uid: UnityEngine.Color.chartreuse
+  name: chartreuse
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-chartreuse.html
+  commentId: P:UnityEngine.Color.chartreuse
+  fullName: UnityEngine.Color.chartreuse
+  nameWithType: Color.chartreuse
+- uid: UnityEngine.Color.chocolate
+  name: chocolate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-chocolate.html
+  commentId: P:UnityEngine.Color.chocolate
+  fullName: UnityEngine.Color.chocolate
+  nameWithType: Color.chocolate
 - uid: UnityEngine.Color.clear
   name: clear
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-clear.html
   commentId: P:UnityEngine.Color.clear
   fullName: UnityEngine.Color.clear
   nameWithType: Color.clear
+- uid: UnityEngine.Color.coral
+  name: coral
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-coral.html
+  commentId: P:UnityEngine.Color.coral
+  fullName: UnityEngine.Color.coral
+  nameWithType: Color.coral
+- uid: UnityEngine.Color.cornflowerBlue
+  name: cornflowerBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-cornflowerBlue.html
+  commentId: P:UnityEngine.Color.cornflowerBlue
+  fullName: UnityEngine.Color.cornflowerBlue
+  nameWithType: Color.cornflowerBlue
+- uid: UnityEngine.Color.cornsilk
+  name: cornsilk
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-cornsilk.html
+  commentId: P:UnityEngine.Color.cornsilk
+  fullName: UnityEngine.Color.cornsilk
+  nameWithType: Color.cornsilk
+- uid: UnityEngine.Color.crimson
+  name: crimson
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-crimson.html
+  commentId: P:UnityEngine.Color.crimson
+  fullName: UnityEngine.Color.crimson
+  nameWithType: Color.crimson
 - uid: UnityEngine.Color.cyan
   name: cyan
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-cyan.html
   commentId: P:UnityEngine.Color.cyan
   fullName: UnityEngine.Color.cyan
   nameWithType: Color.cyan
+- uid: UnityEngine.Color.darkBlue
+  name: darkBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkBlue.html
+  commentId: P:UnityEngine.Color.darkBlue
+  fullName: UnityEngine.Color.darkBlue
+  nameWithType: Color.darkBlue
+- uid: UnityEngine.Color.darkCyan
+  name: darkCyan
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkCyan.html
+  commentId: P:UnityEngine.Color.darkCyan
+  fullName: UnityEngine.Color.darkCyan
+  nameWithType: Color.darkCyan
+- uid: UnityEngine.Color.darkGoldenRod
+  name: darkGoldenRod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkGoldenRod.html
+  commentId: P:UnityEngine.Color.darkGoldenRod
+  fullName: UnityEngine.Color.darkGoldenRod
+  nameWithType: Color.darkGoldenRod
+- uid: UnityEngine.Color.darkGray
+  name: darkGray
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkGray.html
+  commentId: P:UnityEngine.Color.darkGray
+  fullName: UnityEngine.Color.darkGray
+  nameWithType: Color.darkGray
+- uid: UnityEngine.Color.darkGreen
+  name: darkGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkGreen.html
+  commentId: P:UnityEngine.Color.darkGreen
+  fullName: UnityEngine.Color.darkGreen
+  nameWithType: Color.darkGreen
+- uid: UnityEngine.Color.darkKhaki
+  name: darkKhaki
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkKhaki.html
+  commentId: P:UnityEngine.Color.darkKhaki
+  fullName: UnityEngine.Color.darkKhaki
+  nameWithType: Color.darkKhaki
+- uid: UnityEngine.Color.darkMagenta
+  name: darkMagenta
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkMagenta.html
+  commentId: P:UnityEngine.Color.darkMagenta
+  fullName: UnityEngine.Color.darkMagenta
+  nameWithType: Color.darkMagenta
+- uid: UnityEngine.Color.darkOliveGreen
+  name: darkOliveGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkOliveGreen.html
+  commentId: P:UnityEngine.Color.darkOliveGreen
+  fullName: UnityEngine.Color.darkOliveGreen
+  nameWithType: Color.darkOliveGreen
+- uid: UnityEngine.Color.darkOrange
+  name: darkOrange
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkOrange.html
+  commentId: P:UnityEngine.Color.darkOrange
+  fullName: UnityEngine.Color.darkOrange
+  nameWithType: Color.darkOrange
+- uid: UnityEngine.Color.darkOrchid
+  name: darkOrchid
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkOrchid.html
+  commentId: P:UnityEngine.Color.darkOrchid
+  fullName: UnityEngine.Color.darkOrchid
+  nameWithType: Color.darkOrchid
+- uid: UnityEngine.Color.darkRed
+  name: darkRed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkRed.html
+  commentId: P:UnityEngine.Color.darkRed
+  fullName: UnityEngine.Color.darkRed
+  nameWithType: Color.darkRed
+- uid: UnityEngine.Color.darkSalmon
+  name: darkSalmon
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkSalmon.html
+  commentId: P:UnityEngine.Color.darkSalmon
+  fullName: UnityEngine.Color.darkSalmon
+  nameWithType: Color.darkSalmon
+- uid: UnityEngine.Color.darkSeaGreen
+  name: darkSeaGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkSeaGreen.html
+  commentId: P:UnityEngine.Color.darkSeaGreen
+  fullName: UnityEngine.Color.darkSeaGreen
+  nameWithType: Color.darkSeaGreen
+- uid: UnityEngine.Color.darkSlateBlue
+  name: darkSlateBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkSlateBlue.html
+  commentId: P:UnityEngine.Color.darkSlateBlue
+  fullName: UnityEngine.Color.darkSlateBlue
+  nameWithType: Color.darkSlateBlue
+- uid: UnityEngine.Color.darkSlateGray
+  name: darkSlateGray
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkSlateGray.html
+  commentId: P:UnityEngine.Color.darkSlateGray
+  fullName: UnityEngine.Color.darkSlateGray
+  nameWithType: Color.darkSlateGray
+- uid: UnityEngine.Color.darkTurquoise
+  name: darkTurquoise
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkTurquoise.html
+  commentId: P:UnityEngine.Color.darkTurquoise
+  fullName: UnityEngine.Color.darkTurquoise
+  nameWithType: Color.darkTurquoise
+- uid: UnityEngine.Color.darkViolet
+  name: darkViolet
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-darkViolet.html
+  commentId: P:UnityEngine.Color.darkViolet
+  fullName: UnityEngine.Color.darkViolet
+  nameWithType: Color.darkViolet
+- uid: UnityEngine.Color.deepPink
+  name: deepPink
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-deepPink.html
+  commentId: P:UnityEngine.Color.deepPink
+  fullName: UnityEngine.Color.deepPink
+  nameWithType: Color.deepPink
+- uid: UnityEngine.Color.deepSkyBlue
+  name: deepSkyBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-deepSkyBlue.html
+  commentId: P:UnityEngine.Color.deepSkyBlue
+  fullName: UnityEngine.Color.deepSkyBlue
+  nameWithType: Color.deepSkyBlue
+- uid: UnityEngine.Color.dimGray
+  name: dimGray
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-dimGray.html
+  commentId: P:UnityEngine.Color.dimGray
+  fullName: UnityEngine.Color.dimGray
+  nameWithType: Color.dimGray
+- uid: UnityEngine.Color.dodgerBlue
+  name: dodgerBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-dodgerBlue.html
+  commentId: P:UnityEngine.Color.dodgerBlue
+  fullName: UnityEngine.Color.dodgerBlue
+  nameWithType: Color.dodgerBlue
 - uid: UnityEngine.Color.Equals(System.Object)
   name: Equals
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color.Equals.html
@@ -123367,12 +123595,36 @@ references:
   commentId: M:UnityEngine.Color.Equals(UnityEngine.Color)
   fullName: UnityEngine.Color.Equals
   nameWithType: Color.Equals(Color)
+- uid: UnityEngine.Color.firebrick
+  name: firebrick
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-firebrick.html
+  commentId: P:UnityEngine.Color.firebrick
+  fullName: UnityEngine.Color.firebrick
+  nameWithType: Color.firebrick
+- uid: UnityEngine.Color.floralWhite
+  name: floralWhite
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-floralWhite.html
+  commentId: P:UnityEngine.Color.floralWhite
+  fullName: UnityEngine.Color.floralWhite
+  nameWithType: Color.floralWhite
+- uid: UnityEngine.Color.forestGreen
+  name: forestGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-forestGreen.html
+  commentId: P:UnityEngine.Color.forestGreen
+  fullName: UnityEngine.Color.forestGreen
+  nameWithType: Color.forestGreen
 - uid: UnityEngine.Color.g
   name: g
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-g.html
   commentId: F:UnityEngine.Color.g
   fullName: UnityEngine.Color.g
   nameWithType: Color.g
+- uid: UnityEngine.Color.gainsboro
+  name: gainsboro
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gainsboro.html
+  commentId: P:UnityEngine.Color.gainsboro
+  fullName: UnityEngine.Color.gainsboro
+  nameWithType: Color.gainsboro
 - uid: UnityEngine.Color.gamma
   name: gamma
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gamma.html
@@ -123385,12 +123637,84 @@ references:
   commentId: M:UnityEngine.Color.GetHashCode
   fullName: UnityEngine.Color.GetHashCode
   nameWithType: Color.GetHashCode()
+- uid: UnityEngine.Color.ghostWhite
+  name: ghostWhite
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-ghostWhite.html
+  commentId: P:UnityEngine.Color.ghostWhite
+  fullName: UnityEngine.Color.ghostWhite
+  nameWithType: Color.ghostWhite
+- uid: UnityEngine.Color.gold
+  name: gold
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gold.html
+  commentId: P:UnityEngine.Color.gold
+  fullName: UnityEngine.Color.gold
+  nameWithType: Color.gold
+- uid: UnityEngine.Color.goldenRod
+  name: goldenRod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-goldenRod.html
+  commentId: P:UnityEngine.Color.goldenRod
+  fullName: UnityEngine.Color.goldenRod
+  nameWithType: Color.goldenRod
 - uid: UnityEngine.Color.gray
   name: gray
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray.html
   commentId: P:UnityEngine.Color.gray
   fullName: UnityEngine.Color.gray
   nameWithType: Color.gray
+- uid: UnityEngine.Color.gray1
+  name: gray1
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray1.html
+  commentId: P:UnityEngine.Color.gray1
+  fullName: UnityEngine.Color.gray1
+  nameWithType: Color.gray1
+- uid: UnityEngine.Color.gray2
+  name: gray2
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray2.html
+  commentId: P:UnityEngine.Color.gray2
+  fullName: UnityEngine.Color.gray2
+  nameWithType: Color.gray2
+- uid: UnityEngine.Color.gray3
+  name: gray3
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray3.html
+  commentId: P:UnityEngine.Color.gray3
+  fullName: UnityEngine.Color.gray3
+  nameWithType: Color.gray3
+- uid: UnityEngine.Color.gray4
+  name: gray4
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray4.html
+  commentId: P:UnityEngine.Color.gray4
+  fullName: UnityEngine.Color.gray4
+  nameWithType: Color.gray4
+- uid: UnityEngine.Color.gray5
+  name: gray5
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray5.html
+  commentId: P:UnityEngine.Color.gray5
+  fullName: UnityEngine.Color.gray5
+  nameWithType: Color.gray5
+- uid: UnityEngine.Color.gray6
+  name: gray6
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray6.html
+  commentId: P:UnityEngine.Color.gray6
+  fullName: UnityEngine.Color.gray6
+  nameWithType: Color.gray6
+- uid: UnityEngine.Color.gray7
+  name: gray7
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray7.html
+  commentId: P:UnityEngine.Color.gray7
+  fullName: UnityEngine.Color.gray7
+  nameWithType: Color.gray7
+- uid: UnityEngine.Color.gray8
+  name: gray8
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray8.html
+  commentId: P:UnityEngine.Color.gray8
+  fullName: UnityEngine.Color.gray8
+  nameWithType: Color.gray8
+- uid: UnityEngine.Color.gray9
+  name: gray9
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-gray9.html
+  commentId: P:UnityEngine.Color.gray9
+  fullName: UnityEngine.Color.gray9
+  nameWithType: Color.gray9
 - uid: UnityEngine.Color.grayscale
   name: grayscale
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-grayscale.html
@@ -123403,12 +123727,30 @@ references:
   commentId: P:UnityEngine.Color.green
   fullName: UnityEngine.Color.green
   nameWithType: Color.green
+- uid: UnityEngine.Color.greenYellow
+  name: greenYellow
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-greenYellow.html
+  commentId: P:UnityEngine.Color.greenYellow
+  fullName: UnityEngine.Color.greenYellow
+  nameWithType: Color.greenYellow
 - uid: UnityEngine.Color.grey
   name: grey
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-grey.html
   commentId: P:UnityEngine.Color.grey
   fullName: UnityEngine.Color.grey
   nameWithType: Color.grey
+- uid: UnityEngine.Color.honeydew
+  name: honeydew
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-honeydew.html
+  commentId: P:UnityEngine.Color.honeydew
+  fullName: UnityEngine.Color.honeydew
+  nameWithType: Color.honeydew
+- uid: UnityEngine.Color.hotPink
+  name: hotPink
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-hotPink.html
+  commentId: P:UnityEngine.Color.hotPink
+  fullName: UnityEngine.Color.hotPink
+  nameWithType: Color.hotPink
 - uid: UnityEngine.Color.HSVToRGB(System.Single,System.Single,System.Single,System.Boolean)
   name: HSVToRGB
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color.HSVToRGB.html
@@ -123421,12 +123763,60 @@ references:
   commentId: M:UnityEngine.Color.HSVToRGB(System.Single,System.Single,System.Single)
   fullName: UnityEngine.Color.HSVToRGB
   nameWithType: Color.HSVToRGB(Single, Single, Single)
+- uid: UnityEngine.Color.indianRed
+  name: indianRed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-indianRed.html
+  commentId: P:UnityEngine.Color.indianRed
+  fullName: UnityEngine.Color.indianRed
+  nameWithType: Color.indianRed
+- uid: UnityEngine.Color.indigo
+  name: indigo
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-indigo.html
+  commentId: P:UnityEngine.Color.indigo
+  fullName: UnityEngine.Color.indigo
+  nameWithType: Color.indigo
 - uid: UnityEngine.Color.Item(System.Int32)
   name: Item[Int32]
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color.Item[Int32].html
   commentId: P:UnityEngine.Color.Item(System.Int32)
   fullName: UnityEngine.Color.Item[System.Int32]
   nameWithType: Color.Item[Int32]
+- uid: UnityEngine.Color.ivory
+  name: ivory
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-ivory.html
+  commentId: P:UnityEngine.Color.ivory
+  fullName: UnityEngine.Color.ivory
+  nameWithType: Color.ivory
+- uid: UnityEngine.Color.khaki
+  name: khaki
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-khaki.html
+  commentId: P:UnityEngine.Color.khaki
+  fullName: UnityEngine.Color.khaki
+  nameWithType: Color.khaki
+- uid: UnityEngine.Color.lavender
+  name: lavender
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lavender.html
+  commentId: P:UnityEngine.Color.lavender
+  fullName: UnityEngine.Color.lavender
+  nameWithType: Color.lavender
+- uid: UnityEngine.Color.lavenderBlush
+  name: lavenderBlush
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lavenderBlush.html
+  commentId: P:UnityEngine.Color.lavenderBlush
+  fullName: UnityEngine.Color.lavenderBlush
+  nameWithType: Color.lavenderBlush
+- uid: UnityEngine.Color.lawnGreen
+  name: lawnGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lawnGreen.html
+  commentId: P:UnityEngine.Color.lawnGreen
+  fullName: UnityEngine.Color.lawnGreen
+  nameWithType: Color.lawnGreen
+- uid: UnityEngine.Color.lemonChiffon
+  name: lemonChiffon
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lemonChiffon.html
+  commentId: P:UnityEngine.Color.lemonChiffon
+  fullName: UnityEngine.Color.lemonChiffon
+  nameWithType: Color.lemonChiffon
 - uid: UnityEngine.Color.Lerp(UnityEngine.Color,UnityEngine.Color,System.Single)
   name: Lerp
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color.Lerp.html
@@ -123439,24 +123829,240 @@ references:
   commentId: M:UnityEngine.Color.LerpUnclamped(UnityEngine.Color,UnityEngine.Color,System.Single)
   fullName: UnityEngine.Color.LerpUnclamped
   nameWithType: Color.LerpUnclamped(Color, Color, Single)
+- uid: UnityEngine.Color.lightBlue
+  name: lightBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightBlue.html
+  commentId: P:UnityEngine.Color.lightBlue
+  fullName: UnityEngine.Color.lightBlue
+  nameWithType: Color.lightBlue
+- uid: UnityEngine.Color.lightCoral
+  name: lightCoral
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightCoral.html
+  commentId: P:UnityEngine.Color.lightCoral
+  fullName: UnityEngine.Color.lightCoral
+  nameWithType: Color.lightCoral
+- uid: UnityEngine.Color.lightCyan
+  name: lightCyan
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightCyan.html
+  commentId: P:UnityEngine.Color.lightCyan
+  fullName: UnityEngine.Color.lightCyan
+  nameWithType: Color.lightCyan
+- uid: UnityEngine.Color.lightGoldenRod
+  name: lightGoldenRod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightGoldenRod.html
+  commentId: P:UnityEngine.Color.lightGoldenRod
+  fullName: UnityEngine.Color.lightGoldenRod
+  nameWithType: Color.lightGoldenRod
+- uid: UnityEngine.Color.lightGoldenRodYellow
+  name: lightGoldenRodYellow
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightGoldenRodYellow.html
+  commentId: P:UnityEngine.Color.lightGoldenRodYellow
+  fullName: UnityEngine.Color.lightGoldenRodYellow
+  nameWithType: Color.lightGoldenRodYellow
+- uid: UnityEngine.Color.lightGray
+  name: lightGray
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightGray.html
+  commentId: P:UnityEngine.Color.lightGray
+  fullName: UnityEngine.Color.lightGray
+  nameWithType: Color.lightGray
+- uid: UnityEngine.Color.lightGreen
+  name: lightGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightGreen.html
+  commentId: P:UnityEngine.Color.lightGreen
+  fullName: UnityEngine.Color.lightGreen
+  nameWithType: Color.lightGreen
+- uid: UnityEngine.Color.lightPink
+  name: lightPink
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightPink.html
+  commentId: P:UnityEngine.Color.lightPink
+  fullName: UnityEngine.Color.lightPink
+  nameWithType: Color.lightPink
+- uid: UnityEngine.Color.lightSalmon
+  name: lightSalmon
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightSalmon.html
+  commentId: P:UnityEngine.Color.lightSalmon
+  fullName: UnityEngine.Color.lightSalmon
+  nameWithType: Color.lightSalmon
+- uid: UnityEngine.Color.lightSeaGreen
+  name: lightSeaGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightSeaGreen.html
+  commentId: P:UnityEngine.Color.lightSeaGreen
+  fullName: UnityEngine.Color.lightSeaGreen
+  nameWithType: Color.lightSeaGreen
+- uid: UnityEngine.Color.lightSkyBlue
+  name: lightSkyBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightSkyBlue.html
+  commentId: P:UnityEngine.Color.lightSkyBlue
+  fullName: UnityEngine.Color.lightSkyBlue
+  nameWithType: Color.lightSkyBlue
+- uid: UnityEngine.Color.lightSlateBlue
+  name: lightSlateBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightSlateBlue.html
+  commentId: P:UnityEngine.Color.lightSlateBlue
+  fullName: UnityEngine.Color.lightSlateBlue
+  nameWithType: Color.lightSlateBlue
+- uid: UnityEngine.Color.lightSlateGray
+  name: lightSlateGray
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightSlateGray.html
+  commentId: P:UnityEngine.Color.lightSlateGray
+  fullName: UnityEngine.Color.lightSlateGray
+  nameWithType: Color.lightSlateGray
+- uid: UnityEngine.Color.lightSteelBlue
+  name: lightSteelBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightSteelBlue.html
+  commentId: P:UnityEngine.Color.lightSteelBlue
+  fullName: UnityEngine.Color.lightSteelBlue
+  nameWithType: Color.lightSteelBlue
+- uid: UnityEngine.Color.lightYellow
+  name: lightYellow
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-lightYellow.html
+  commentId: P:UnityEngine.Color.lightYellow
+  fullName: UnityEngine.Color.lightYellow
+  nameWithType: Color.lightYellow
+- uid: UnityEngine.Color.limeGreen
+  name: limeGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-limeGreen.html
+  commentId: P:UnityEngine.Color.limeGreen
+  fullName: UnityEngine.Color.limeGreen
+  nameWithType: Color.limeGreen
 - uid: UnityEngine.Color.linear
   name: linear
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-linear.html
   commentId: P:UnityEngine.Color.linear
   fullName: UnityEngine.Color.linear
   nameWithType: Color.linear
+- uid: UnityEngine.Color.linen
+  name: linen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-linen.html
+  commentId: P:UnityEngine.Color.linen
+  fullName: UnityEngine.Color.linen
+  nameWithType: Color.linen
 - uid: UnityEngine.Color.magenta
   name: magenta
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-magenta.html
   commentId: P:UnityEngine.Color.magenta
   fullName: UnityEngine.Color.magenta
   nameWithType: Color.magenta
+- uid: UnityEngine.Color.maroon
+  name: maroon
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-maroon.html
+  commentId: P:UnityEngine.Color.maroon
+  fullName: UnityEngine.Color.maroon
+  nameWithType: Color.maroon
 - uid: UnityEngine.Color.maxColorComponent
   name: maxColorComponent
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-maxColorComponent.html
   commentId: P:UnityEngine.Color.maxColorComponent
   fullName: UnityEngine.Color.maxColorComponent
   nameWithType: Color.maxColorComponent
+- uid: UnityEngine.Color.mediumAquamarine
+  name: mediumAquamarine
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumAquamarine.html
+  commentId: P:UnityEngine.Color.mediumAquamarine
+  fullName: UnityEngine.Color.mediumAquamarine
+  nameWithType: Color.mediumAquamarine
+- uid: UnityEngine.Color.mediumBlue
+  name: mediumBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumBlue.html
+  commentId: P:UnityEngine.Color.mediumBlue
+  fullName: UnityEngine.Color.mediumBlue
+  nameWithType: Color.mediumBlue
+- uid: UnityEngine.Color.mediumOrchid
+  name: mediumOrchid
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumOrchid.html
+  commentId: P:UnityEngine.Color.mediumOrchid
+  fullName: UnityEngine.Color.mediumOrchid
+  nameWithType: Color.mediumOrchid
+- uid: UnityEngine.Color.mediumPurple
+  name: mediumPurple
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumPurple.html
+  commentId: P:UnityEngine.Color.mediumPurple
+  fullName: UnityEngine.Color.mediumPurple
+  nameWithType: Color.mediumPurple
+- uid: UnityEngine.Color.mediumSeaGreen
+  name: mediumSeaGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumSeaGreen.html
+  commentId: P:UnityEngine.Color.mediumSeaGreen
+  fullName: UnityEngine.Color.mediumSeaGreen
+  nameWithType: Color.mediumSeaGreen
+- uid: UnityEngine.Color.mediumSlateBlue
+  name: mediumSlateBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumSlateBlue.html
+  commentId: P:UnityEngine.Color.mediumSlateBlue
+  fullName: UnityEngine.Color.mediumSlateBlue
+  nameWithType: Color.mediumSlateBlue
+- uid: UnityEngine.Color.mediumSpringGreen
+  name: mediumSpringGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumSpringGreen.html
+  commentId: P:UnityEngine.Color.mediumSpringGreen
+  fullName: UnityEngine.Color.mediumSpringGreen
+  nameWithType: Color.mediumSpringGreen
+- uid: UnityEngine.Color.mediumTurquoise
+  name: mediumTurquoise
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumTurquoise.html
+  commentId: P:UnityEngine.Color.mediumTurquoise
+  fullName: UnityEngine.Color.mediumTurquoise
+  nameWithType: Color.mediumTurquoise
+- uid: UnityEngine.Color.mediumVioletRed
+  name: mediumVioletRed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mediumVioletRed.html
+  commentId: P:UnityEngine.Color.mediumVioletRed
+  fullName: UnityEngine.Color.mediumVioletRed
+  nameWithType: Color.mediumVioletRed
+- uid: UnityEngine.Color.midnightBlue
+  name: midnightBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-midnightBlue.html
+  commentId: P:UnityEngine.Color.midnightBlue
+  fullName: UnityEngine.Color.midnightBlue
+  nameWithType: Color.midnightBlue
+- uid: UnityEngine.Color.mintCream
+  name: mintCream
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mintCream.html
+  commentId: P:UnityEngine.Color.mintCream
+  fullName: UnityEngine.Color.mintCream
+  nameWithType: Color.mintCream
+- uid: UnityEngine.Color.mistyRose
+  name: mistyRose
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-mistyRose.html
+  commentId: P:UnityEngine.Color.mistyRose
+  fullName: UnityEngine.Color.mistyRose
+  nameWithType: Color.mistyRose
+- uid: UnityEngine.Color.moccasin
+  name: moccasin
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-moccasin.html
+  commentId: P:UnityEngine.Color.moccasin
+  fullName: UnityEngine.Color.moccasin
+  nameWithType: Color.moccasin
+- uid: UnityEngine.Color.navajoWhite
+  name: navajoWhite
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-navajoWhite.html
+  commentId: P:UnityEngine.Color.navajoWhite
+  fullName: UnityEngine.Color.navajoWhite
+  nameWithType: Color.navajoWhite
+- uid: UnityEngine.Color.navyBlue
+  name: navyBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-navyBlue.html
+  commentId: P:UnityEngine.Color.navyBlue
+  fullName: UnityEngine.Color.navyBlue
+  nameWithType: Color.navyBlue
+- uid: UnityEngine.Color.oldLace
+  name: oldLace
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-oldLace.html
+  commentId: P:UnityEngine.Color.oldLace
+  fullName: UnityEngine.Color.oldLace
+  nameWithType: Color.oldLace
+- uid: UnityEngine.Color.olive
+  name: olive
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-olive.html
+  commentId: P:UnityEngine.Color.olive
+  fullName: UnityEngine.Color.olive
+  nameWithType: Color.olive
+- uid: UnityEngine.Color.oliveDrab
+  name: oliveDrab
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-oliveDrab.html
+  commentId: P:UnityEngine.Color.oliveDrab
+  fullName: UnityEngine.Color.oliveDrab
+  nameWithType: Color.oliveDrab
 - uid: UnityEngine.Color.op_Addition(UnityEngine.Color,UnityEngine.Color)
   name: Addition
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color.Addition.html
@@ -123517,12 +124123,102 @@ references:
   commentId: M:UnityEngine.Color.op_Subtraction(UnityEngine.Color,UnityEngine.Color)
   fullName: UnityEngine.Color.Subtraction
   nameWithType: Color.Subtraction(Color, Color)
+- uid: UnityEngine.Color.orange
+  name: orange
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-orange.html
+  commentId: P:UnityEngine.Color.orange
+  fullName: UnityEngine.Color.orange
+  nameWithType: Color.orange
+- uid: UnityEngine.Color.orangeRed
+  name: orangeRed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-orangeRed.html
+  commentId: P:UnityEngine.Color.orangeRed
+  fullName: UnityEngine.Color.orangeRed
+  nameWithType: Color.orangeRed
+- uid: UnityEngine.Color.orchid
+  name: orchid
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-orchid.html
+  commentId: P:UnityEngine.Color.orchid
+  fullName: UnityEngine.Color.orchid
+  nameWithType: Color.orchid
+- uid: UnityEngine.Color.paleGoldenRod
+  name: paleGoldenRod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-paleGoldenRod.html
+  commentId: P:UnityEngine.Color.paleGoldenRod
+  fullName: UnityEngine.Color.paleGoldenRod
+  nameWithType: Color.paleGoldenRod
+- uid: UnityEngine.Color.paleGreen
+  name: paleGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-paleGreen.html
+  commentId: P:UnityEngine.Color.paleGreen
+  fullName: UnityEngine.Color.paleGreen
+  nameWithType: Color.paleGreen
+- uid: UnityEngine.Color.paleTurquoise
+  name: paleTurquoise
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-paleTurquoise.html
+  commentId: P:UnityEngine.Color.paleTurquoise
+  fullName: UnityEngine.Color.paleTurquoise
+  nameWithType: Color.paleTurquoise
+- uid: UnityEngine.Color.paleVioletRed
+  name: paleVioletRed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-paleVioletRed.html
+  commentId: P:UnityEngine.Color.paleVioletRed
+  fullName: UnityEngine.Color.paleVioletRed
+  nameWithType: Color.paleVioletRed
+- uid: UnityEngine.Color.papayaWhip
+  name: papayaWhip
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-papayaWhip.html
+  commentId: P:UnityEngine.Color.papayaWhip
+  fullName: UnityEngine.Color.papayaWhip
+  nameWithType: Color.papayaWhip
+- uid: UnityEngine.Color.peachPuff
+  name: peachPuff
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-peachPuff.html
+  commentId: P:UnityEngine.Color.peachPuff
+  fullName: UnityEngine.Color.peachPuff
+  nameWithType: Color.peachPuff
+- uid: UnityEngine.Color.peru
+  name: peru
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-peru.html
+  commentId: P:UnityEngine.Color.peru
+  fullName: UnityEngine.Color.peru
+  nameWithType: Color.peru
+- uid: UnityEngine.Color.pink
+  name: pink
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-pink.html
+  commentId: P:UnityEngine.Color.pink
+  fullName: UnityEngine.Color.pink
+  nameWithType: Color.pink
+- uid: UnityEngine.Color.plum
+  name: plum
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-plum.html
+  commentId: P:UnityEngine.Color.plum
+  fullName: UnityEngine.Color.plum
+  nameWithType: Color.plum
+- uid: UnityEngine.Color.powderBlue
+  name: powderBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-powderBlue.html
+  commentId: P:UnityEngine.Color.powderBlue
+  fullName: UnityEngine.Color.powderBlue
+  nameWithType: Color.powderBlue
+- uid: UnityEngine.Color.purple
+  name: purple
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-purple.html
+  commentId: P:UnityEngine.Color.purple
+  fullName: UnityEngine.Color.purple
+  nameWithType: Color.purple
 - uid: UnityEngine.Color.r
   name: r
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-r.html
   commentId: F:UnityEngine.Color.r
   fullName: UnityEngine.Color.r
   nameWithType: Color.r
+- uid: UnityEngine.Color.rebeccaPurple
+  name: rebeccaPurple
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-rebeccaPurple.html
+  commentId: P:UnityEngine.Color.rebeccaPurple
+  fullName: UnityEngine.Color.rebeccaPurple
+  nameWithType: Color.rebeccaPurple
 - uid: UnityEngine.Color.red
   name: red
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-red.html
@@ -123535,6 +124231,144 @@ references:
   commentId: M:UnityEngine.Color.RGBToHSV(UnityEngine.Color,System.Single@,System.Single@,System.Single@)
   fullName: UnityEngine.Color.RGBToHSV
   nameWithType: Color.RGBToHSV(Color, out Single, out Single, out Single)
+- uid: UnityEngine.Color.rosyBrown
+  name: rosyBrown
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-rosyBrown.html
+  commentId: P:UnityEngine.Color.rosyBrown
+  fullName: UnityEngine.Color.rosyBrown
+  nameWithType: Color.rosyBrown
+- uid: UnityEngine.Color.royalBlue
+  name: royalBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-royalBlue.html
+  commentId: P:UnityEngine.Color.royalBlue
+  fullName: UnityEngine.Color.royalBlue
+  nameWithType: Color.royalBlue
+- uid: UnityEngine.Color.saddleBrown
+  name: saddleBrown
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-saddleBrown.html
+  commentId: P:UnityEngine.Color.saddleBrown
+  fullName: UnityEngine.Color.saddleBrown
+  nameWithType: Color.saddleBrown
+- uid: UnityEngine.Color.salmon
+  name: salmon
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-salmon.html
+  commentId: P:UnityEngine.Color.salmon
+  fullName: UnityEngine.Color.salmon
+  nameWithType: Color.salmon
+- uid: UnityEngine.Color.sandyBrown
+  name: sandyBrown
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-sandyBrown.html
+  commentId: P:UnityEngine.Color.sandyBrown
+  fullName: UnityEngine.Color.sandyBrown
+  nameWithType: Color.sandyBrown
+- uid: UnityEngine.Color.seaGreen
+  name: seaGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-seaGreen.html
+  commentId: P:UnityEngine.Color.seaGreen
+  fullName: UnityEngine.Color.seaGreen
+  nameWithType: Color.seaGreen
+- uid: UnityEngine.Color.seashell
+  name: seashell
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-seashell.html
+  commentId: P:UnityEngine.Color.seashell
+  fullName: UnityEngine.Color.seashell
+  nameWithType: Color.seashell
+- uid: UnityEngine.Color.sienna
+  name: sienna
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-sienna.html
+  commentId: P:UnityEngine.Color.sienna
+  fullName: UnityEngine.Color.sienna
+  nameWithType: Color.sienna
+- uid: UnityEngine.Color.silver
+  name: silver
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-silver.html
+  commentId: P:UnityEngine.Color.silver
+  fullName: UnityEngine.Color.silver
+  nameWithType: Color.silver
+- uid: UnityEngine.Color.skyBlue
+  name: skyBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-skyBlue.html
+  commentId: P:UnityEngine.Color.skyBlue
+  fullName: UnityEngine.Color.skyBlue
+  nameWithType: Color.skyBlue
+- uid: UnityEngine.Color.slateBlue
+  name: slateBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-slateBlue.html
+  commentId: P:UnityEngine.Color.slateBlue
+  fullName: UnityEngine.Color.slateBlue
+  nameWithType: Color.slateBlue
+- uid: UnityEngine.Color.slateGray
+  name: slateGray
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-slateGray.html
+  commentId: P:UnityEngine.Color.slateGray
+  fullName: UnityEngine.Color.slateGray
+  nameWithType: Color.slateGray
+- uid: UnityEngine.Color.snow
+  name: snow
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-snow.html
+  commentId: P:UnityEngine.Color.snow
+  fullName: UnityEngine.Color.snow
+  nameWithType: Color.snow
+- uid: UnityEngine.Color.softBlue
+  name: softBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-softBlue.html
+  commentId: P:UnityEngine.Color.softBlue
+  fullName: UnityEngine.Color.softBlue
+  nameWithType: Color.softBlue
+- uid: UnityEngine.Color.softGreen
+  name: softGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-softGreen.html
+  commentId: P:UnityEngine.Color.softGreen
+  fullName: UnityEngine.Color.softGreen
+  nameWithType: Color.softGreen
+- uid: UnityEngine.Color.softRed
+  name: softRed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-softRed.html
+  commentId: P:UnityEngine.Color.softRed
+  fullName: UnityEngine.Color.softRed
+  nameWithType: Color.softRed
+- uid: UnityEngine.Color.softYellow
+  name: softYellow
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-softYellow.html
+  commentId: P:UnityEngine.Color.softYellow
+  fullName: UnityEngine.Color.softYellow
+  nameWithType: Color.softYellow
+- uid: UnityEngine.Color.springGreen
+  name: springGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-springGreen.html
+  commentId: P:UnityEngine.Color.springGreen
+  fullName: UnityEngine.Color.springGreen
+  nameWithType: Color.springGreen
+- uid: UnityEngine.Color.steelBlue
+  name: steelBlue
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-steelBlue.html
+  commentId: P:UnityEngine.Color.steelBlue
+  fullName: UnityEngine.Color.steelBlue
+  nameWithType: Color.steelBlue
+- uid: UnityEngine.Color.tan
+  name: tan
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-tan.html
+  commentId: P:UnityEngine.Color.tan
+  fullName: UnityEngine.Color.tan
+  nameWithType: Color.tan
+- uid: UnityEngine.Color.teal
+  name: teal
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-teal.html
+  commentId: P:UnityEngine.Color.teal
+  fullName: UnityEngine.Color.teal
+  nameWithType: Color.teal
+- uid: UnityEngine.Color.thistle
+  name: thistle
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-thistle.html
+  commentId: P:UnityEngine.Color.thistle
+  fullName: UnityEngine.Color.thistle
+  nameWithType: Color.thistle
+- uid: UnityEngine.Color.tomato
+  name: tomato
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-tomato.html
+  commentId: P:UnityEngine.Color.tomato
+  fullName: UnityEngine.Color.tomato
+  nameWithType: Color.tomato
 - uid: UnityEngine.Color.ToString
   name: ToString
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color.ToString.html
@@ -123553,18 +124387,60 @@ references:
   commentId: M:UnityEngine.Color.ToString(System.String)
   fullName: UnityEngine.Color.ToString
   nameWithType: Color.ToString(String)
+- uid: UnityEngine.Color.turquoise
+  name: turquoise
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-turquoise.html
+  commentId: P:UnityEngine.Color.turquoise
+  fullName: UnityEngine.Color.turquoise
+  nameWithType: Color.turquoise
+- uid: UnityEngine.Color.violet
+  name: violet
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-violet.html
+  commentId: P:UnityEngine.Color.violet
+  fullName: UnityEngine.Color.violet
+  nameWithType: Color.violet
+- uid: UnityEngine.Color.violetRed
+  name: violetRed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-violetRed.html
+  commentId: P:UnityEngine.Color.violetRed
+  fullName: UnityEngine.Color.violetRed
+  nameWithType: Color.violetRed
+- uid: UnityEngine.Color.wheat
+  name: wheat
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-wheat.html
+  commentId: P:UnityEngine.Color.wheat
+  fullName: UnityEngine.Color.wheat
+  nameWithType: Color.wheat
 - uid: UnityEngine.Color.white
   name: white
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-white.html
   commentId: P:UnityEngine.Color.white
   fullName: UnityEngine.Color.white
   nameWithType: Color.white
+- uid: UnityEngine.Color.whiteSmoke
+  name: whiteSmoke
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-whiteSmoke.html
+  commentId: P:UnityEngine.Color.whiteSmoke
+  fullName: UnityEngine.Color.whiteSmoke
+  nameWithType: Color.whiteSmoke
 - uid: UnityEngine.Color.yellow
   name: yellow
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color-yellow.html
   commentId: P:UnityEngine.Color.yellow
   fullName: UnityEngine.Color.yellow
   nameWithType: Color.yellow
+- uid: UnityEngine.Color.yellowGreen
+  name: yellowGreen
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-yellowGreen.html
+  commentId: P:UnityEngine.Color.yellowGreen
+  fullName: UnityEngine.Color.yellowGreen
+  nameWithType: Color.yellowGreen
+- uid: UnityEngine.Color.yellowNice
+  name: yellowNice
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Color-yellowNice.html
+  commentId: P:UnityEngine.Color.yellowNice
+  fullName: UnityEngine.Color.yellowNice
+  nameWithType: Color.yellowNice
 - uid: UnityEngine.Color32
   name: Color32
   href: https://docs.unity3d.com/Documentation/ScriptReference/Color32.html
@@ -128941,6 +129817,12 @@ references:
   commentId: P:UnityEngine.Device.SystemInfo.supportsMultisampled2DArrayTextures
   fullName: UnityEngine.Device.SystemInfo.supportsMultisampled2DArrayTextures
   nameWithType: SystemInfo.supportsMultisampled2DArrayTextures
+- uid: UnityEngine.Device.SystemInfo.supportsMultisampledBackBuffer
+  name: supportsMultisampledBackBuffer
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Device.SystemInfo-supportsMultisampledBackBuffer.html
+  commentId: P:UnityEngine.Device.SystemInfo.supportsMultisampledBackBuffer
+  fullName: UnityEngine.Device.SystemInfo.supportsMultisampledBackBuffer
+  nameWithType: SystemInfo.supportsMultisampledBackBuffer
 - uid: UnityEngine.Device.SystemInfo.supportsMultisampledTextures
   name: supportsMultisampledTextures
   href: https://docs.unity3d.com/Documentation/ScriptReference/Device.SystemInfo-supportsMultisampledTextures.html
@@ -191113,6 +191995,12 @@ references:
   commentId: M:UnityEngine.Rendering.Watermark.IsVisible
   fullName: UnityEngine.Rendering.Watermark.IsVisible
   nameWithType: Watermark.IsVisible()
+- uid: UnityEngine.Rendering.Watermark.showDeveloperWatermark
+  name: showDeveloperWatermark
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.Watermark-showDeveloperWatermark.html
+  commentId: P:UnityEngine.Rendering.Watermark.showDeveloperWatermark
+  fullName: UnityEngine.Rendering.Watermark.showDeveloperWatermark
+  nameWithType: Watermark.showDeveloperWatermark
 - uid: UnityEngine.RenderingLayerMask
   name: RenderingLayerMask
   href: https://docs.unity3d.com/Documentation/ScriptReference/RenderingLayerMask.html
@@ -201091,6 +201979,12 @@ references:
   commentId: P:UnityEngine.SystemInfo.supportsMultisampled2DArrayTextures
   fullName: UnityEngine.SystemInfo.supportsMultisampled2DArrayTextures
   nameWithType: SystemInfo.supportsMultisampled2DArrayTextures
+- uid: UnityEngine.SystemInfo.supportsMultisampledBackBuffer
+  name: supportsMultisampledBackBuffer
+  href: https://docs.unity3d.com/Documentation/ScriptReference/SystemInfo-supportsMultisampledBackBuffer.html
+  commentId: P:UnityEngine.SystemInfo.supportsMultisampledBackBuffer
+  fullName: UnityEngine.SystemInfo.supportsMultisampledBackBuffer
+  nameWithType: SystemInfo.supportsMultisampledBackBuffer
 - uid: UnityEngine.SystemInfo.supportsMultisampledTextures
   name: supportsMultisampledTextures
   href: https://docs.unity3d.com/Documentation/ScriptReference/SystemInfo-supportsMultisampledTextures.html
@@ -215941,6 +216835,18 @@ references:
   commentId: T:UnityEngine.UIElements.Binding
   fullName: UnityEngine.UIElements.Binding
   nameWithType: Binding
+- uid: UnityEngine.UIElements.Binding.GetGlobalLogLevel
+  name: GetGlobalLogLevel
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Binding.GetGlobalLogLevel.html
+  commentId: M:UnityEngine.UIElements.Binding.GetGlobalLogLevel
+  fullName: UnityEngine.UIElements.Binding.GetGlobalLogLevel
+  nameWithType: Binding.GetGlobalLogLevel()
+- uid: UnityEngine.UIElements.Binding.GetPanelLogLevel(UnityEngine.UIElements.IPanel)
+  name: GetPanelLogLevel
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Binding.GetPanelLogLevel.html
+  commentId: M:UnityEngine.UIElements.Binding.GetPanelLogLevel(UnityEngine.UIElements.IPanel)
+  fullName: UnityEngine.UIElements.Binding.GetPanelLogLevel
+  nameWithType: Binding.GetPanelLogLevel(IPanel)
 - uid: UnityEngine.UIElements.Binding.isDirty
   name: isDirty
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Binding-isDirty.html
