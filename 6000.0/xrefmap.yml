@@ -20353,6 +20353,18 @@ references:
   commentId: M:UnityEditor.Build.Profile.BuildProfile.GetActiveBuildProfile
   fullName: UnityEditor.Build.Profile.BuildProfile.GetActiveBuildProfile
   nameWithType: BuildProfile.GetActiveBuildProfile()
+- uid: UnityEditor.Build.Profile.BuildProfile.GetScenesForBuild
+  name: GetScenesForBuild
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile.GetScenesForBuild.html
+  commentId: M:UnityEditor.Build.Profile.BuildProfile.GetScenesForBuild
+  fullName: UnityEditor.Build.Profile.BuildProfile.GetScenesForBuild
+  nameWithType: BuildProfile.GetScenesForBuild()
+- uid: UnityEditor.Build.Profile.BuildProfile.overrideGlobalScenes
+  name: overrideGlobalScenes
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile-overrideGlobalScenes.html
+  commentId: P:UnityEditor.Build.Profile.BuildProfile.overrideGlobalScenes
+  fullName: UnityEditor.Build.Profile.BuildProfile.overrideGlobalScenes
+  nameWithType: BuildProfile.overrideGlobalScenes
 - uid: UnityEditor.Build.Profile.BuildProfile.scenes
   name: scenes
   href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile-scenes.html
@@ -26785,6 +26797,12 @@ references:
   commentId: M:UnityEditor.EditorBuildSettings.GetConfigObjectNames
   fullName: UnityEditor.EditorBuildSettings.GetConfigObjectNames
   nameWithType: EditorBuildSettings.GetConfigObjectNames()
+- uid: UnityEditor.EditorBuildSettings.globalScenes
+  name: globalScenes
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EditorBuildSettings-globalScenes.html
+  commentId: P:UnityEditor.EditorBuildSettings.globalScenes
+  fullName: UnityEditor.EditorBuildSettings.globalScenes
+  nameWithType: EditorBuildSettings.globalScenes
 - uid: UnityEditor.EditorBuildSettings.RemoveConfigObject(System.String)
   name: RemoveConfigObject
   href: https://docs.unity3d.com/Documentation/ScriptReference/EditorBuildSettings.RemoveConfigObject.html
@@ -128749,6 +128767,12 @@ references:
   commentId: P:UnityEngine.Device.SystemInfo.supportsMultisampled2DArrayTextures
   fullName: UnityEngine.Device.SystemInfo.supportsMultisampled2DArrayTextures
   nameWithType: SystemInfo.supportsMultisampled2DArrayTextures
+- uid: UnityEngine.Device.SystemInfo.supportsMultisampledBackBuffer
+  name: supportsMultisampledBackBuffer
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Device.SystemInfo-supportsMultisampledBackBuffer.html
+  commentId: P:UnityEngine.Device.SystemInfo.supportsMultisampledBackBuffer
+  fullName: UnityEngine.Device.SystemInfo.supportsMultisampledBackBuffer
+  nameWithType: SystemInfo.supportsMultisampledBackBuffer
 - uid: UnityEngine.Device.SystemInfo.supportsMultisampledTextures
   name: supportsMultisampledTextures
   href: https://docs.unity3d.com/Documentation/ScriptReference/Device.SystemInfo-supportsMultisampledTextures.html
@@ -199849,6 +199873,12 @@ references:
   commentId: P:UnityEngine.SystemInfo.supportsMultisampled2DArrayTextures
   fullName: UnityEngine.SystemInfo.supportsMultisampled2DArrayTextures
   nameWithType: SystemInfo.supportsMultisampled2DArrayTextures
+- uid: UnityEngine.SystemInfo.supportsMultisampledBackBuffer
+  name: supportsMultisampledBackBuffer
+  href: https://docs.unity3d.com/Documentation/ScriptReference/SystemInfo-supportsMultisampledBackBuffer.html
+  commentId: P:UnityEngine.SystemInfo.supportsMultisampledBackBuffer
+  fullName: UnityEngine.SystemInfo.supportsMultisampledBackBuffer
+  nameWithType: SystemInfo.supportsMultisampledBackBuffer
 - uid: UnityEngine.SystemInfo.supportsMultisampledTextures
   name: supportsMultisampledTextures
   href: https://docs.unity3d.com/Documentation/ScriptReference/SystemInfo-supportsMultisampledTextures.html
