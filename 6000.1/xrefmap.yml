@@ -186751,6 +186751,12 @@ references:
   commentId: M:UnityEngine.Rendering.RenderPipeline.EndFrameRendering(UnityEngine.Rendering.ScriptableRenderContext,UnityEngine.Camera[])
   fullName: UnityEngine.Rendering.RenderPipeline.EndFrameRendering
   nameWithType: RenderPipeline.EndFrameRendering(ScriptableRenderContext, Camera[])
+- uid: UnityEngine.Rendering.RenderPipeline.IsPreviewSupported(UnityEngine.Camera,System.String@)
+  name: IsPreviewSupported
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RenderPipeline.IsPreviewSupported.html
+  commentId: M:UnityEngine.Rendering.RenderPipeline.IsPreviewSupported(UnityEngine.Camera,System.String@)
+  fullName: UnityEngine.Rendering.RenderPipeline.IsPreviewSupported
+  nameWithType: RenderPipeline.IsPreviewSupported(Camera, out String)
 - uid: UnityEngine.Rendering.RenderPipeline.IsRenderRequestSupported``1(UnityEngine.Camera,``0)
   name: IsRenderRequestSupported
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RenderPipeline.IsRenderRequestSupported.html
@@ -232195,6 +232201,18 @@ references:
   commentId: P:UnityEngine.UIElements.TabView.contentViewport
   fullName: UnityEngine.UIElements.TabView.contentViewport
   nameWithType: TabView.contentViewport
+- uid: UnityEngine.UIElements.TabView.GetTab(System.Int32)
+  name: GetTab
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.GetTab.html
+  commentId: M:UnityEngine.UIElements.TabView.GetTab(System.Int32)
+  fullName: UnityEngine.UIElements.TabView.GetTab
+  nameWithType: TabView.GetTab(Int32)
+- uid: UnityEngine.UIElements.TabView.GetTabHeader(System.Int32)
+  name: GetTabHeader
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.GetTabHeader.html
+  commentId: M:UnityEngine.UIElements.TabView.GetTabHeader(System.Int32)
+  fullName: UnityEngine.UIElements.TabView.GetTabHeader
+  nameWithType: TabView.GetTabHeader(Int32)
 - uid: UnityEngine.UIElements.TabView.headerContainerClassName
   name: headerContainerClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-headerContainerClassName.html
@@ -232225,12 +232243,30 @@ references:
   commentId: F:UnityEngine.UIElements.TabView.reorderableUssClassName
   fullName: UnityEngine.UIElements.TabView.reorderableUssClassName
   nameWithType: TabView.reorderableUssClassName
+- uid: UnityEngine.UIElements.TabView.ReorderTab(System.Int32,System.Int32)
+  name: ReorderTab
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.ReorderTab.html
+  commentId: M:UnityEngine.UIElements.TabView.ReorderTab(System.Int32,System.Int32)
+  fullName: UnityEngine.UIElements.TabView.ReorderTab
+  nameWithType: TabView.ReorderTab(Int32, Int32)
 - uid: UnityEngine.UIElements.TabView.selectedTabIndex
   name: selectedTabIndex
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-selectedTabIndex.html
   commentId: P:UnityEngine.UIElements.TabView.selectedTabIndex
   fullName: UnityEngine.UIElements.TabView.selectedTabIndex
   nameWithType: TabView.selectedTabIndex
+- uid: UnityEngine.UIElements.TabView.tabClosed
+  name: tabClosed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.tabClosed.html
+  commentId: E:UnityEngine.UIElements.TabView.tabClosed
+  fullName: UnityEngine.UIElements.TabView.tabClosed
+  nameWithType: TabView.tabClosed
+- uid: UnityEngine.UIElements.TabView.tabReordered
+  name: tabReordered
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.tabReordered.html
+  commentId: E:UnityEngine.UIElements.TabView.tabReordered
+  fullName: UnityEngine.UIElements.TabView.tabReordered
+  nameWithType: TabView.tabReordered
 - uid: UnityEngine.UIElements.TabView.ussClassName
   name: ussClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-ussClassName.html

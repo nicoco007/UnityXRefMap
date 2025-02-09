@@ -21049,6 +21049,12 @@ references:
   commentId: F:UnityEditor.BuildAssetBundleOptions.StrictMode
   fullName: UnityEditor.BuildAssetBundleOptions.StrictMode
   nameWithType: BuildAssetBundleOptions.StrictMode
+- uid: UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  name: StripUnatlasedSpriteCopies
+  href: https://docs.unity3d.com/Documentation/ScriptReference/BuildAssetBundleOptions.StripUnatlasedSpriteCopies.html
+  commentId: F:UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  fullName: UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  nameWithType: BuildAssetBundleOptions.StripUnatlasedSpriteCopies
 - uid: UnityEditor.BuildAssetBundleOptions.UncompressedAssetBundle
   name: UncompressedAssetBundle
   href: https://docs.unity3d.com/Documentation/ScriptReference/BuildAssetBundleOptions.UncompressedAssetBundle.html
@@ -47557,6 +47563,42 @@ references:
   commentId: T:UnityEditor.LightingDataAsset
   fullName: UnityEditor.LightingDataAsset
   nameWithType: LightingDataAsset
+- uid: UnityEditor.LightingDataAsset.#ctor(UnityEngine.SceneManagement.Scene)
+  name: LightingDataAsset
+  href: https://docs.unity3d.com/Documentation/ScriptReference/LightingDataAsset.LightingDataAsset.html
+  commentId: M:UnityEditor.LightingDataAsset.#ctor(UnityEngine.SceneManagement.Scene)
+  fullName: UnityEditor.LightingDataAsset.LightingDataAsset
+  nameWithType: LightingDataAsset.LightingDataAsset(Scene)
+- uid: UnityEditor.LightingDataAsset.GetAmbientProbe
+  name: GetAmbientProbe
+  href: https://docs.unity3d.com/Documentation/ScriptReference/LightingDataAsset.GetAmbientProbe.html
+  commentId: M:UnityEditor.LightingDataAsset.GetAmbientProbe
+  fullName: UnityEditor.LightingDataAsset.GetAmbientProbe
+  nameWithType: LightingDataAsset.GetAmbientProbe()
+- uid: UnityEditor.LightingDataAsset.GetDefaultReflectionCubemap
+  name: GetDefaultReflectionCubemap
+  href: https://docs.unity3d.com/Documentation/ScriptReference/LightingDataAsset.GetDefaultReflectionCubemap.html
+  commentId: M:UnityEditor.LightingDataAsset.GetDefaultReflectionCubemap
+  fullName: UnityEditor.LightingDataAsset.GetDefaultReflectionCubemap
+  nameWithType: LightingDataAsset.GetDefaultReflectionCubemap()
+- uid: UnityEditor.LightingDataAsset.SetAmbientProbe(UnityEngine.Rendering.SphericalHarmonicsL2)
+  name: SetAmbientProbe
+  href: https://docs.unity3d.com/Documentation/ScriptReference/LightingDataAsset.SetAmbientProbe.html
+  commentId: M:UnityEditor.LightingDataAsset.SetAmbientProbe(UnityEngine.Rendering.SphericalHarmonicsL2)
+  fullName: UnityEditor.LightingDataAsset.SetAmbientProbe
+  nameWithType: LightingDataAsset.SetAmbientProbe(SphericalHarmonicsL2)
+- uid: UnityEditor.LightingDataAsset.SetDefaultReflectionCubemap(UnityEngine.Texture)
+  name: SetDefaultReflectionCubemap
+  href: https://docs.unity3d.com/Documentation/ScriptReference/LightingDataAsset.SetDefaultReflectionCubemap.html
+  commentId: M:UnityEditor.LightingDataAsset.SetDefaultReflectionCubemap(UnityEngine.Texture)
+  fullName: UnityEditor.LightingDataAsset.SetDefaultReflectionCubemap
+  nameWithType: LightingDataAsset.SetDefaultReflectionCubemap(Texture)
+- uid: UnityEditor.LightingDataAsset.SetLights(UnityEngine.Light[])
+  name: SetLights
+  href: https://docs.unity3d.com/Documentation/ScriptReference/LightingDataAsset.SetLights.html
+  commentId: M:UnityEditor.LightingDataAsset.SetLights(UnityEngine.Light[])
+  fullName: UnityEditor.LightingDataAsset.SetLights
+  nameWithType: LightingDataAsset.SetLights(Light[])
 - uid: UnityEditor.LightingExplorerExtensionAttribute
   name: LightingExplorerExtensionAttribute
   href: https://docs.unity3d.com/Documentation/ScriptReference/LightingExplorerExtensionAttribute.html
@@ -48619,6 +48661,12 @@ references:
   commentId: M:UnityEditor.Lightmapping.GetAdditionalBakeDelegate
   fullName: UnityEditor.Lightmapping.GetAdditionalBakeDelegate
   nameWithType: Lightmapping.GetAdditionalBakeDelegate()
+- uid: UnityEditor.Lightmapping.GetLightingDataAssetForScene(UnityEngine.SceneManagement.Scene)
+  name: GetLightingDataAssetForScene
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Lightmapping.GetLightingDataAssetForScene.html
+  commentId: M:UnityEditor.Lightmapping.GetLightingDataAssetForScene(UnityEngine.SceneManagement.Scene)
+  fullName: UnityEditor.Lightmapping.GetLightingDataAssetForScene
+  nameWithType: Lightmapping.GetLightingDataAssetForScene(Scene)
 - uid: UnityEditor.Lightmapping.GetLightingSettingsForScene(UnityEngine.SceneManagement.Scene)
   name: GetLightingSettingsForScene
   href: https://docs.unity3d.com/Documentation/ScriptReference/Lightmapping.GetLightingSettingsForScene.html
@@ -48745,6 +48793,12 @@ references:
   commentId: M:UnityEditor.Lightmapping.SetAdditionalBakeDelegate(UnityEditor.Lightmapping.AdditionalBakeDelegate)
   fullName: UnityEditor.Lightmapping.SetAdditionalBakeDelegate
   nameWithType: Lightmapping.SetAdditionalBakeDelegate(Lightmapping.AdditionalBakeDelegate)
+- uid: UnityEditor.Lightmapping.SetLightingDataAssetForScene(UnityEngine.SceneManagement.Scene,UnityEditor.LightingDataAsset)
+  name: SetLightingDataAssetForScene
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Lightmapping.SetLightingDataAssetForScene.html
+  commentId: M:UnityEditor.Lightmapping.SetLightingDataAssetForScene(UnityEngine.SceneManagement.Scene,UnityEditor.LightingDataAsset)
+  fullName: UnityEditor.Lightmapping.SetLightingDataAssetForScene
+  nameWithType: Lightmapping.SetLightingDataAssetForScene(Scene, LightingDataAsset)
 - uid: UnityEditor.Lightmapping.SetLightingSettingsForScene(UnityEngine.SceneManagement.Scene,UnityEngine.LightingSettings)
   name: SetLightingSettingsForScene
   href: https://docs.unity3d.com/Documentation/ScriptReference/Lightmapping.SetLightingSettingsForScene.html
