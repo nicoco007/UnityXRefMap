@@ -145519,12 +145519,66 @@ references:
   commentId: F:UnityEngine.KeyCode.F15
   fullName: UnityEngine.KeyCode.F15
   nameWithType: KeyCode.F15
+- uid: UnityEngine.KeyCode.F16
+  name: F16
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F16.html
+  commentId: F:UnityEngine.KeyCode.F16
+  fullName: UnityEngine.KeyCode.F16
+  nameWithType: KeyCode.F16
+- uid: UnityEngine.KeyCode.F17
+  name: F17
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F17.html
+  commentId: F:UnityEngine.KeyCode.F17
+  fullName: UnityEngine.KeyCode.F17
+  nameWithType: KeyCode.F17
+- uid: UnityEngine.KeyCode.F18
+  name: F18
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F18.html
+  commentId: F:UnityEngine.KeyCode.F18
+  fullName: UnityEngine.KeyCode.F18
+  nameWithType: KeyCode.F18
+- uid: UnityEngine.KeyCode.F19
+  name: F19
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F19.html
+  commentId: F:UnityEngine.KeyCode.F19
+  fullName: UnityEngine.KeyCode.F19
+  nameWithType: KeyCode.F19
 - uid: UnityEngine.KeyCode.F2
   name: F2
   href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F2.html
   commentId: F:UnityEngine.KeyCode.F2
   fullName: UnityEngine.KeyCode.F2
   nameWithType: KeyCode.F2
+- uid: UnityEngine.KeyCode.F20
+  name: F20
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F20.html
+  commentId: F:UnityEngine.KeyCode.F20
+  fullName: UnityEngine.KeyCode.F20
+  nameWithType: KeyCode.F20
+- uid: UnityEngine.KeyCode.F21
+  name: F21
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F21.html
+  commentId: F:UnityEngine.KeyCode.F21
+  fullName: UnityEngine.KeyCode.F21
+  nameWithType: KeyCode.F21
+- uid: UnityEngine.KeyCode.F22
+  name: F22
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F22.html
+  commentId: F:UnityEngine.KeyCode.F22
+  fullName: UnityEngine.KeyCode.F22
+  nameWithType: KeyCode.F22
+- uid: UnityEngine.KeyCode.F23
+  name: F23
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F23.html
+  commentId: F:UnityEngine.KeyCode.F23
+  fullName: UnityEngine.KeyCode.F23
+  nameWithType: KeyCode.F23
+- uid: UnityEngine.KeyCode.F24
+  name: F24
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F24.html
+  commentId: F:UnityEngine.KeyCode.F24
+  fullName: UnityEngine.KeyCode.F24
+  nameWithType: KeyCode.F24
 - uid: UnityEngine.KeyCode.F3
   name: F3
   href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F3.html
@@ -217519,6 +217573,12 @@ references:
   commentId: T:UnityEngine.UIElements.DropdownMenu
   fullName: UnityEngine.UIElements.DropdownMenu
   nameWithType: DropdownMenu
+- uid: UnityEngine.UIElements.DropdownMenu.allowDuplicateNames
+  name: allowDuplicateNames
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DropdownMenu-allowDuplicateNames.html
+  commentId: P:UnityEngine.UIElements.DropdownMenu.allowDuplicateNames
+  fullName: UnityEngine.UIElements.DropdownMenu.allowDuplicateNames
+  nameWithType: DropdownMenu.allowDuplicateNames
 - uid: UnityEngine.UIElements.DropdownMenu.AppendAction(System.String,System.Action{UnityEngine.UIElements.DropdownMenuAction},System.Func{UnityEngine.UIElements.DropdownMenuAction,UnityEngine.UIElements.DropdownMenuAction.Status},System.Object)
   name: AppendAction
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DropdownMenu.AppendAction.html
@@ -230119,6 +230179,18 @@ references:
   commentId: F:UnityEngine.UIElements.TabView.contentContainerUssClassName
   fullName: UnityEngine.UIElements.TabView.contentContainerUssClassName
   nameWithType: TabView.contentContainerUssClassName
+- uid: UnityEngine.UIElements.TabView.GetTab(System.Int32)
+  name: GetTab
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.GetTab.html
+  commentId: M:UnityEngine.UIElements.TabView.GetTab(System.Int32)
+  fullName: UnityEngine.UIElements.TabView.GetTab
+  nameWithType: TabView.GetTab(Int32)
+- uid: UnityEngine.UIElements.TabView.GetTabHeader(System.Int32)
+  name: GetTabHeader
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.GetTabHeader.html
+  commentId: M:UnityEngine.UIElements.TabView.GetTabHeader(System.Int32)
+  fullName: UnityEngine.UIElements.TabView.GetTabHeader
+  nameWithType: TabView.GetTabHeader(Int32)
 - uid: UnityEngine.UIElements.TabView.headerContainerClassName
   name: headerContainerClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-headerContainerClassName.html
@@ -230137,12 +230209,30 @@ references:
   commentId: F:UnityEngine.UIElements.TabView.reorderableUssClassName
   fullName: UnityEngine.UIElements.TabView.reorderableUssClassName
   nameWithType: TabView.reorderableUssClassName
+- uid: UnityEngine.UIElements.TabView.ReorderTab(System.Int32,System.Int32)
+  name: ReorderTab
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.ReorderTab.html
+  commentId: M:UnityEngine.UIElements.TabView.ReorderTab(System.Int32,System.Int32)
+  fullName: UnityEngine.UIElements.TabView.ReorderTab
+  nameWithType: TabView.ReorderTab(Int32, Int32)
 - uid: UnityEngine.UIElements.TabView.selectedTabIndex
   name: selectedTabIndex
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-selectedTabIndex.html
   commentId: P:UnityEngine.UIElements.TabView.selectedTabIndex
   fullName: UnityEngine.UIElements.TabView.selectedTabIndex
   nameWithType: TabView.selectedTabIndex
+- uid: UnityEngine.UIElements.TabView.tabClosed
+  name: tabClosed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.tabClosed.html
+  commentId: E:UnityEngine.UIElements.TabView.tabClosed
+  fullName: UnityEngine.UIElements.TabView.tabClosed
+  nameWithType: TabView.tabClosed
+- uid: UnityEngine.UIElements.TabView.tabReordered
+  name: tabReordered
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.tabReordered.html
+  commentId: E:UnityEngine.UIElements.TabView.tabReordered
+  fullName: UnityEngine.UIElements.TabView.tabReordered
+  nameWithType: TabView.tabReordered
 - uid: UnityEngine.UIElements.TabView.ussClassName
   name: ussClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-ussClassName.html
