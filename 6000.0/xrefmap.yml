@@ -224947,6 +224947,24 @@ references:
   commentId: M:UnityEngine.UIElements.MultiColumnListViewController.Dispose
   fullName: UnityEngine.UIElements.MultiColumnListViewController.Dispose
   nameWithType: MultiColumnListViewController.Dispose()
+- uid: UnityEngine.UIElements.MultiColumnListViewController.GetIdForIndex(System.Int32)
+  name: GetIdForIndex
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MultiColumnListViewController.GetIdForIndex.html
+  commentId: M:UnityEngine.UIElements.MultiColumnListViewController.GetIdForIndex(System.Int32)
+  fullName: UnityEngine.UIElements.MultiColumnListViewController.GetIdForIndex
+  nameWithType: MultiColumnListViewController.GetIdForIndex(Int32)
+- uid: UnityEngine.UIElements.MultiColumnListViewController.GetIndexForId(System.Int32)
+  name: GetIndexForId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MultiColumnListViewController.GetIndexForId.html
+  commentId: M:UnityEngine.UIElements.MultiColumnListViewController.GetIndexForId(System.Int32)
+  fullName: UnityEngine.UIElements.MultiColumnListViewController.GetIndexForId
+  nameWithType: MultiColumnListViewController.GetIndexForId(Int32)
+- uid: UnityEngine.UIElements.MultiColumnListViewController.GetItemForIndex(System.Int32)
+  name: GetItemForIndex
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MultiColumnListViewController.GetItemForIndex.html
+  commentId: M:UnityEngine.UIElements.MultiColumnListViewController.GetItemForIndex(System.Int32)
+  fullName: UnityEngine.UIElements.MultiColumnListViewController.GetItemForIndex
+  nameWithType: MultiColumnListViewController.GetItemForIndex(Int32)
 - uid: UnityEngine.UIElements.MultiColumnListViewController.MakeItem
   name: MakeItem
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MultiColumnListViewController.MakeItem.html

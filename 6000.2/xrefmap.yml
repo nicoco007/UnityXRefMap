@@ -21181,6 +21181,12 @@ references:
   commentId: F:UnityEditor.BuildAssetBundleOptions.StrictMode
   fullName: UnityEditor.BuildAssetBundleOptions.StrictMode
   nameWithType: BuildAssetBundleOptions.StrictMode
+- uid: UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  name: StripUnatlasedSpriteCopies
+  href: https://docs.unity3d.com/Documentation/ScriptReference/BuildAssetBundleOptions.StripUnatlasedSpriteCopies.html
+  commentId: F:UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  fullName: UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  nameWithType: BuildAssetBundleOptions.StripUnatlasedSpriteCopies
 - uid: UnityEditor.BuildAssetBundleOptions.UncompressedAssetBundle
   name: UncompressedAssetBundle
   href: https://docs.unity3d.com/Documentation/ScriptReference/BuildAssetBundleOptions.UncompressedAssetBundle.html
@@ -122521,6 +122527,12 @@ references:
   commentId: P:UnityEngine.Collider2D.callbackLayers
   fullName: UnityEngine.Collider2D.callbackLayers
   nameWithType: Collider2D.callbackLayers
+- uid: UnityEngine.Collider2D.CanContact(UnityEngine.Collider2D)
+  name: CanContact
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Collider2D.CanContact.html
+  commentId: M:UnityEngine.Collider2D.CanContact(UnityEngine.Collider2D)
+  fullName: UnityEngine.Collider2D.CanContact
+  nameWithType: Collider2D.CanContact(Collider2D)
 - uid: UnityEngine.Collider2D.Cast(UnityEngine.Vector2,System.Collections.Generic.List{UnityEngine.RaycastHit2D},System.Single,System.Boolean)
   name: Cast
   href: https://docs.unity3d.com/Documentation/ScriptReference/Collider2D.Cast.html
@@ -122653,6 +122665,12 @@ references:
   commentId: P:UnityEngine.Collider2D.contactCaptureLayers
   fullName: UnityEngine.Collider2D.contactCaptureLayers
   nameWithType: Collider2D.contactCaptureLayers
+- uid: UnityEngine.Collider2D.contactMask
+  name: contactMask
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Collider2D-contactMask.html
+  commentId: P:UnityEngine.Collider2D.contactMask
+  fullName: UnityEngine.Collider2D.contactMask
+  nameWithType: Collider2D.contactMask
 - uid: UnityEngine.Collider2D.CreateMesh(System.Boolean,System.Boolean,System.Boolean)
   name: CreateMesh
   href: https://docs.unity3d.com/Documentation/ScriptReference/Collider2D.CreateMesh.html
@@ -126247,12 +126265,12 @@ references:
   commentId: F:UnityEngine.ContactFilter2D.minNormalAngle
   fullName: UnityEngine.ContactFilter2D.minNormalAngle
   nameWithType: ContactFilter2D.minNormalAngle
-- uid: UnityEngine.ContactFilter2D.NoFilter
-  name: NoFilter
-  href: https://docs.unity3d.com/Documentation/ScriptReference/ContactFilter2D.NoFilter.html
-  commentId: M:UnityEngine.ContactFilter2D.NoFilter
-  fullName: UnityEngine.ContactFilter2D.NoFilter
-  nameWithType: ContactFilter2D.NoFilter()
+- uid: UnityEngine.ContactFilter2D.noFilter
+  name: noFilter
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ContactFilter2D-noFilter.html
+  commentId: P:UnityEngine.ContactFilter2D.noFilter
+  fullName: UnityEngine.ContactFilter2D.noFilter
+  nameWithType: ContactFilter2D.noFilter
 - uid: UnityEngine.ContactFilter2D.NormalAngleUpperLimit
   name: NormalAngleUpperLimit
   href: https://docs.unity3d.com/Documentation/ScriptReference/ContactFilter2D.NormalAngleUpperLimit.html
@@ -151117,6 +151135,12 @@ references:
   commentId: P:UnityEngine.LineRenderer.alignment
   fullName: UnityEngine.LineRenderer.alignment
   nameWithType: LineRenderer.alignment
+- uid: UnityEngine.LineRenderer.applyActiveColorSpace
+  name: applyActiveColorSpace
+  href: https://docs.unity3d.com/Documentation/ScriptReference/LineRenderer-applyActiveColorSpace.html
+  commentId: P:UnityEngine.LineRenderer.applyActiveColorSpace
+  fullName: UnityEngine.LineRenderer.applyActiveColorSpace
+  nameWithType: LineRenderer.applyActiveColorSpace
 - uid: UnityEngine.LineRenderer.BakeMesh(UnityEngine.Mesh,System.Boolean)
   name: BakeMesh
   href: https://docs.unity3d.com/Documentation/ScriptReference/LineRenderer.BakeMesh.html
@@ -164149,6 +164173,12 @@ references:
   commentId: P:UnityEngine.ParticleSystemRenderer.allowRoll
   fullName: UnityEngine.ParticleSystemRenderer.allowRoll
   nameWithType: ParticleSystemRenderer.allowRoll
+- uid: UnityEngine.ParticleSystemRenderer.applyActiveColorSpace
+  name: applyActiveColorSpace
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ParticleSystemRenderer-applyActiveColorSpace.html
+  commentId: P:UnityEngine.ParticleSystemRenderer.applyActiveColorSpace
+  fullName: UnityEngine.ParticleSystemRenderer.applyActiveColorSpace
+  nameWithType: ParticleSystemRenderer.applyActiveColorSpace
 - uid: UnityEngine.ParticleSystemRenderer.AreVertexStreamsEnabled(UnityEngine.ParticleSystemVertexStreams)
   name: AreVertexStreamsEnabled
   href: https://docs.unity3d.com/Documentation/ScriptReference/ParticleSystemRenderer.AreVertexStreamsEnabled.html
@@ -165721,12 +165751,6 @@ references:
   commentId: P:UnityEngine.Physics.bounceThreshold
   fullName: UnityEngine.Physics.bounceThreshold
   nameWithType: Physics.bounceThreshold
-- uid: UnityEngine.Physics.bounceTreshold
-  name: bounceTreshold
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Physics-bounceTreshold.html
-  commentId: P:UnityEngine.Physics.bounceTreshold
-  fullName: UnityEngine.Physics.bounceTreshold
-  nameWithType: Physics.bounceTreshold
 - uid: UnityEngine.Physics.BoxCast(UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Quaternion,System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)
   name: BoxCast
   href: https://docs.unity3d.com/Documentation/ScriptReference/Physics.BoxCast.html
@@ -166555,18 +166579,6 @@ references:
   commentId: P:UnityEngine.Physics.sleepThreshold
   fullName: UnityEngine.Physics.sleepThreshold
   nameWithType: Physics.sleepThreshold
-- uid: UnityEngine.Physics.solverIterationCount
-  name: solverIterationCount
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Physics-solverIterationCount.html
-  commentId: P:UnityEngine.Physics.solverIterationCount
-  fullName: UnityEngine.Physics.solverIterationCount
-  nameWithType: Physics.solverIterationCount
-- uid: UnityEngine.Physics.solverVelocityIterationCount
-  name: solverVelocityIterationCount
-  href: https://docs.unity3d.com/Documentation/ScriptReference/Physics-solverVelocityIterationCount.html
-  commentId: P:UnityEngine.Physics.solverVelocityIterationCount
-  fullName: UnityEngine.Physics.solverVelocityIterationCount
-  nameWithType: Physics.solverVelocityIterationCount
 - uid: UnityEngine.Physics.SphereCast(UnityEngine.Ray,System.Single,System.Single,System.Int32,UnityEngine.QueryTriggerInteraction)
   name: SphereCast
   href: https://docs.unity3d.com/Documentation/ScriptReference/Physics.SphereCast.html
@@ -171847,6 +171859,12 @@ references:
   commentId: P:UnityEngine.PolygonCollider2D.autoTiling
   fullName: UnityEngine.PolygonCollider2D.autoTiling
   nameWithType: PolygonCollider2D.autoTiling
+- uid: UnityEngine.PolygonCollider2D.CreateFromSprite(UnityEngine.Sprite,System.Single,System.Byte,System.Boolean)
+  name: CreateFromSprite
+  href: https://docs.unity3d.com/Documentation/ScriptReference/PolygonCollider2D.CreateFromSprite.html
+  commentId: M:UnityEngine.PolygonCollider2D.CreateFromSprite(UnityEngine.Sprite,System.Single,System.Byte,System.Boolean)
+  fullName: UnityEngine.PolygonCollider2D.CreateFromSprite
+  nameWithType: PolygonCollider2D.CreateFromSprite(Sprite, Single, Byte, Boolean)
 - uid: UnityEngine.PolygonCollider2D.CreatePrimitive(System.Int32,UnityEngine.Vector2,UnityEngine.Vector2)
   name: CreatePrimitive
   href: https://docs.unity3d.com/Documentation/ScriptReference/PolygonCollider2D.CreatePrimitive.html
@@ -206161,12 +206179,6 @@ references:
   commentId: P:UnityEngine.TextCore.Text.FontAsset.fallbackFontAssetTable
   fullName: UnityEngine.TextCore.Text.FontAsset.fallbackFontAssetTable
   nameWithType: FontAsset.fallbackFontAssetTable
-- uid: UnityEngine.TextCore.Text.FontAsset.Finalize
-  name: Finalize
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.FontAsset.Finalize.html
-  commentId: M:UnityEngine.TextCore.Text.FontAsset.Finalize
-  fullName: UnityEngine.TextCore.Text.FontAsset.Finalize
-  nameWithType: FontAsset.Finalize()
 - uid: UnityEngine.TextCore.Text.FontAsset.fontAssetCreationEditorSettings
   name: fontAssetCreationEditorSettings
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.FontAsset-fontAssetCreationEditorSettings.html
@@ -212413,6 +212425,12 @@ references:
   commentId: P:UnityEngine.TrailRenderer.alignment
   fullName: UnityEngine.TrailRenderer.alignment
   nameWithType: TrailRenderer.alignment
+- uid: UnityEngine.TrailRenderer.applyActiveColorSpace
+  name: applyActiveColorSpace
+  href: https://docs.unity3d.com/Documentation/ScriptReference/TrailRenderer-applyActiveColorSpace.html
+  commentId: P:UnityEngine.TrailRenderer.applyActiveColorSpace
+  fullName: UnityEngine.TrailRenderer.applyActiveColorSpace
+  nameWithType: TrailRenderer.applyActiveColorSpace
 - uid: UnityEngine.TrailRenderer.autodestruct
   name: autodestruct
   href: https://docs.unity3d.com/Documentation/ScriptReference/TrailRenderer-autodestruct.html
@@ -219661,6 +219679,12 @@ references:
   commentId: T:UnityEngine.UIElements.DropdownMenu
   fullName: UnityEngine.UIElements.DropdownMenu
   nameWithType: DropdownMenu
+- uid: UnityEngine.UIElements.DropdownMenu.allowDuplicateNames
+  name: allowDuplicateNames
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DropdownMenu-allowDuplicateNames.html
+  commentId: P:UnityEngine.UIElements.DropdownMenu.allowDuplicateNames
+  fullName: UnityEngine.UIElements.DropdownMenu.allowDuplicateNames
+  nameWithType: DropdownMenu.allowDuplicateNames
 - uid: UnityEngine.UIElements.DropdownMenu.AppendAction(System.String,System.Action{UnityEngine.UIElements.DropdownMenuAction},System.Func{UnityEngine.UIElements.DropdownMenuAction,UnityEngine.UIElements.DropdownMenuAction.Status},System.Object)
   name: AppendAction
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.DropdownMenu.AppendAction.html
@@ -227023,6 +227047,24 @@ references:
   commentId: M:UnityEngine.UIElements.MultiColumnListViewController.Dispose
   fullName: UnityEngine.UIElements.MultiColumnListViewController.Dispose
   nameWithType: MultiColumnListViewController.Dispose()
+- uid: UnityEngine.UIElements.MultiColumnListViewController.GetIdForIndex(System.Int32)
+  name: GetIdForIndex
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MultiColumnListViewController.GetIdForIndex.html
+  commentId: M:UnityEngine.UIElements.MultiColumnListViewController.GetIdForIndex(System.Int32)
+  fullName: UnityEngine.UIElements.MultiColumnListViewController.GetIdForIndex
+  nameWithType: MultiColumnListViewController.GetIdForIndex(Int32)
+- uid: UnityEngine.UIElements.MultiColumnListViewController.GetIndexForId(System.Int32)
+  name: GetIndexForId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MultiColumnListViewController.GetIndexForId.html
+  commentId: M:UnityEngine.UIElements.MultiColumnListViewController.GetIndexForId(System.Int32)
+  fullName: UnityEngine.UIElements.MultiColumnListViewController.GetIndexForId
+  nameWithType: MultiColumnListViewController.GetIndexForId(Int32)
+- uid: UnityEngine.UIElements.MultiColumnListViewController.GetItemForIndex(System.Int32)
+  name: GetItemForIndex
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MultiColumnListViewController.GetItemForIndex.html
+  commentId: M:UnityEngine.UIElements.MultiColumnListViewController.GetItemForIndex(System.Int32)
+  fullName: UnityEngine.UIElements.MultiColumnListViewController.GetItemForIndex
+  nameWithType: MultiColumnListViewController.GetItemForIndex(Int32)
 - uid: UnityEngine.UIElements.MultiColumnListViewController.MakeItem
   name: MakeItem
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.MultiColumnListViewController.MakeItem.html
@@ -232261,6 +232303,18 @@ references:
   commentId: P:UnityEngine.UIElements.TabView.contentViewport
   fullName: UnityEngine.UIElements.TabView.contentViewport
   nameWithType: TabView.contentViewport
+- uid: UnityEngine.UIElements.TabView.GetTab(System.Int32)
+  name: GetTab
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.GetTab.html
+  commentId: M:UnityEngine.UIElements.TabView.GetTab(System.Int32)
+  fullName: UnityEngine.UIElements.TabView.GetTab
+  nameWithType: TabView.GetTab(Int32)
+- uid: UnityEngine.UIElements.TabView.GetTabHeader(System.Int32)
+  name: GetTabHeader
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.GetTabHeader.html
+  commentId: M:UnityEngine.UIElements.TabView.GetTabHeader(System.Int32)
+  fullName: UnityEngine.UIElements.TabView.GetTabHeader
+  nameWithType: TabView.GetTabHeader(Int32)
 - uid: UnityEngine.UIElements.TabView.headerContainerClassName
   name: headerContainerClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-headerContainerClassName.html
@@ -232291,12 +232345,30 @@ references:
   commentId: F:UnityEngine.UIElements.TabView.reorderableUssClassName
   fullName: UnityEngine.UIElements.TabView.reorderableUssClassName
   nameWithType: TabView.reorderableUssClassName
+- uid: UnityEngine.UIElements.TabView.ReorderTab(System.Int32,System.Int32)
+  name: ReorderTab
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.ReorderTab.html
+  commentId: M:UnityEngine.UIElements.TabView.ReorderTab(System.Int32,System.Int32)
+  fullName: UnityEngine.UIElements.TabView.ReorderTab
+  nameWithType: TabView.ReorderTab(Int32, Int32)
 - uid: UnityEngine.UIElements.TabView.selectedTabIndex
   name: selectedTabIndex
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-selectedTabIndex.html
   commentId: P:UnityEngine.UIElements.TabView.selectedTabIndex
   fullName: UnityEngine.UIElements.TabView.selectedTabIndex
   nameWithType: TabView.selectedTabIndex
+- uid: UnityEngine.UIElements.TabView.tabClosed
+  name: tabClosed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.tabClosed.html
+  commentId: E:UnityEngine.UIElements.TabView.tabClosed
+  fullName: UnityEngine.UIElements.TabView.tabClosed
+  nameWithType: TabView.tabClosed
+- uid: UnityEngine.UIElements.TabView.tabReordered
+  name: tabReordered
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView.tabReordered.html
+  commentId: E:UnityEngine.UIElements.TabView.tabReordered
+  fullName: UnityEngine.UIElements.TabView.tabReordered
+  nameWithType: TabView.tabReordered
 - uid: UnityEngine.UIElements.TabView.ussClassName
   name: ussClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TabView-ussClassName.html
@@ -241579,6 +241651,12 @@ references:
   commentId: M:UnityEngine.VFX.VFXManager.ProcessCamera(UnityEngine.Camera)
   fullName: UnityEngine.VFX.VFXManager.ProcessCamera
   nameWithType: VFXManager.ProcessCamera(Camera)
+- uid: UnityEngine.VFX.VFXManager.ProcessCameraCommand(UnityEngine.Camera,UnityEngine.Rendering.CommandBuffer,UnityEngine.VFX.VFXCameraXRSettings,UnityEngine.Rendering.CullingResults,UnityEngine.Rendering.CullingResults)
+  name: ProcessCameraCommand
+  href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXManager.ProcessCameraCommand.html
+  commentId: M:UnityEngine.VFX.VFXManager.ProcessCameraCommand(UnityEngine.Camera,UnityEngine.Rendering.CommandBuffer,UnityEngine.VFX.VFXCameraXRSettings,UnityEngine.Rendering.CullingResults,UnityEngine.Rendering.CullingResults)
+  fullName: UnityEngine.VFX.VFXManager.ProcessCameraCommand
+  nameWithType: VFXManager.ProcessCameraCommand(Camera, CommandBuffer, VFXCameraXRSettings, CullingResults, CullingResults)
 - uid: UnityEngine.VFX.VFXManager.ProcessCameraCommand(UnityEngine.Camera,UnityEngine.Rendering.CommandBuffer,UnityEngine.VFX.VFXCameraXRSettings,UnityEngine.Rendering.CullingResults)
   name: ProcessCameraCommand
   href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXManager.ProcessCameraCommand.html

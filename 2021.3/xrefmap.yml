@@ -13741,6 +13741,12 @@ references:
   commentId: F:UnityEditor.BuildAssetBundleOptions.StrictMode
   fullName: UnityEditor.BuildAssetBundleOptions.StrictMode
   nameWithType: BuildAssetBundleOptions.StrictMode
+- uid: UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  name: StripUnatlasedSpriteCopies
+  href: https://docs.unity3d.com/Documentation/ScriptReference/BuildAssetBundleOptions.StripUnatlasedSpriteCopies.html
+  commentId: F:UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  fullName: UnityEditor.BuildAssetBundleOptions.StripUnatlasedSpriteCopies
+  nameWithType: BuildAssetBundleOptions.StripUnatlasedSpriteCopies
 - uid: UnityEditor.BuildAssetBundleOptions.UncompressedAssetBundle
   name: UncompressedAssetBundle
   href: https://docs.unity3d.com/Documentation/ScriptReference/BuildAssetBundleOptions.UncompressedAssetBundle.html
