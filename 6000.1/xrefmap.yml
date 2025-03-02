@@ -206155,12 +206155,6 @@ references:
   commentId: P:UnityEngine.TextCore.Text.FontAsset.fallbackFontAssetTable
   fullName: UnityEngine.TextCore.Text.FontAsset.fallbackFontAssetTable
   nameWithType: FontAsset.fallbackFontAssetTable
-- uid: UnityEngine.TextCore.Text.FontAsset.Finalize
-  name: Finalize
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.FontAsset.Finalize.html
-  commentId: M:UnityEngine.TextCore.Text.FontAsset.Finalize
-  fullName: UnityEngine.TextCore.Text.FontAsset.Finalize
-  nameWithType: FontAsset.Finalize()
 - uid: UnityEngine.TextCore.Text.FontAsset.fontAssetCreationEditorSettings
   name: fontAssetCreationEditorSettings
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.FontAsset-fontAssetCreationEditorSettings.html

@@ -212941,6 +212941,12 @@ references:
   commentId: F:UnityEngine.UIElements.BaseField`1.alignedFieldUssClassName
   fullName: UnityEngine.UIElements.BaseField
   nameWithType: BaseField<TValueType>.alignedFieldUssClassName
+- uid: UnityEngine.UIElements.BaseField`1.HandleEventBubbleUp(UnityEngine.UIElements.EventBase)
+  name: HandleEventBubbleUp
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseField.html
+  commentId: M:UnityEngine.UIElements.BaseField`1.HandleEventBubbleUp(UnityEngine.UIElements.EventBase)
+  fullName: UnityEngine.UIElements.BaseField
+  nameWithType: BaseField<TValueType>.HandleEventBubbleUp(EventBase)
 - uid: UnityEngine.UIElements.BaseField`1.inputUssClassName
   name: inputUssClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseField`1-inputUssClassName.html
