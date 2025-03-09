@@ -20485,6 +20485,18 @@ references:
   commentId: M:UnityEditor.Build.Profile.BuildProfile.GetActiveBuildProfile
   fullName: UnityEditor.Build.Profile.BuildProfile.GetActiveBuildProfile
   nameWithType: BuildProfile.GetActiveBuildProfile()
+- uid: UnityEditor.Build.Profile.BuildProfile.GetActiveComponent``1
+  name: GetActiveComponent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile.GetActiveComponent.html
+  commentId: M:UnityEditor.Build.Profile.BuildProfile.GetActiveComponent``1
+  fullName: UnityEditor.Build.Profile.BuildProfile.GetActiveComponent
+  nameWithType: BuildProfile.GetActiveComponent<T>()
+- uid: UnityEditor.Build.Profile.BuildProfile.GetComponent``1
+  name: GetComponent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile.GetComponent.html
+  commentId: M:UnityEditor.Build.Profile.BuildProfile.GetComponent``1
+  fullName: UnityEditor.Build.Profile.BuildProfile.GetComponent
+  nameWithType: BuildProfile.GetComponent<T>()
 - uid: UnityEditor.Build.Profile.BuildProfile.GetScenesForBuild
   name: GetScenesForBuild
   href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile.GetScenesForBuild.html
@@ -32035,6 +32047,12 @@ references:
   commentId: P:UnityEditor.EditorSettings.serializeInlineMappingsOnOneLine
   fullName: UnityEditor.EditorSettings.serializeInlineMappingsOnOneLine
   nameWithType: EditorSettings.serializeInlineMappingsOnOneLine
+- uid: UnityEditor.EditorSettings.shadowmaskStitching
+  name: shadowmaskStitching
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EditorSettings-shadowmaskStitching.html
+  commentId: P:UnityEditor.EditorSettings.shadowmaskStitching
+  fullName: UnityEditor.EditorSettings.shadowmaskStitching
+  nameWithType: EditorSettings.shadowmaskStitching
 - uid: UnityEditor.EditorSettings.spritePackerMode
   name: spritePackerMode
   href: https://docs.unity3d.com/Documentation/ScriptReference/EditorSettings-spritePackerMode.html
@@ -144073,6 +144091,18 @@ references:
   commentId: M:UnityEngine.ImageConversion.EncodeToTGA(UnityEngine.Texture2D)
   fullName: UnityEngine.ImageConversion.EncodeToTGA
   nameWithType: ImageConversion.EncodeToTGA(Texture2D)
+- uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte},System.Boolean)
+  name: LoadImage
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
+  commentId: M:UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte},System.Boolean)
+  fullName: UnityEngine.ImageConversion.LoadImage
+  nameWithType: ImageConversion.LoadImage(Texture2D, ReadOnlySpan<Byte>, Boolean)
+- uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte})
+  name: LoadImage
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
+  commentId: M:UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte})
+  fullName: UnityEngine.ImageConversion.LoadImage
+  nameWithType: ImageConversion.LoadImage(Texture2D, ReadOnlySpan<Byte>)
 - uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,System.Byte[],System.Boolean)
   name: LoadImage
   href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
@@ -154801,6 +154831,12 @@ references:
   commentId: M:UnityEngine.Mesh.AcquireReadOnlyMeshData(UnityEngine.Mesh[])
   fullName: UnityEngine.Mesh.AcquireReadOnlyMeshData
   nameWithType: Mesh.AcquireReadOnlyMeshData(Mesh[])
+- uid: UnityEngine.Mesh.AddBlendShapeFrame(System.String,System.Single,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Vector3})
+  name: AddBlendShapeFrame
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.AddBlendShapeFrame.html
+  commentId: M:UnityEngine.Mesh.AddBlendShapeFrame(System.String,System.Single,ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Vector3},ReadOnlySpan{UnityEngine.Vector3})
+  fullName: UnityEngine.Mesh.AddBlendShapeFrame
+  nameWithType: Mesh.AddBlendShapeFrame(String, Single, ReadOnlySpan<Vector3>, ReadOnlySpan<Vector3>, ReadOnlySpan<Vector3>)
 - uid: UnityEngine.Mesh.AddBlendShapeFrame(System.String,System.Single,UnityEngine.Vector3[],UnityEngine.Vector3[],UnityEngine.Vector3[])
   name: AddBlendShapeFrame
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.AddBlendShapeFrame.html
@@ -215005,6 +215041,12 @@ references:
   commentId: F:UnityEngine.UIElements.BaseField`1.alignedFieldUssClassName
   fullName: UnityEngine.UIElements.BaseField
   nameWithType: BaseField<TValueType>.alignedFieldUssClassName
+- uid: UnityEngine.UIElements.BaseField`1.HandleEventBubbleUp(UnityEngine.UIElements.EventBase)
+  name: HandleEventBubbleUp
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseField.html
+  commentId: M:UnityEngine.UIElements.BaseField`1.HandleEventBubbleUp(UnityEngine.UIElements.EventBase)
+  fullName: UnityEngine.UIElements.BaseField
+  nameWithType: BaseField<TValueType>.HandleEventBubbleUp(EventBase)
 - uid: UnityEngine.UIElements.BaseField`1.inputUssClassName
   name: inputUssClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.BaseField`1-inputUssClassName.html
@@ -227785,6 +227827,12 @@ references:
   commentId: M:UnityEngine.UIElements.PanelSettings.SetScreenToPanelSpaceFunction(System.Func{UnityEngine.Vector2,UnityEngine.Vector2})
   fullName: UnityEngine.UIElements.PanelSettings.SetScreenToPanelSpaceFunction
   nameWithType: PanelSettings.SetScreenToPanelSpaceFunction(Func<Vector2, Vector2>)
+- uid: UnityEngine.UIElements.PanelSettings.SetScreenToPanelSpaceFunction3D(System.Func{UnityEngine.Vector2,UnityEngine.Vector3})
+  name: SetScreenToPanelSpaceFunction3D
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelSettings.SetScreenToPanelSpaceFunction3D.html
+  commentId: M:UnityEngine.UIElements.PanelSettings.SetScreenToPanelSpaceFunction3D(System.Func{UnityEngine.Vector2,UnityEngine.Vector3})
+  fullName: UnityEngine.UIElements.PanelSettings.SetScreenToPanelSpaceFunction3D
+  nameWithType: PanelSettings.SetScreenToPanelSpaceFunction3D(Func<Vector2, Vector3>)
 - uid: UnityEngine.UIElements.PanelSettings.sortingOrder
   name: sortingOrder
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelSettings-sortingOrder.html
@@ -228307,6 +228355,18 @@ references:
   commentId: F:UnityEngine.UIElements.PointerId.touchPointerIdBase
   fullName: UnityEngine.UIElements.PointerId.touchPointerIdBase
   nameWithType: PointerId.touchPointerIdBase
+- uid: UnityEngine.UIElements.PointerId.trackedPointerCount
+  name: trackedPointerCount
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PointerId-trackedPointerCount.html
+  commentId: F:UnityEngine.UIElements.PointerId.trackedPointerCount
+  fullName: UnityEngine.UIElements.PointerId.trackedPointerCount
+  nameWithType: PointerId.trackedPointerCount
+- uid: UnityEngine.UIElements.PointerId.trackedPointerIdBase
+  name: trackedPointerIdBase
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PointerId-trackedPointerIdBase.html
+  commentId: F:UnityEngine.UIElements.PointerId.trackedPointerIdBase
+  fullName: UnityEngine.UIElements.PointerId.trackedPointerIdBase
+  nameWithType: PointerId.trackedPointerIdBase
 - uid: UnityEngine.UIElements.PointerLeaveEvent
   name: PointerLeaveEvent
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PointerLeaveEvent.html
@@ -228433,6 +228493,12 @@ references:
   commentId: F:UnityEngine.UIElements.PointerType.touch
   fullName: UnityEngine.UIElements.PointerType.touch
   nameWithType: PointerType.touch
+- uid: UnityEngine.UIElements.PointerType.tracked
+  name: tracked
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PointerType-tracked.html
+  commentId: F:UnityEngine.UIElements.PointerType.tracked
+  fullName: UnityEngine.UIElements.PointerType.tracked
+  nameWithType: PointerType.tracked
 - uid: UnityEngine.UIElements.PointerType.unknown
   name: unknown
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PointerType-unknown.html
@@ -229333,6 +229399,12 @@ references:
   commentId: M:UnityEngine.UIElements.Scale.op_Implicit(UnityEngine.Vector2)~UnityEngine.UIElements.Scale
   fullName: UnityEngine.UIElements.Scale.Implicit
   nameWithType: Scale.Implicit(Vector2 to Scale)
+- uid: UnityEngine.UIElements.Scale.op_Implicit(UnityEngine.Vector3)~UnityEngine.UIElements.Scale
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Scale.Implicit.html
+  commentId: M:UnityEngine.UIElements.Scale.op_Implicit(UnityEngine.Vector3)~UnityEngine.UIElements.Scale
+  fullName: UnityEngine.UIElements.Scale.Implicit
+  nameWithType: Scale.Implicit(Vector3 to Scale)
 - uid: UnityEngine.UIElements.Scale.op_Inequality(UnityEngine.UIElements.Scale,UnityEngine.UIElements.Scale)
   name: Inequality
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Scale.Inequality.html
@@ -231673,6 +231745,12 @@ references:
   commentId: M:UnityEngine.UIElements.StyleRotate.op_Equality(UnityEngine.UIElements.StyleRotate,UnityEngine.UIElements.StyleRotate)
   fullName: UnityEngine.UIElements.StyleRotate.Equality
   nameWithType: StyleRotate.Equality(StyleRotate, StyleRotate)
+- uid: UnityEngine.UIElements.StyleRotate.op_Implicit(UnityEngine.Quaternion)~UnityEngine.UIElements.StyleRotate
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleRotate.Implicit.html
+  commentId: M:UnityEngine.UIElements.StyleRotate.op_Implicit(UnityEngine.Quaternion)~UnityEngine.UIElements.StyleRotate
+  fullName: UnityEngine.UIElements.StyleRotate.Implicit
+  nameWithType: StyleRotate.Implicit(Quaternion to StyleRotate)
 - uid: UnityEngine.UIElements.StyleRotate.op_Implicit(UnityEngine.UIElements.Rotate)~UnityEngine.UIElements.StyleRotate
   name: Implicit
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleRotate.Implicit.html
@@ -231775,6 +231853,12 @@ references:
   commentId: M:UnityEngine.UIElements.StyleScale.op_Implicit(UnityEngine.Vector2)~UnityEngine.UIElements.StyleScale
   fullName: UnityEngine.UIElements.StyleScale.Implicit
   nameWithType: StyleScale.Implicit(Vector2 to StyleScale)
+- uid: UnityEngine.UIElements.StyleScale.op_Implicit(UnityEngine.Vector3)~UnityEngine.UIElements.StyleScale
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleScale.Implicit.html
+  commentId: M:UnityEngine.UIElements.StyleScale.op_Implicit(UnityEngine.Vector3)~UnityEngine.UIElements.StyleScale
+  fullName: UnityEngine.UIElements.StyleScale.Implicit
+  nameWithType: StyleScale.Implicit(Vector3 to StyleScale)
 - uid: UnityEngine.UIElements.StyleScale.op_Inequality(UnityEngine.UIElements.StyleScale,UnityEngine.UIElements.StyleScale)
   name: Inequality
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleScale.Inequality.html
@@ -232033,6 +232117,18 @@ references:
   commentId: M:UnityEngine.UIElements.StyleTranslate.op_Implicit(UnityEngine.UIElements.Translate)~UnityEngine.UIElements.StyleTranslate
   fullName: UnityEngine.UIElements.StyleTranslate.Implicit
   nameWithType: StyleTranslate.Implicit(Translate to StyleTranslate)
+- uid: UnityEngine.UIElements.StyleTranslate.op_Implicit(UnityEngine.Vector2)~UnityEngine.UIElements.StyleTranslate
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTranslate.Implicit.html
+  commentId: M:UnityEngine.UIElements.StyleTranslate.op_Implicit(UnityEngine.Vector2)~UnityEngine.UIElements.StyleTranslate
+  fullName: UnityEngine.UIElements.StyleTranslate.Implicit
+  nameWithType: StyleTranslate.Implicit(Vector2 to StyleTranslate)
+- uid: UnityEngine.UIElements.StyleTranslate.op_Implicit(UnityEngine.Vector3)~UnityEngine.UIElements.StyleTranslate
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTranslate.Implicit.html
+  commentId: M:UnityEngine.UIElements.StyleTranslate.op_Implicit(UnityEngine.Vector3)~UnityEngine.UIElements.StyleTranslate
+  fullName: UnityEngine.UIElements.StyleTranslate.Implicit
+  nameWithType: StyleTranslate.Implicit(Vector3 to StyleTranslate)
 - uid: UnityEngine.UIElements.StyleTranslate.op_Inequality(UnityEngine.UIElements.StyleTranslate,UnityEngine.UIElements.StyleTranslate)
   name: Inequality
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTranslate.Inequality.html
@@ -234469,6 +234565,18 @@ references:
   commentId: M:UnityEngine.UIElements.Translate.op_Equality(UnityEngine.UIElements.Translate,UnityEngine.UIElements.Translate)
   fullName: UnityEngine.UIElements.Translate.Equality
   nameWithType: Translate.Equality(Translate, Translate)
+- uid: UnityEngine.UIElements.Translate.op_Implicit(UnityEngine.Vector2)~UnityEngine.UIElements.Translate
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Translate.Implicit.html
+  commentId: M:UnityEngine.UIElements.Translate.op_Implicit(UnityEngine.Vector2)~UnityEngine.UIElements.Translate
+  fullName: UnityEngine.UIElements.Translate.Implicit
+  nameWithType: Translate.Implicit(Vector2 to Translate)
+- uid: UnityEngine.UIElements.Translate.op_Implicit(UnityEngine.Vector3)~UnityEngine.UIElements.Translate
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Translate.Implicit.html
+  commentId: M:UnityEngine.UIElements.Translate.op_Implicit(UnityEngine.Vector3)~UnityEngine.UIElements.Translate
+  fullName: UnityEngine.UIElements.Translate.Implicit
+  nameWithType: Translate.Implicit(Vector3 to Translate)
 - uid: UnityEngine.UIElements.Translate.op_Inequality(UnityEngine.UIElements.Translate,UnityEngine.UIElements.Translate)
   name: Inequality
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Translate.Inequality.html
