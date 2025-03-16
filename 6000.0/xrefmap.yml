@@ -143023,6 +143023,18 @@ references:
   commentId: M:UnityEngine.ImageConversion.EncodeToTGA(UnityEngine.Texture2D)
   fullName: UnityEngine.ImageConversion.EncodeToTGA
   nameWithType: ImageConversion.EncodeToTGA(Texture2D)
+- uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte},System.Boolean)
+  name: LoadImage
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
+  commentId: M:UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte},System.Boolean)
+  fullName: UnityEngine.ImageConversion.LoadImage
+  nameWithType: ImageConversion.LoadImage(Texture2D, ReadOnlySpan<Byte>, Boolean)
+- uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte})
+  name: LoadImage
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
+  commentId: M:UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte})
+  fullName: UnityEngine.ImageConversion.LoadImage
+  nameWithType: ImageConversion.LoadImage(Texture2D, ReadOnlySpan<Byte>)
 - uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,System.Byte[],System.Boolean)
   name: LoadImage
   href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
@@ -144109,6 +144121,12 @@ references:
   commentId: F:UnityEngine.iOS.DeviceGeneration.iPhone16
   fullName: UnityEngine.iOS.DeviceGeneration.iPhone16
   nameWithType: DeviceGeneration.iPhone16
+- uid: UnityEngine.iOS.DeviceGeneration.iPhone16e
+  name: iPhone16e
+  href: https://docs.unity3d.com/Documentation/ScriptReference/iOS.DeviceGeneration-iPhone16e.html
+  commentId: F:UnityEngine.iOS.DeviceGeneration.iPhone16e
+  fullName: UnityEngine.iOS.DeviceGeneration.iPhone16e
+  nameWithType: DeviceGeneration.iPhone16e
 - uid: UnityEngine.iOS.DeviceGeneration.iPhone16Plus
   name: iPhone16Plus
   href: https://docs.unity3d.com/Documentation/ScriptReference/iOS.DeviceGeneration-iPhone16Plus.html

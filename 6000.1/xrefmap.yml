@@ -20485,6 +20485,18 @@ references:
   commentId: M:UnityEditor.Build.Profile.BuildProfile.GetActiveBuildProfile
   fullName: UnityEditor.Build.Profile.BuildProfile.GetActiveBuildProfile
   nameWithType: BuildProfile.GetActiveBuildProfile()
+- uid: UnityEditor.Build.Profile.BuildProfile.GetActiveComponent``1
+  name: GetActiveComponent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile.GetActiveComponent.html
+  commentId: M:UnityEditor.Build.Profile.BuildProfile.GetActiveComponent``1
+  fullName: UnityEditor.Build.Profile.BuildProfile.GetActiveComponent
+  nameWithType: BuildProfile.GetActiveComponent<T>()
+- uid: UnityEditor.Build.Profile.BuildProfile.GetComponent``1
+  name: GetComponent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile.GetComponent.html
+  commentId: M:UnityEditor.Build.Profile.BuildProfile.GetComponent``1
+  fullName: UnityEditor.Build.Profile.BuildProfile.GetComponent
+  nameWithType: BuildProfile.GetComponent<T>()
 - uid: UnityEditor.Build.Profile.BuildProfile.GetScenesForBuild
   name: GetScenesForBuild
   href: https://docs.unity3d.com/Documentation/ScriptReference/Build.Profile.BuildProfile.GetScenesForBuild.html
@@ -144055,6 +144067,18 @@ references:
   commentId: M:UnityEngine.ImageConversion.EncodeToTGA(UnityEngine.Texture2D)
   fullName: UnityEngine.ImageConversion.EncodeToTGA
   nameWithType: ImageConversion.EncodeToTGA(Texture2D)
+- uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte},System.Boolean)
+  name: LoadImage
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
+  commentId: M:UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte},System.Boolean)
+  fullName: UnityEngine.ImageConversion.LoadImage
+  nameWithType: ImageConversion.LoadImage(Texture2D, ReadOnlySpan<Byte>, Boolean)
+- uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte})
+  name: LoadImage
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
+  commentId: M:UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,ReadOnlySpan{System.Byte})
+  fullName: UnityEngine.ImageConversion.LoadImage
+  nameWithType: ImageConversion.LoadImage(Texture2D, ReadOnlySpan<Byte>)
 - uid: UnityEngine.ImageConversion.LoadImage(UnityEngine.Texture2D,System.Byte[],System.Boolean)
   name: LoadImage
   href: https://docs.unity3d.com/Documentation/ScriptReference/ImageConversion.LoadImage.html
@@ -145141,6 +145165,12 @@ references:
   commentId: F:UnityEngine.iOS.DeviceGeneration.iPhone16
   fullName: UnityEngine.iOS.DeviceGeneration.iPhone16
   nameWithType: DeviceGeneration.iPhone16
+- uid: UnityEngine.iOS.DeviceGeneration.iPhone16e
+  name: iPhone16e
+  href: https://docs.unity3d.com/Documentation/ScriptReference/iOS.DeviceGeneration-iPhone16e.html
+  commentId: F:UnityEngine.iOS.DeviceGeneration.iPhone16e
+  fullName: UnityEngine.iOS.DeviceGeneration.iPhone16e
+  nameWithType: DeviceGeneration.iPhone16e
 - uid: UnityEngine.iOS.DeviceGeneration.iPhone16Plus
   name: iPhone16Plus
   href: https://docs.unity3d.com/Documentation/ScriptReference/iOS.DeviceGeneration-iPhone16Plus.html
@@ -170851,6 +170881,12 @@ references:
   commentId: T:UnityEngine.PlayerLoop.EarlyUpdate.GpuTimestamp
   fullName: UnityEngine.PlayerLoop.EarlyUpdate.GpuTimestamp
   nameWithType: EarlyUpdate.GpuTimestamp
+- uid: UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
+  name: EarlyUpdate.InsightsUpdate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerLoop.EarlyUpdate.InsightsUpdate.html
+  commentId: T:UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
+  fullName: UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
+  nameWithType: EarlyUpdate.InsightsUpdate
 - uid: UnityEngine.PlayerLoop.EarlyUpdate.PerformanceAnalyticsUpdate
   name: EarlyUpdate.PerformanceAnalyticsUpdate
   href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerLoop.EarlyUpdate.PerformanceAnalyticsUpdate.html
