@@ -125173,6 +125173,12 @@ references:
   commentId: F:UnityEngine.iOS.DeviceGeneration.iPhone16
   fullName: UnityEngine.iOS.DeviceGeneration.iPhone16
   nameWithType: DeviceGeneration.iPhone16
+- uid: UnityEngine.iOS.DeviceGeneration.iPhone16e
+  name: iPhone16e
+  href: https://docs.unity3d.com/Documentation/ScriptReference/iOS.DeviceGeneration-iPhone16e.html
+  commentId: F:UnityEngine.iOS.DeviceGeneration.iPhone16e
+  fullName: UnityEngine.iOS.DeviceGeneration.iPhone16e
+  nameWithType: DeviceGeneration.iPhone16e
 - uid: UnityEngine.iOS.DeviceGeneration.iPhone16Plus
   name: iPhone16Plus
   href: https://docs.unity3d.com/Documentation/ScriptReference/iOS.DeviceGeneration-iPhone16Plus.html
