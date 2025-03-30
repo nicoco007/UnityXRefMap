@@ -170881,12 +170881,6 @@ references:
   commentId: T:UnityEngine.PlayerLoop.EarlyUpdate.GpuTimestamp
   fullName: UnityEngine.PlayerLoop.EarlyUpdate.GpuTimestamp
   nameWithType: EarlyUpdate.GpuTimestamp
-- uid: UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
-  name: EarlyUpdate.InsightsUpdate
-  href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerLoop.EarlyUpdate.InsightsUpdate.html
-  commentId: T:UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
-  fullName: UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
-  nameWithType: EarlyUpdate.InsightsUpdate
 - uid: UnityEngine.PlayerLoop.EarlyUpdate.PerformanceAnalyticsUpdate
   name: EarlyUpdate.PerformanceAnalyticsUpdate
   href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerLoop.EarlyUpdate.PerformanceAnalyticsUpdate.html
