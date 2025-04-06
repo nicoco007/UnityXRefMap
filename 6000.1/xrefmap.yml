@@ -32047,6 +32047,12 @@ references:
   commentId: P:UnityEditor.EditorSettings.serializeInlineMappingsOnOneLine
   fullName: UnityEditor.EditorSettings.serializeInlineMappingsOnOneLine
   nameWithType: EditorSettings.serializeInlineMappingsOnOneLine
+- uid: UnityEditor.EditorSettings.shadowmaskStitching
+  name: shadowmaskStitching
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EditorSettings-shadowmaskStitching.html
+  commentId: P:UnityEditor.EditorSettings.shadowmaskStitching
+  fullName: UnityEditor.EditorSettings.shadowmaskStitching
+  nameWithType: EditorSettings.shadowmaskStitching
 - uid: UnityEditor.EditorSettings.spritePackerMode
   name: spritePackerMode
   href: https://docs.unity3d.com/Documentation/ScriptReference/EditorSettings-spritePackerMode.html
@@ -241765,6 +241771,12 @@ references:
   commentId: T:UnityEngine.VFX.VFXRenderer
   fullName: UnityEngine.VFX.VFXRenderer
   nameWithType: VFXRenderer
+- uid: UnityEngine.VFX.VFXRenderer.#ctor
+  name: VFXRenderer
+  href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXRenderer.VFXRenderer.html
+  commentId: M:UnityEngine.VFX.VFXRenderer.#ctor
+  fullName: UnityEngine.VFX.VFXRenderer.VFXRenderer
+  nameWithType: VFXRenderer.VFXRenderer()
 - uid: UnityEngine.VFX.VFXSpace
   name: VFXSpace
   href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXSpace.html

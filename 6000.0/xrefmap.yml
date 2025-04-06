@@ -31897,6 +31897,12 @@ references:
   commentId: P:UnityEditor.EditorSettings.serializeInlineMappingsOnOneLine
   fullName: UnityEditor.EditorSettings.serializeInlineMappingsOnOneLine
   nameWithType: EditorSettings.serializeInlineMappingsOnOneLine
+- uid: UnityEditor.EditorSettings.shadowmaskStitching
+  name: shadowmaskStitching
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EditorSettings-shadowmaskStitching.html
+  commentId: P:UnityEditor.EditorSettings.shadowmaskStitching
+  fullName: UnityEditor.EditorSettings.shadowmaskStitching
+  nameWithType: EditorSettings.shadowmaskStitching
 - uid: UnityEditor.EditorSettings.spritePackerMode
   name: spritePackerMode
   href: https://docs.unity3d.com/Documentation/ScriptReference/EditorSettings-spritePackerMode.html

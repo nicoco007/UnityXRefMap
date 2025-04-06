@@ -31945,6 +31945,12 @@ references:
   commentId: P:UnityEditor.EditorSettings.externalVersionControl
   fullName: UnityEditor.EditorSettings.externalVersionControl
   nameWithType: EditorSettings.externalVersionControl
+- uid: UnityEditor.EditorSettings.forceAssetUnloadAndGCOnSceneLoad
+  name: forceAssetUnloadAndGCOnSceneLoad
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EditorSettings-forceAssetUnloadAndGCOnSceneLoad.html
+  commentId: P:UnityEditor.EditorSettings.forceAssetUnloadAndGCOnSceneLoad
+  fullName: UnityEditor.EditorSettings.forceAssetUnloadAndGCOnSceneLoad
+  nameWithType: EditorSettings.forceAssetUnloadAndGCOnSceneLoad
 - uid: UnityEditor.EditorSettings.gameObjectNamingDigits
   name: gameObjectNamingDigits
   href: https://docs.unity3d.com/Documentation/ScriptReference/EditorSettings-gameObjectNamingDigits.html
@@ -51445,6 +51451,36 @@ references:
   commentId: F:UnityEditor.MeshDeformation.GPUBatched
   fullName: UnityEditor.MeshDeformation.GPUBatched
   nameWithType: MeshDeformation.GPUBatched
+- uid: UnityEditor.MeshLodUtility
+  name: MeshLodUtility
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodUtility.html
+  commentId: T:UnityEditor.MeshLodUtility
+  fullName: UnityEditor.MeshLodUtility
+  nameWithType: MeshLodUtility
+- uid: UnityEditor.MeshLodUtility.GenerateMeshLods(UnityEngine.Mesh,System.Int32)
+  name: GenerateMeshLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodUtility.GenerateMeshLods.html
+  commentId: M:UnityEditor.MeshLodUtility.GenerateMeshLods(UnityEngine.Mesh,System.Int32)
+  fullName: UnityEditor.MeshLodUtility.GenerateMeshLods
+  nameWithType: MeshLodUtility.GenerateMeshLods(Mesh, Int32)
+- uid: UnityEditor.MeshLodUtility.GenerateMeshLods(UnityEngine.Mesh,UnityEditor.MeshLodUtility.LodGenerationFlags,System.Int32)
+  name: GenerateMeshLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodUtility.GenerateMeshLods.html
+  commentId: M:UnityEditor.MeshLodUtility.GenerateMeshLods(UnityEngine.Mesh,UnityEditor.MeshLodUtility.LodGenerationFlags,System.Int32)
+  fullName: UnityEditor.MeshLodUtility.GenerateMeshLods
+  nameWithType: MeshLodUtility.GenerateMeshLods(Mesh, MeshLodUtility.LodGenerationFlags, Int32)
+- uid: UnityEditor.MeshLodUtility.LodGenerationFlags
+  name: MeshLodUtility.LodGenerationFlags
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodUtility.LodGenerationFlags.html
+  commentId: T:UnityEditor.MeshLodUtility.LodGenerationFlags
+  fullName: UnityEditor.MeshLodUtility.LodGenerationFlags
+  nameWithType: MeshLodUtility.LodGenerationFlags
+- uid: UnityEditor.MeshLodUtility.LodGenerationFlags.DiscardOddLevels
+  name: DiscardOddLevels
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodUtility.LodGenerationFlags.DiscardOddLevels.html
+  commentId: F:UnityEditor.MeshLodUtility.LodGenerationFlags.DiscardOddLevels
+  fullName: UnityEditor.MeshLodUtility.LodGenerationFlags.DiscardOddLevels
+  nameWithType: MeshLodUtility.LodGenerationFlags.DiscardOddLevels
 - uid: UnityEditor.MeshOptimizationFlags
   name: MeshOptimizationFlags
   href: https://docs.unity3d.com/Documentation/ScriptReference/MeshOptimizationFlags.html
@@ -51769,6 +51805,12 @@ references:
   commentId: P:UnityEditor.ModelImporter.generateMaterials
   fullName: UnityEditor.ModelImporter.generateMaterials
   nameWithType: ModelImporter.generateMaterials
+- uid: UnityEditor.ModelImporter.generateMeshLods
+  name: generateMeshLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ModelImporter-generateMeshLods.html
+  commentId: P:UnityEditor.ModelImporter.generateMeshLods
+  fullName: UnityEditor.ModelImporter.generateMeshLods
+  nameWithType: ModelImporter.generateMeshLods
 - uid: UnityEditor.ModelImporter.generateSecondaryUV
   name: generateSecondaryUV
   href: https://docs.unity3d.com/Documentation/ScriptReference/ModelImporter-generateSecondaryUV.html
@@ -51949,12 +51991,24 @@ references:
   commentId: P:UnityEditor.ModelImporter.maxBonesPerVertex
   fullName: UnityEditor.ModelImporter.maxBonesPerVertex
   nameWithType: ModelImporter.maxBonesPerVertex
+- uid: UnityEditor.ModelImporter.maximumMeshLod
+  name: maximumMeshLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ModelImporter-maximumMeshLod.html
+  commentId: P:UnityEditor.ModelImporter.maximumMeshLod
+  fullName: UnityEditor.ModelImporter.maximumMeshLod
+  nameWithType: ModelImporter.maximumMeshLod
 - uid: UnityEditor.ModelImporter.meshCompression
   name: meshCompression
   href: https://docs.unity3d.com/Documentation/ScriptReference/ModelImporter-meshCompression.html
   commentId: P:UnityEditor.ModelImporter.meshCompression
   fullName: UnityEditor.ModelImporter.meshCompression
   nameWithType: ModelImporter.meshCompression
+- uid: UnityEditor.ModelImporter.meshLodGenerationFlags
+  name: meshLodGenerationFlags
+  href: https://docs.unity3d.com/Documentation/ScriptReference/ModelImporter-meshLodGenerationFlags.html
+  commentId: P:UnityEditor.ModelImporter.meshLodGenerationFlags
+  fullName: UnityEditor.ModelImporter.meshLodGenerationFlags
+  nameWithType: ModelImporter.meshLodGenerationFlags
 - uid: UnityEditor.ModelImporter.meshOptimizationFlags
   name: meshOptimizationFlags
   href: https://docs.unity3d.com/Documentation/ScriptReference/ModelImporter-meshOptimizationFlags.html
@@ -64531,6 +64585,12 @@ references:
   commentId: M:UnityEditor.PreviewRenderUtility.Render(System.Boolean,System.Boolean)
   fullName: UnityEditor.PreviewRenderUtility.Render
   nameWithType: PreviewRenderUtility.Render(Boolean, Boolean)
+- uid: UnityEditor.PreviewRenderUtility.RenderMesh(UnityEngine.Mesh,UnityEngine.Matrix4x4,UnityEngine.Material,System.Int32,UnityEngine.MaterialPropertyBlock,System.Int32)
+  name: RenderMesh
+  href: https://docs.unity3d.com/Documentation/ScriptReference/PreviewRenderUtility.RenderMesh.html
+  commentId: M:UnityEditor.PreviewRenderUtility.RenderMesh(UnityEngine.Mesh,UnityEngine.Matrix4x4,UnityEngine.Material,System.Int32,UnityEngine.MaterialPropertyBlock,System.Int32)
+  fullName: UnityEditor.PreviewRenderUtility.RenderMesh
+  nameWithType: PreviewRenderUtility.RenderMesh(Mesh, Matrix4x4, Material, Int32, MaterialPropertyBlock, Int32)
 - uid: UnityEditor.ProfilerWindow
   name: ProfilerWindow
   href: https://docs.unity3d.com/Documentation/ScriptReference/ProfilerWindow.html
@@ -68035,6 +68095,12 @@ references:
   commentId: M:UnityEditor.Rendering.RenderPipelineEditorUtility.GetPipelineTypeFromPipelineAssetType(Type)
   fullName: UnityEditor.Rendering.RenderPipelineEditorUtility.GetPipelineTypeFromPipelineAssetType
   nameWithType: RenderPipelineEditorUtility.GetPipelineTypeFromPipelineAssetType(Type)
+- uid: UnityEditor.Rendering.RenderPipelineEditorUtility.onRenderingLayerCountChanged
+  name: onRenderingLayerCountChanged
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RenderPipelineEditorUtility-onRenderingLayerCountChanged.html
+  commentId: F:UnityEditor.Rendering.RenderPipelineEditorUtility.onRenderingLayerCountChanged
+  fullName: UnityEditor.Rendering.RenderPipelineEditorUtility.onRenderingLayerCountChanged
+  nameWithType: RenderPipelineEditorUtility.onRenderingLayerCountChanged
 - uid: UnityEditor.Rendering.RenderPipelineEditorUtility.TryAddRenderingLayerName(System.String)
   name: TryAddRenderingLayerName
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RenderPipelineEditorUtility.TryAddRenderingLayerName.html
@@ -72901,6 +72967,12 @@ references:
   commentId: P:UnityEditor.Search.ObjectField.searchViewFlags
   fullName: UnityEditor.Search.ObjectField.searchViewFlags
   nameWithType: ObjectField.searchViewFlags
+- uid: UnityEditor.Search.ObjectField.searchViewState
+  name: searchViewState
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Search.ObjectField-searchViewState.html
+  commentId: P:UnityEditor.Search.ObjectField.searchViewState
+  fullName: UnityEditor.Search.ObjectField.searchViewState
+  nameWithType: ObjectField.searchViewState
 - uid: UnityEditor.Search.ObjectField.SetValueWithoutNotify(UnityEngine.Object)
   name: SetValueWithoutNotify
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.ObjectField.SetValueWithoutNotify.html
@@ -78331,6 +78403,12 @@ references:
   commentId: F:UnityEditor.Search.SearchValue.ValueType.Enum
   fullName: UnityEditor.Search.SearchValue.ValueType.Enum
   nameWithType: SearchValue.ValueType.Enum
+- uid: UnityEditor.Search.SearchValue.ValueType.EnumFlags
+  name: EnumFlags
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Search.SearchValue.ValueType.EnumFlags.html
+  commentId: F:UnityEditor.Search.SearchValue.ValueType.EnumFlags
+  fullName: UnityEditor.Search.SearchValue.ValueType.EnumFlags
+  nameWithType: SearchValue.ValueType.EnumFlags
 - uid: UnityEditor.Search.SearchValue.ValueType.Nil
   name: Nil
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.SearchValue.ValueType.Nil.html
@@ -81145,6 +81223,12 @@ references:
   commentId: P:UnityEditor.SettingsProvider.titleBarGuiHandler
   fullName: UnityEditor.SettingsProvider.titleBarGuiHandler
   nameWithType: SettingsProvider.titleBarGuiHandler
+- uid: UnityEditor.SettingsProvider.ToString
+  name: ToString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/SettingsProvider.ToString.html
+  commentId: M:UnityEditor.SettingsProvider.ToString
+  fullName: UnityEditor.SettingsProvider.ToString
+  nameWithType: SettingsProvider.ToString()
 - uid: UnityEditor.SettingsProviderAttribute
   name: SettingsProviderAttribute
   href: https://docs.unity3d.com/Documentation/ScriptReference/SettingsProviderAttribute.html
@@ -87673,6 +87757,48 @@ references:
   commentId: N:UnityEditor.Toolbars
   fullName: UnityEditor.Toolbars
   nameWithType: UnityEditor.Toolbars
+- uid: UnityEditor.Toolbars.AIDropdownConfig
+  name: AIDropdownConfig
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Toolbars.AIDropdownConfig.html
+  commentId: T:UnityEditor.Toolbars.AIDropdownConfig
+  fullName: UnityEditor.Toolbars.AIDropdownConfig
+  nameWithType: AIDropdownConfig
+- uid: UnityEditor.Toolbars.AIDropdownConfig.RegisterController(UnityEditor.Toolbars.AIDropdownConfigArgs)
+  name: RegisterController
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Toolbars.AIDropdownConfig.RegisterController.html
+  commentId: M:UnityEditor.Toolbars.AIDropdownConfig.RegisterController(UnityEditor.Toolbars.AIDropdownConfigArgs)
+  fullName: UnityEditor.Toolbars.AIDropdownConfig.RegisterController
+  nameWithType: AIDropdownConfig.RegisterController(AIDropdownConfigArgs)
+- uid: UnityEditor.Toolbars.AIDropdownConfig.termsAccepted
+  name: termsAccepted
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Toolbars.AIDropdownConfig-termsAccepted.html
+  commentId: F:UnityEditor.Toolbars.AIDropdownConfig.termsAccepted
+  fullName: UnityEditor.Toolbars.AIDropdownConfig.termsAccepted
+  nameWithType: AIDropdownConfig.termsAccepted
+- uid: UnityEditor.Toolbars.AIDropdownConfigArgs
+  name: AIDropdownConfigArgs
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Toolbars.AIDropdownConfigArgs.html
+  commentId: T:UnityEditor.Toolbars.AIDropdownConfigArgs
+  fullName: UnityEditor.Toolbars.AIDropdownConfigArgs
+  nameWithType: AIDropdownConfigArgs
+- uid: UnityEditor.Toolbars.AIDropdownConfigArgs.button
+  name: button
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Toolbars.AIDropdownConfigArgs-button.html
+  commentId: F:UnityEditor.Toolbars.AIDropdownConfigArgs.button
+  fullName: UnityEditor.Toolbars.AIDropdownConfigArgs.button
+  nameWithType: AIDropdownConfigArgs.button
+- uid: UnityEditor.Toolbars.AIDropdownConfigArgs.content
+  name: content
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Toolbars.AIDropdownConfigArgs-content.html
+  commentId: F:UnityEditor.Toolbars.AIDropdownConfigArgs.content
+  fullName: UnityEditor.Toolbars.AIDropdownConfigArgs.content
+  nameWithType: AIDropdownConfigArgs.content
+- uid: UnityEditor.Toolbars.AIDropdownConfigArgs.defaultContent
+  name: defaultContent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Toolbars.AIDropdownConfigArgs-defaultContent.html
+  commentId: F:UnityEditor.Toolbars.AIDropdownConfigArgs.defaultContent
+  fullName: UnityEditor.Toolbars.AIDropdownConfigArgs.defaultContent
+  nameWithType: AIDropdownConfigArgs.defaultContent
 - uid: UnityEditor.Toolbars.EditorToolbarButton
   name: EditorToolbarButton
   href: https://docs.unity3d.com/Documentation/ScriptReference/Toolbars.EditorToolbarButton.html
@@ -130783,6 +130909,126 @@ references:
   commentId: F:UnityEngine.EffectorSelection2D.Rigidbody
   fullName: UnityEngine.EffectorSelection2D.Rigidbody
   nameWithType: EffectorSelection2D.Rigidbody
+- uid: UnityEngine.EntityId
+  name: EntityId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.html
+  commentId: T:UnityEngine.EntityId
+  fullName: UnityEngine.EntityId
+  nameWithType: EntityId
+- uid: UnityEngine.EntityId.CompareTo(UnityEngine.EntityId)
+  name: CompareTo
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.CompareTo.html
+  commentId: M:UnityEngine.EntityId.CompareTo(UnityEngine.EntityId)
+  fullName: UnityEngine.EntityId.CompareTo
+  nameWithType: EntityId.CompareTo(EntityId)
+- uid: UnityEngine.EntityId.Equals(System.Int32)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Equals.html
+  commentId: M:UnityEngine.EntityId.Equals(System.Int32)
+  fullName: UnityEngine.EntityId.Equals
+  nameWithType: EntityId.Equals(Int32)
+- uid: UnityEngine.EntityId.Equals(System.Object)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Equals.html
+  commentId: M:UnityEngine.EntityId.Equals(System.Object)
+  fullName: UnityEngine.EntityId.Equals
+  nameWithType: EntityId.Equals(Object)
+- uid: UnityEngine.EntityId.Equals(UnityEngine.EntityId)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Equals.html
+  commentId: M:UnityEngine.EntityId.Equals(UnityEngine.EntityId)
+  fullName: UnityEngine.EntityId.Equals
+  nameWithType: EntityId.Equals(EntityId)
+- uid: UnityEngine.EntityId.GetHashCode
+  name: GetHashCode
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.GetHashCode.html
+  commentId: M:UnityEngine.EntityId.GetHashCode
+  fullName: UnityEngine.EntityId.GetHashCode
+  nameWithType: EntityId.GetHashCode()
+- uid: UnityEngine.EntityId.IsValid
+  name: IsValid
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.IsValid.html
+  commentId: M:UnityEngine.EntityId.IsValid
+  fullName: UnityEngine.EntityId.IsValid
+  nameWithType: EntityId.IsValid()
+- uid: UnityEngine.EntityId.None
+  name: None
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.None.html
+  commentId: P:UnityEngine.EntityId.None
+  fullName: UnityEngine.EntityId.None
+  nameWithType: EntityId.None
+- uid: UnityEngine.EntityId.op_Equality(UnityEngine.EntityId,UnityEngine.EntityId)
+  name: Equality
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Equality.html
+  commentId: M:UnityEngine.EntityId.op_Equality(UnityEngine.EntityId,UnityEngine.EntityId)
+  fullName: UnityEngine.EntityId.Equality
+  nameWithType: EntityId.Equality(EntityId, EntityId)
+- uid: UnityEngine.EntityId.op_GreaterThan(UnityEngine.EntityId,UnityEngine.EntityId)
+  name: GreaterThan
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.GreaterThan.html
+  commentId: M:UnityEngine.EntityId.op_GreaterThan(UnityEngine.EntityId,UnityEngine.EntityId)
+  fullName: UnityEngine.EntityId.GreaterThan
+  nameWithType: EntityId.GreaterThan(EntityId, EntityId)
+- uid: UnityEngine.EntityId.op_GreaterThanOrEqual(UnityEngine.EntityId,UnityEngine.EntityId)
+  name: GreaterThanOrEqual
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.GreaterThanOrEqual.html
+  commentId: M:UnityEngine.EntityId.op_GreaterThanOrEqual(UnityEngine.EntityId,UnityEngine.EntityId)
+  fullName: UnityEngine.EntityId.GreaterThanOrEqual
+  nameWithType: EntityId.GreaterThanOrEqual(EntityId, EntityId)
+- uid: UnityEngine.EntityId.op_Implicit(System.Int32)~UnityEngine.EntityId
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Implicit.html
+  commentId: M:UnityEngine.EntityId.op_Implicit(System.Int32)~UnityEngine.EntityId
+  fullName: UnityEngine.EntityId.Implicit
+  nameWithType: EntityId.Implicit(Int32 to EntityId)
+- uid: UnityEngine.EntityId.op_Implicit(UnityEngine.EntityId)~System.Int32
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Implicit.html
+  commentId: M:UnityEngine.EntityId.op_Implicit(UnityEngine.EntityId)~System.Int32
+  fullName: UnityEngine.EntityId.Implicit
+  nameWithType: EntityId.Implicit(EntityId to Int32)
+- uid: UnityEngine.EntityId.op_Implicit(UnityEngine.EntityId)~UnityEngine.InstanceID
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Implicit.html
+  commentId: M:UnityEngine.EntityId.op_Implicit(UnityEngine.EntityId)~UnityEngine.InstanceID
+  fullName: UnityEngine.EntityId.Implicit
+  nameWithType: EntityId.Implicit(EntityId to InstanceID)
+- uid: UnityEngine.EntityId.op_Implicit(UnityEngine.InstanceID)~UnityEngine.EntityId
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Implicit.html
+  commentId: M:UnityEngine.EntityId.op_Implicit(UnityEngine.InstanceID)~UnityEngine.EntityId
+  fullName: UnityEngine.EntityId.Implicit
+  nameWithType: EntityId.Implicit(InstanceID to EntityId)
+- uid: UnityEngine.EntityId.op_Inequality(UnityEngine.EntityId,UnityEngine.EntityId)
+  name: Inequality
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.Inequality.html
+  commentId: M:UnityEngine.EntityId.op_Inequality(UnityEngine.EntityId,UnityEngine.EntityId)
+  fullName: UnityEngine.EntityId.Inequality
+  nameWithType: EntityId.Inequality(EntityId, EntityId)
+- uid: UnityEngine.EntityId.op_LessThan(UnityEngine.EntityId,UnityEngine.EntityId)
+  name: LessThan
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.LessThan.html
+  commentId: M:UnityEngine.EntityId.op_LessThan(UnityEngine.EntityId,UnityEngine.EntityId)
+  fullName: UnityEngine.EntityId.LessThan
+  nameWithType: EntityId.LessThan(EntityId, EntityId)
+- uid: UnityEngine.EntityId.op_LessThanOrEqual(UnityEngine.EntityId,UnityEngine.EntityId)
+  name: LessThanOrEqual
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.LessThanOrEqual.html
+  commentId: M:UnityEngine.EntityId.op_LessThanOrEqual(UnityEngine.EntityId,UnityEngine.EntityId)
+  fullName: UnityEngine.EntityId.LessThanOrEqual
+  nameWithType: EntityId.LessThanOrEqual(EntityId, EntityId)
+- uid: UnityEngine.EntityId.ToString
+  name: ToString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.ToString.html
+  commentId: M:UnityEngine.EntityId.ToString
+  fullName: UnityEngine.EntityId.ToString
+  nameWithType: EntityId.ToString()
+- uid: UnityEngine.EntityId.ToString(System.String)
+  name: ToString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/EntityId.ToString.html
+  commentId: M:UnityEngine.EntityId.ToString(System.String)
+  fullName: UnityEngine.EntityId.ToString
+  nameWithType: EntityId.ToString(String)
 - uid: UnityEngine.EnumButtonsAttribute
   name: EnumButtonsAttribute
   href: https://docs.unity3d.com/Documentation/ScriptReference/EnumButtonsAttribute.html
@@ -144589,6 +144835,126 @@ references:
   commentId: F:UnityEngine.InspectorSortDirection.Descending
   fullName: UnityEngine.InspectorSortDirection.Descending
   nameWithType: InspectorSortDirection.Descending
+- uid: UnityEngine.InstanceID
+  name: InstanceID
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.html
+  commentId: T:UnityEngine.InstanceID
+  fullName: UnityEngine.InstanceID
+  nameWithType: InstanceID
+- uid: UnityEngine.InstanceID.CompareTo(UnityEngine.InstanceID)
+  name: CompareTo
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.CompareTo.html
+  commentId: M:UnityEngine.InstanceID.CompareTo(UnityEngine.InstanceID)
+  fullName: UnityEngine.InstanceID.CompareTo
+  nameWithType: InstanceID.CompareTo(InstanceID)
+- uid: UnityEngine.InstanceID.Equals(System.Int32)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Equals.html
+  commentId: M:UnityEngine.InstanceID.Equals(System.Int32)
+  fullName: UnityEngine.InstanceID.Equals
+  nameWithType: InstanceID.Equals(Int32)
+- uid: UnityEngine.InstanceID.Equals(System.Object)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Equals.html
+  commentId: M:UnityEngine.InstanceID.Equals(System.Object)
+  fullName: UnityEngine.InstanceID.Equals
+  nameWithType: InstanceID.Equals(Object)
+- uid: UnityEngine.InstanceID.Equals(UnityEngine.InstanceID)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Equals.html
+  commentId: M:UnityEngine.InstanceID.Equals(UnityEngine.InstanceID)
+  fullName: UnityEngine.InstanceID.Equals
+  nameWithType: InstanceID.Equals(InstanceID)
+- uid: UnityEngine.InstanceID.GetHashCode
+  name: GetHashCode
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.GetHashCode.html
+  commentId: M:UnityEngine.InstanceID.GetHashCode
+  fullName: UnityEngine.InstanceID.GetHashCode
+  nameWithType: InstanceID.GetHashCode()
+- uid: UnityEngine.InstanceID.IsValid
+  name: IsValid
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.IsValid.html
+  commentId: M:UnityEngine.InstanceID.IsValid
+  fullName: UnityEngine.InstanceID.IsValid
+  nameWithType: InstanceID.IsValid()
+- uid: UnityEngine.InstanceID.None
+  name: None
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.None.html
+  commentId: P:UnityEngine.InstanceID.None
+  fullName: UnityEngine.InstanceID.None
+  nameWithType: InstanceID.None
+- uid: UnityEngine.InstanceID.op_Equality(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  name: Equality
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Equality.html
+  commentId: M:UnityEngine.InstanceID.op_Equality(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  fullName: UnityEngine.InstanceID.Equality
+  nameWithType: InstanceID.Equality(InstanceID, InstanceID)
+- uid: UnityEngine.InstanceID.op_GreaterThan(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  name: GreaterThan
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.GreaterThan.html
+  commentId: M:UnityEngine.InstanceID.op_GreaterThan(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  fullName: UnityEngine.InstanceID.GreaterThan
+  nameWithType: InstanceID.GreaterThan(InstanceID, InstanceID)
+- uid: UnityEngine.InstanceID.op_GreaterThanOrEqual(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  name: GreaterThanOrEqual
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.GreaterThanOrEqual.html
+  commentId: M:UnityEngine.InstanceID.op_GreaterThanOrEqual(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  fullName: UnityEngine.InstanceID.GreaterThanOrEqual
+  nameWithType: InstanceID.GreaterThanOrEqual(InstanceID, InstanceID)
+- uid: UnityEngine.InstanceID.op_Implicit(System.Int32)~UnityEngine.InstanceID
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Implicit.html
+  commentId: M:UnityEngine.InstanceID.op_Implicit(System.Int32)~UnityEngine.InstanceID
+  fullName: UnityEngine.InstanceID.Implicit
+  nameWithType: InstanceID.Implicit(Int32 to InstanceID)
+- uid: UnityEngine.InstanceID.op_Implicit(UnityEngine.EntityId)~UnityEngine.InstanceID
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Implicit.html
+  commentId: M:UnityEngine.InstanceID.op_Implicit(UnityEngine.EntityId)~UnityEngine.InstanceID
+  fullName: UnityEngine.InstanceID.Implicit
+  nameWithType: InstanceID.Implicit(EntityId to InstanceID)
+- uid: UnityEngine.InstanceID.op_Implicit(UnityEngine.InstanceID)~System.Int32
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Implicit.html
+  commentId: M:UnityEngine.InstanceID.op_Implicit(UnityEngine.InstanceID)~System.Int32
+  fullName: UnityEngine.InstanceID.Implicit
+  nameWithType: InstanceID.Implicit(InstanceID to Int32)
+- uid: UnityEngine.InstanceID.op_Implicit(UnityEngine.InstanceID)~UnityEngine.EntityId
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Implicit.html
+  commentId: M:UnityEngine.InstanceID.op_Implicit(UnityEngine.InstanceID)~UnityEngine.EntityId
+  fullName: UnityEngine.InstanceID.Implicit
+  nameWithType: InstanceID.Implicit(InstanceID to EntityId)
+- uid: UnityEngine.InstanceID.op_Inequality(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  name: Inequality
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.Inequality.html
+  commentId: M:UnityEngine.InstanceID.op_Inequality(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  fullName: UnityEngine.InstanceID.Inequality
+  nameWithType: InstanceID.Inequality(InstanceID, InstanceID)
+- uid: UnityEngine.InstanceID.op_LessThan(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  name: LessThan
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.LessThan.html
+  commentId: M:UnityEngine.InstanceID.op_LessThan(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  fullName: UnityEngine.InstanceID.LessThan
+  nameWithType: InstanceID.LessThan(InstanceID, InstanceID)
+- uid: UnityEngine.InstanceID.op_LessThanOrEqual(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  name: LessThanOrEqual
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.LessThanOrEqual.html
+  commentId: M:UnityEngine.InstanceID.op_LessThanOrEqual(UnityEngine.InstanceID,UnityEngine.InstanceID)
+  fullName: UnityEngine.InstanceID.LessThanOrEqual
+  nameWithType: InstanceID.LessThanOrEqual(InstanceID, InstanceID)
+- uid: UnityEngine.InstanceID.ToString
+  name: ToString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.ToString.html
+  commentId: M:UnityEngine.InstanceID.ToString
+  fullName: UnityEngine.InstanceID.ToString
+  nameWithType: InstanceID.ToString()
+- uid: UnityEngine.InstanceID.ToString(System.String)
+  name: ToString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/InstanceID.ToString.html
+  commentId: M:UnityEngine.InstanceID.ToString(System.String)
+  fullName: UnityEngine.InstanceID.ToString
+  nameWithType: InstanceID.ToString(String)
 - uid: UnityEngine.InstantiateParameters
   name: InstantiateParameters
   href: https://docs.unity3d.com/Documentation/ScriptReference/InstantiateParameters.html
@@ -145189,6 +145555,12 @@ references:
   commentId: F:UnityEngine.iOS.DeviceGeneration.iPhone16
   fullName: UnityEngine.iOS.DeviceGeneration.iPhone16
   nameWithType: DeviceGeneration.iPhone16
+- uid: UnityEngine.iOS.DeviceGeneration.iPhone16e
+  name: iPhone16e
+  href: https://docs.unity3d.com/Documentation/ScriptReference/iOS.DeviceGeneration-iPhone16e.html
+  commentId: F:UnityEngine.iOS.DeviceGeneration.iPhone16e
+  fullName: UnityEngine.iOS.DeviceGeneration.iPhone16e
+  nameWithType: DeviceGeneration.iPhone16e
 - uid: UnityEngine.iOS.DeviceGeneration.iPhone16Plus
   name: iPhone16Plus
   href: https://docs.unity3d.com/Documentation/ScriptReference/iOS.DeviceGeneration-iPhone16Plus.html
@@ -155077,12 +155449,24 @@ references:
   commentId: M:UnityEngine.Mesh.GetIndexBuffer
   fullName: UnityEngine.Mesh.GetIndexBuffer
   nameWithType: Mesh.GetIndexBuffer()
+- uid: UnityEngine.Mesh.GetIndexCount(System.Int32,System.Int32)
+  name: GetIndexCount
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndexCount.html
+  commentId: M:UnityEngine.Mesh.GetIndexCount(System.Int32,System.Int32)
+  fullName: UnityEngine.Mesh.GetIndexCount
+  nameWithType: Mesh.GetIndexCount(Int32, Int32)
 - uid: UnityEngine.Mesh.GetIndexCount(System.Int32)
   name: GetIndexCount
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndexCount.html
   commentId: M:UnityEngine.Mesh.GetIndexCount(System.Int32)
   fullName: UnityEngine.Mesh.GetIndexCount
   nameWithType: Mesh.GetIndexCount(Int32)
+- uid: UnityEngine.Mesh.GetIndexStart(System.Int32,System.Int32)
+  name: GetIndexStart
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndexStart.html
+  commentId: M:UnityEngine.Mesh.GetIndexStart(System.Int32,System.Int32)
+  fullName: UnityEngine.Mesh.GetIndexStart
+  nameWithType: Mesh.GetIndexStart(Int32, Int32)
 - uid: UnityEngine.Mesh.GetIndexStart(System.Int32)
   name: GetIndexStart
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndexStart.html
@@ -155095,6 +155479,12 @@ references:
   commentId: M:UnityEngine.Mesh.GetIndices(System.Collections.Generic.List{System.Int32},System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.GetIndices
   nameWithType: Mesh.GetIndices(List<Int32>, Int32, Boolean)
+- uid: UnityEngine.Mesh.GetIndices(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Boolean)
+  name: GetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndices.html
+  commentId: M:UnityEngine.Mesh.GetIndices(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Boolean)
+  fullName: UnityEngine.Mesh.GetIndices
+  nameWithType: Mesh.GetIndices(List<Int32>, Int32, Int32, Boolean)
 - uid: UnityEngine.Mesh.GetIndices(System.Collections.Generic.List{System.Int32},System.Int32)
   name: GetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndices.html
@@ -155107,18 +155497,48 @@ references:
   commentId: M:UnityEngine.Mesh.GetIndices(System.Collections.Generic.List{System.UInt16},System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.GetIndices
   nameWithType: Mesh.GetIndices(List<UInt16>, Int32, Boolean)
+- uid: UnityEngine.Mesh.GetIndices(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Boolean)
+  name: GetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndices.html
+  commentId: M:UnityEngine.Mesh.GetIndices(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Boolean)
+  fullName: UnityEngine.Mesh.GetIndices
+  nameWithType: Mesh.GetIndices(List<UInt16>, Int32, Int32, Boolean)
 - uid: UnityEngine.Mesh.GetIndices(System.Int32,System.Boolean)
   name: GetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndices.html
   commentId: M:UnityEngine.Mesh.GetIndices(System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.GetIndices
   nameWithType: Mesh.GetIndices(Int32, Boolean)
+- uid: UnityEngine.Mesh.GetIndices(System.Int32,System.Int32,System.Boolean)
+  name: GetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndices.html
+  commentId: M:UnityEngine.Mesh.GetIndices(System.Int32,System.Int32,System.Boolean)
+  fullName: UnityEngine.Mesh.GetIndices
+  nameWithType: Mesh.GetIndices(Int32, Int32, Boolean)
 - uid: UnityEngine.Mesh.GetIndices(System.Int32)
   name: GetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetIndices.html
   commentId: M:UnityEngine.Mesh.GetIndices(System.Int32)
   fullName: UnityEngine.Mesh.GetIndices
   nameWithType: Mesh.GetIndices(Int32)
+- uid: UnityEngine.Mesh.GetLod(System.Int32,System.Int32)
+  name: GetLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetLod.html
+  commentId: M:UnityEngine.Mesh.GetLod(System.Int32,System.Int32)
+  fullName: UnityEngine.Mesh.GetLod
+  nameWithType: Mesh.GetLod(Int32, Int32)
+- uid: UnityEngine.Mesh.GetLods(System.Collections.Generic.List{UnityEngine.MeshLodRange},System.Int32)
+  name: GetLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetLods.html
+  commentId: M:UnityEngine.Mesh.GetLods(System.Collections.Generic.List{UnityEngine.MeshLodRange},System.Int32)
+  fullName: UnityEngine.Mesh.GetLods
+  nameWithType: Mesh.GetLods(List<MeshLodRange>, Int32)
+- uid: UnityEngine.Mesh.GetLods(System.Int32)
+  name: GetLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetLods.html
+  commentId: M:UnityEngine.Mesh.GetLods(System.Int32)
+  fullName: UnityEngine.Mesh.GetLods
+  nameWithType: Mesh.GetLods(Int32)
 - uid: UnityEngine.Mesh.GetNativeIndexBufferPtr
   name: GetNativeIndexBufferPtr
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetNativeIndexBufferPtr.html
@@ -155161,6 +155581,12 @@ references:
   commentId: M:UnityEngine.Mesh.GetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.GetTriangles
   nameWithType: Mesh.GetTriangles(List<Int32>, Int32, Boolean)
+- uid: UnityEngine.Mesh.GetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Boolean)
+  name: GetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetTriangles.html
+  commentId: M:UnityEngine.Mesh.GetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Boolean)
+  fullName: UnityEngine.Mesh.GetTriangles
+  nameWithType: Mesh.GetTriangles(List<Int32>, Int32, Int32, Boolean)
 - uid: UnityEngine.Mesh.GetTriangles(System.Collections.Generic.List{System.Int32},System.Int32)
   name: GetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetTriangles.html
@@ -155173,12 +155599,24 @@ references:
   commentId: M:UnityEngine.Mesh.GetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.GetTriangles
   nameWithType: Mesh.GetTriangles(List<UInt16>, Int32, Boolean)
+- uid: UnityEngine.Mesh.GetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Boolean)
+  name: GetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetTriangles.html
+  commentId: M:UnityEngine.Mesh.GetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Boolean)
+  fullName: UnityEngine.Mesh.GetTriangles
+  nameWithType: Mesh.GetTriangles(List<UInt16>, Int32, Int32, Boolean)
 - uid: UnityEngine.Mesh.GetTriangles(System.Int32,System.Boolean)
   name: GetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetTriangles.html
   commentId: M:UnityEngine.Mesh.GetTriangles(System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.GetTriangles
   nameWithType: Mesh.GetTriangles(Int32, Boolean)
+- uid: UnityEngine.Mesh.GetTriangles(System.Int32,System.Int32,System.Boolean)
+  name: GetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetTriangles.html
+  commentId: M:UnityEngine.Mesh.GetTriangles(System.Int32,System.Int32,System.Boolean)
+  fullName: UnityEngine.Mesh.GetTriangles
+  nameWithType: Mesh.GetTriangles(Int32, Int32, Boolean)
 - uid: UnityEngine.Mesh.GetTriangles(System.Int32)
   name: GetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.GetTriangles.html
@@ -155299,6 +155737,48 @@ references:
   commentId: P:UnityEngine.Mesh.isReadable
   fullName: UnityEngine.Mesh.isReadable
   nameWithType: Mesh.isReadable
+- uid: UnityEngine.Mesh.lodCount
+  name: lodCount
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh-lodCount.html
+  commentId: P:UnityEngine.Mesh.lodCount
+  fullName: UnityEngine.Mesh.lodCount
+  nameWithType: Mesh.lodCount
+- uid: UnityEngine.Mesh.lodSelectionCurve
+  name: lodSelectionCurve
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh-lodSelectionCurve.html
+  commentId: P:UnityEngine.Mesh.lodSelectionCurve
+  fullName: UnityEngine.Mesh.lodSelectionCurve
+  nameWithType: Mesh.lodSelectionCurve
+- uid: UnityEngine.Mesh.LodSelectionCurve
+  name: Mesh.LodSelectionCurve
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.LodSelectionCurve.html
+  commentId: T:UnityEngine.Mesh.LodSelectionCurve
+  fullName: UnityEngine.Mesh.LodSelectionCurve
+  nameWithType: Mesh.LodSelectionCurve
+- uid: UnityEngine.Mesh.LodSelectionCurve.#ctor(System.Single,System.Single)
+  name: LodSelectionCurve
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.LodSelectionCurve.LodSelectionCurve.html
+  commentId: M:UnityEngine.Mesh.LodSelectionCurve.#ctor(System.Single,System.Single)
+  fullName: UnityEngine.Mesh.LodSelectionCurve.LodSelectionCurve
+  nameWithType: Mesh.LodSelectionCurve.LodSelectionCurve(Single, Single)
+- uid: UnityEngine.Mesh.LodSelectionCurve.IsValid
+  name: IsValid
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.LodSelectionCurve.IsValid.html
+  commentId: M:UnityEngine.Mesh.LodSelectionCurve.IsValid
+  fullName: UnityEngine.Mesh.LodSelectionCurve.IsValid
+  nameWithType: Mesh.LodSelectionCurve.IsValid()
+- uid: UnityEngine.Mesh.LodSelectionCurve.lodBias
+  name: lodBias
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.LodSelectionCurve-lodBias.html
+  commentId: P:UnityEngine.Mesh.LodSelectionCurve.lodBias
+  fullName: UnityEngine.Mesh.LodSelectionCurve.lodBias
+  nameWithType: Mesh.LodSelectionCurve.lodBias
+- uid: UnityEngine.Mesh.LodSelectionCurve.lodSlope
+  name: lodSlope
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.LodSelectionCurve-lodSlope.html
+  commentId: P:UnityEngine.Mesh.LodSelectionCurve.lodSlope
+  fullName: UnityEngine.Mesh.LodSelectionCurve.lodSlope
+  nameWithType: Mesh.LodSelectionCurve.lodSlope
 - uid: UnityEngine.Mesh.MarkDynamic
   name: MarkDynamic
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MarkDynamic.html
@@ -155341,12 +155821,30 @@ references:
   commentId: M:UnityEngine.Mesh.MeshData.GetIndices(Unity.Collections.NativeArray{System.Int32},System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.MeshData.GetIndices
   nameWithType: Mesh.MeshData.GetIndices(NativeArray<Int32>, Int32, Boolean)
+- uid: UnityEngine.Mesh.MeshData.GetIndices(Unity.Collections.NativeArray{System.Int32},System.Int32,System.Int32,System.Boolean)
+  name: GetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData.GetIndices.html
+  commentId: M:UnityEngine.Mesh.MeshData.GetIndices(Unity.Collections.NativeArray{System.Int32},System.Int32,System.Int32,System.Boolean)
+  fullName: UnityEngine.Mesh.MeshData.GetIndices
+  nameWithType: Mesh.MeshData.GetIndices(NativeArray<Int32>, Int32, Int32, Boolean)
 - uid: UnityEngine.Mesh.MeshData.GetIndices(Unity.Collections.NativeArray{System.UInt16},System.Int32,System.Boolean)
   name: GetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData.GetIndices.html
   commentId: M:UnityEngine.Mesh.MeshData.GetIndices(Unity.Collections.NativeArray{System.UInt16},System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.MeshData.GetIndices
   nameWithType: Mesh.MeshData.GetIndices(NativeArray<UInt16>, Int32, Boolean)
+- uid: UnityEngine.Mesh.MeshData.GetIndices(Unity.Collections.NativeArray{System.UInt16},System.Int32,System.Int32,System.Boolean)
+  name: GetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData.GetIndices.html
+  commentId: M:UnityEngine.Mesh.MeshData.GetIndices(Unity.Collections.NativeArray{System.UInt16},System.Int32,System.Int32,System.Boolean)
+  fullName: UnityEngine.Mesh.MeshData.GetIndices
+  nameWithType: Mesh.MeshData.GetIndices(NativeArray<UInt16>, Int32, Int32, Boolean)
+- uid: UnityEngine.Mesh.MeshData.GetLod(System.Int32,System.Int32)
+  name: GetLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData.GetLod.html
+  commentId: M:UnityEngine.Mesh.MeshData.GetLod(System.Int32,System.Int32)
+  fullName: UnityEngine.Mesh.MeshData.GetLod
+  nameWithType: Mesh.MeshData.GetLod(Int32, Int32)
 - uid: UnityEngine.Mesh.MeshData.GetNormals(Unity.Collections.NativeArray{UnityEngine.Vector3})
   name: GetNormals
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData.GetNormals.html
@@ -155437,12 +155935,30 @@ references:
   commentId: P:UnityEngine.Mesh.MeshData.indexFormat
   fullName: UnityEngine.Mesh.MeshData.indexFormat
   nameWithType: Mesh.MeshData.indexFormat
+- uid: UnityEngine.Mesh.MeshData.lodCount
+  name: lodCount
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData-lodCount.html
+  commentId: P:UnityEngine.Mesh.MeshData.lodCount
+  fullName: UnityEngine.Mesh.MeshData.lodCount
+  nameWithType: Mesh.MeshData.lodCount
+- uid: UnityEngine.Mesh.MeshData.lodSelectionCurve
+  name: lodSelectionCurve
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData-lodSelectionCurve.html
+  commentId: P:UnityEngine.Mesh.MeshData.lodSelectionCurve
+  fullName: UnityEngine.Mesh.MeshData.lodSelectionCurve
+  nameWithType: Mesh.MeshData.lodSelectionCurve
 - uid: UnityEngine.Mesh.MeshData.SetIndexBufferParams(System.Int32,UnityEngine.Rendering.IndexFormat)
   name: SetIndexBufferParams
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData.SetIndexBufferParams.html
   commentId: M:UnityEngine.Mesh.MeshData.SetIndexBufferParams(System.Int32,UnityEngine.Rendering.IndexFormat)
   fullName: UnityEngine.Mesh.MeshData.SetIndexBufferParams
   nameWithType: Mesh.MeshData.SetIndexBufferParams(Int32, IndexFormat)
+- uid: UnityEngine.Mesh.MeshData.SetLod(System.Int32,System.Int32,UnityEngine.MeshLodRange,UnityEngine.Rendering.MeshUpdateFlags)
+  name: SetLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData.SetLod.html
+  commentId: M:UnityEngine.Mesh.MeshData.SetLod(System.Int32,System.Int32,UnityEngine.MeshLodRange,UnityEngine.Rendering.MeshUpdateFlags)
+  fullName: UnityEngine.Mesh.MeshData.SetLod
+  nameWithType: Mesh.MeshData.SetLod(Int32, Int32, MeshLodRange, MeshUpdateFlags)
 - uid: UnityEngine.Mesh.MeshData.SetSubMesh(System.Int32,UnityEngine.Rendering.SubMeshDescriptor,UnityEngine.Rendering.MeshUpdateFlags)
   name: SetSubMesh
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.MeshData.SetSubMesh.html
@@ -155707,30 +156223,60 @@ references:
   commentId: M:UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices(List<Int32>, Int32, Int32, MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices(List<Int32>, Int32, Int32, MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.Int32},UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
   commentId: M:UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.Int32},UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices(List<Int32>, MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.Int32},UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.Int32},UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices(List<Int32>, MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
   commentId: M:UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices(List<UInt16>, Int32, Int32, MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices(List<UInt16>, Int32, Int32, MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.UInt16},UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
   commentId: M:UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.UInt16},UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices(List<UInt16>, MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.UInt16},UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices(System.Collections.Generic.List{System.UInt16},UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices(List<UInt16>, MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices(System.Int32[],System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
   commentId: M:UnityEngine.Mesh.SetIndices(System.Int32[],System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices(Int32[], Int32, Int32, MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices(System.Int32[],System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices(System.Int32[],System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices(Int32[], Int32, Int32, MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices(System.Int32[],UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
@@ -155743,6 +156289,12 @@ references:
   commentId: M:UnityEngine.Mesh.SetIndices(System.Int32[],UnityEngine.MeshTopology,System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices(Int32[], MeshTopology, Int32, Boolean)
+- uid: UnityEngine.Mesh.SetIndices(System.Int32[],UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices(System.Int32[],UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices(Int32[], MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices(System.Int32[],UnityEngine.MeshTopology,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
@@ -155755,24 +156307,90 @@ references:
   commentId: M:UnityEngine.Mesh.SetIndices(System.UInt16[],System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices(UInt16[], Int32, Int32, MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices(System.UInt16[],System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices(System.UInt16[],System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices(UInt16[], Int32, Int32, MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices(System.UInt16[],UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
   commentId: M:UnityEngine.Mesh.SetIndices(System.UInt16[],UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices(UInt16[], MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices(System.UInt16[],UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices(System.UInt16[],UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices(UInt16[], MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices``1(Unity.Collections.NativeArray{``0},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
   commentId: M:UnityEngine.Mesh.SetIndices``1(Unity.Collections.NativeArray{``0},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices<T>(NativeArray<T>, Int32, Int32, MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices``1(Unity.Collections.NativeArray{``0},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices``1(Unity.Collections.NativeArray{``0},System.Int32,System.Int32,UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices<T>(NativeArray<T>, Int32, Int32, MeshTopology, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetIndices``1(Unity.Collections.NativeArray{``0},UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   name: SetIndices
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
   commentId: M:UnityEngine.Mesh.SetIndices``1(Unity.Collections.NativeArray{``0},UnityEngine.MeshTopology,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetIndices
   nameWithType: Mesh.SetIndices<T>(NativeArray<T>, MeshTopology, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetIndices``1(Unity.Collections.NativeArray{``0},UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetIndices
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetIndices.html
+  commentId: M:UnityEngine.Mesh.SetIndices``1(Unity.Collections.NativeArray{``0},UnityEngine.MeshTopology,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetIndices
+  nameWithType: Mesh.SetIndices<T>(NativeArray<T>, MeshTopology, Int32, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetLod(System.Int32,System.Int32,UnityEngine.MeshLodRange,UnityEngine.Rendering.MeshUpdateFlags)
+  name: SetLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetLod.html
+  commentId: M:UnityEngine.Mesh.SetLod(System.Int32,System.Int32,UnityEngine.MeshLodRange,UnityEngine.Rendering.MeshUpdateFlags)
+  fullName: UnityEngine.Mesh.SetLod
+  nameWithType: Mesh.SetLod(Int32, Int32, MeshLodRange, MeshUpdateFlags)
+- uid: UnityEngine.Mesh.SetLods(System.Collections.Generic.List{UnityEngine.MeshLodRange},System.Int32,System.Int32,System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  name: SetLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetLods.html
+  commentId: M:UnityEngine.Mesh.SetLods(System.Collections.Generic.List{UnityEngine.MeshLodRange},System.Int32,System.Int32,System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  fullName: UnityEngine.Mesh.SetLods
+  nameWithType: Mesh.SetLods(List<MeshLodRange>, Int32, Int32, Int32, MeshUpdateFlags)
+- uid: UnityEngine.Mesh.SetLods(System.Collections.Generic.List{UnityEngine.MeshLodRange},System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  name: SetLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetLods.html
+  commentId: M:UnityEngine.Mesh.SetLods(System.Collections.Generic.List{UnityEngine.MeshLodRange},System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  fullName: UnityEngine.Mesh.SetLods
+  nameWithType: Mesh.SetLods(List<MeshLodRange>, Int32, MeshUpdateFlags)
+- uid: UnityEngine.Mesh.SetLods(Unity.Collections.NativeArray{UnityEngine.MeshLodRange},System.Int32,System.Int32,System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  name: SetLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetLods.html
+  commentId: M:UnityEngine.Mesh.SetLods(Unity.Collections.NativeArray{UnityEngine.MeshLodRange},System.Int32,System.Int32,System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  fullName: UnityEngine.Mesh.SetLods
+  nameWithType: Mesh.SetLods(NativeArray<MeshLodRange>, Int32, Int32, Int32, MeshUpdateFlags)
+- uid: UnityEngine.Mesh.SetLods(Unity.Collections.NativeArray{UnityEngine.MeshLodRange},System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  name: SetLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetLods.html
+  commentId: M:UnityEngine.Mesh.SetLods(Unity.Collections.NativeArray{UnityEngine.MeshLodRange},System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  fullName: UnityEngine.Mesh.SetLods
+  nameWithType: Mesh.SetLods(NativeArray<MeshLodRange>, Int32, MeshUpdateFlags)
+- uid: UnityEngine.Mesh.SetLods(UnityEngine.MeshLodRange[],System.Int32,System.Int32,System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  name: SetLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetLods.html
+  commentId: M:UnityEngine.Mesh.SetLods(UnityEngine.MeshLodRange[],System.Int32,System.Int32,System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  fullName: UnityEngine.Mesh.SetLods
+  nameWithType: Mesh.SetLods(MeshLodRange[], Int32, Int32, Int32, MeshUpdateFlags)
+- uid: UnityEngine.Mesh.SetLods(UnityEngine.MeshLodRange[],System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  name: SetLods
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetLods.html
+  commentId: M:UnityEngine.Mesh.SetLods(UnityEngine.MeshLodRange[],System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
+  fullName: UnityEngine.Mesh.SetLods
+  nameWithType: Mesh.SetLods(MeshLodRange[], Int32, MeshUpdateFlags)
 - uid: UnityEngine.Mesh.SetNormals(System.Collections.Generic.List{UnityEngine.Vector3},System.Int32,System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
   name: SetNormals
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetNormals.html
@@ -155935,12 +156553,24 @@ references:
   commentId: M:UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.SetTriangles
   nameWithType: Mesh.SetTriangles(List<Int32>, Int32, Boolean)
+- uid: UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
+  commentId: M:UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetTriangles
+  nameWithType: Mesh.SetTriangles(List<Int32>, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
   name: SetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
   commentId: M:UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetTriangles
   nameWithType: Mesh.SetTriangles(List<Int32>, Int32, Int32, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
+  commentId: M:UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.Int32},System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetTriangles
+  nameWithType: Mesh.SetTriangles(List<Int32>, Int32, Int32, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.Int32},System.Int32)
   name: SetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
@@ -155953,12 +156583,24 @@ references:
   commentId: M:UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetTriangles
   nameWithType: Mesh.SetTriangles(List<UInt16>, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
+  commentId: M:UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetTriangles
+  nameWithType: Mesh.SetTriangles(List<UInt16>, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
   name: SetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
   commentId: M:UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetTriangles
   nameWithType: Mesh.SetTriangles(List<UInt16>, Int32, Int32, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
+  commentId: M:UnityEngine.Mesh.SetTriangles(System.Collections.Generic.List{System.UInt16},System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetTriangles
+  nameWithType: Mesh.SetTriangles(List<UInt16>, Int32, Int32, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32,System.Boolean,System.Int32)
   name: SetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
@@ -155971,12 +156613,24 @@ references:
   commentId: M:UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32,System.Boolean)
   fullName: UnityEngine.Mesh.SetTriangles
   nameWithType: Mesh.SetTriangles(Int32[], Int32, Boolean)
+- uid: UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
+  commentId: M:UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetTriangles
+  nameWithType: Mesh.SetTriangles(Int32[], Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
   name: SetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
   commentId: M:UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetTriangles
   nameWithType: Mesh.SetTriangles(Int32[], Int32, Int32, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
+  commentId: M:UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetTriangles
+  nameWithType: Mesh.SetTriangles(Int32[], Int32, Int32, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetTriangles(System.Int32[],System.Int32)
   name: SetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
@@ -155989,12 +156643,24 @@ references:
   commentId: M:UnityEngine.Mesh.SetTriangles(System.UInt16[],System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetTriangles
   nameWithType: Mesh.SetTriangles(UInt16[], Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetTriangles(System.UInt16[],System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
+  commentId: M:UnityEngine.Mesh.SetTriangles(System.UInt16[],System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetTriangles
+  nameWithType: Mesh.SetTriangles(UInt16[], Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetTriangles(System.UInt16[],System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
   name: SetTriangles
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
   commentId: M:UnityEngine.Mesh.SetTriangles(System.UInt16[],System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
   fullName: UnityEngine.Mesh.SetTriangles
   nameWithType: Mesh.SetTriangles(UInt16[], Int32, Int32, Int32, Boolean, Int32)
+- uid: UnityEngine.Mesh.SetTriangles(System.UInt16[],System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
+  name: SetTriangles
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetTriangles.html
+  commentId: M:UnityEngine.Mesh.SetTriangles(System.UInt16[],System.Int32,System.Int32,System.Int32,System.Int32,System.Boolean,System.Int32)
+  fullName: UnityEngine.Mesh.SetTriangles
+  nameWithType: Mesh.SetTriangles(UInt16[], Int32, Int32, Int32, Int32, Boolean, Int32)
 - uid: UnityEngine.Mesh.SetUVs(System.Int32,System.Collections.Generic.List{UnityEngine.Vector2},System.Int32,System.Int32,UnityEngine.Rendering.MeshUpdateFlags)
   name: SetUVs
   href: https://docs.unity3d.com/Documentation/ScriptReference/Mesh.SetUVs.html
@@ -156397,6 +157063,36 @@ references:
   commentId: P:UnityEngine.MeshFilter.sharedMesh
   fullName: UnityEngine.MeshFilter.sharedMesh
   nameWithType: MeshFilter.sharedMesh
+- uid: UnityEngine.MeshLodRange
+  name: MeshLodRange
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodRange.html
+  commentId: T:UnityEngine.MeshLodRange
+  fullName: UnityEngine.MeshLodRange
+  nameWithType: MeshLodRange
+- uid: UnityEngine.MeshLodRange.#ctor(System.UInt32,System.UInt32)
+  name: MeshLodRange
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodRange.MeshLodRange.html
+  commentId: M:UnityEngine.MeshLodRange.#ctor(System.UInt32,System.UInt32)
+  fullName: UnityEngine.MeshLodRange.MeshLodRange
+  nameWithType: MeshLodRange.MeshLodRange(UInt32, UInt32)
+- uid: UnityEngine.MeshLodRange.indexCount
+  name: indexCount
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodRange-indexCount.html
+  commentId: P:UnityEngine.MeshLodRange.indexCount
+  fullName: UnityEngine.MeshLodRange.indexCount
+  nameWithType: MeshLodRange.indexCount
+- uid: UnityEngine.MeshLodRange.indexStart
+  name: indexStart
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodRange-indexStart.html
+  commentId: P:UnityEngine.MeshLodRange.indexStart
+  fullName: UnityEngine.MeshLodRange.indexStart
+  nameWithType: MeshLodRange.indexStart
+- uid: UnityEngine.MeshLodRange.ToString
+  name: ToString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshLodRange.ToString.html
+  commentId: M:UnityEngine.MeshLodRange.ToString
+  fullName: UnityEngine.MeshLodRange.ToString
+  nameWithType: MeshLodRange.ToString()
 - uid: UnityEngine.MeshRenderer
   name: MeshRenderer
   href: https://docs.unity3d.com/Documentation/ScriptReference/MeshRenderer.html
@@ -156415,6 +157111,12 @@ references:
   commentId: P:UnityEngine.MeshRenderer.enlightenVertexStream
   fullName: UnityEngine.MeshRenderer.enlightenVertexStream
   nameWithType: MeshRenderer.enlightenVertexStream
+- uid: UnityEngine.MeshRenderer.globalIlluminationMeshLod
+  name: globalIlluminationMeshLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/MeshRenderer-globalIlluminationMeshLod.html
+  commentId: P:UnityEngine.MeshRenderer.globalIlluminationMeshLod
+  fullName: UnityEngine.MeshRenderer.globalIlluminationMeshLod
+  nameWithType: MeshRenderer.globalIlluminationMeshLod
 - uid: UnityEngine.MeshRenderer.receiveGI
   name: receiveGI
   href: https://docs.unity3d.com/Documentation/ScriptReference/MeshRenderer-receiveGI.html
@@ -158989,6 +159691,12 @@ references:
   commentId: M:UnityEngine.Object.FindSceneObjectsOfType(System.Type)
   fullName: UnityEngine.Object.FindSceneObjectsOfType
   nameWithType: Object.FindSceneObjectsOfType(Type)
+- uid: UnityEngine.Object.GetEntityId
+  name: GetEntityId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Object.GetEntityId.html
+  commentId: M:UnityEngine.Object.GetEntityId
+  fullName: UnityEngine.Object.GetEntityId
+  nameWithType: Object.GetEntityId()
 - uid: UnityEngine.Object.GetHashCode
   name: GetHashCode
   href: https://docs.unity3d.com/Documentation/ScriptReference/Object.GetHashCode.html
@@ -170899,6 +171607,12 @@ references:
   commentId: T:UnityEngine.PlayerLoop.EarlyUpdate.GpuTimestamp
   fullName: UnityEngine.PlayerLoop.EarlyUpdate.GpuTimestamp
   nameWithType: EarlyUpdate.GpuTimestamp
+- uid: UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
+  name: EarlyUpdate.InsightsUpdate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerLoop.EarlyUpdate.InsightsUpdate.html
+  commentId: T:UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
+  fullName: UnityEngine.PlayerLoop.EarlyUpdate.InsightsUpdate
+  nameWithType: EarlyUpdate.InsightsUpdate
 - uid: UnityEngine.PlayerLoop.EarlyUpdate.PerformanceAnalyticsUpdate
   name: EarlyUpdate.PerformanceAnalyticsUpdate
   href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerLoop.EarlyUpdate.PerformanceAnalyticsUpdate.html
@@ -173461,6 +174175,12 @@ references:
   commentId: P:UnityEngine.QualitySettings.maxQueuedFrames
   fullName: UnityEngine.QualitySettings.maxQueuedFrames
   nameWithType: QualitySettings.maxQueuedFrames
+- uid: UnityEngine.QualitySettings.meshLodThreshold
+  name: meshLodThreshold
+  href: https://docs.unity3d.com/Documentation/ScriptReference/QualitySettings-meshLodThreshold.html
+  commentId: P:UnityEngine.QualitySettings.meshLodThreshold
+  fullName: UnityEngine.QualitySettings.meshLodThreshold
+  nameWithType: QualitySettings.meshLodThreshold
 - uid: UnityEngine.QualitySettings.names
   name: names
   href: https://docs.unity3d.com/Documentation/ScriptReference/QualitySettings-names.html
@@ -176125,6 +176845,12 @@ references:
   commentId: P:UnityEngine.Renderer.enabled
   fullName: UnityEngine.Renderer.enabled
   nameWithType: Renderer.enabled
+- uid: UnityEngine.Renderer.forceMeshLod
+  name: forceMeshLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Renderer-forceMeshLod.html
+  commentId: P:UnityEngine.Renderer.forceMeshLod
+  fullName: UnityEngine.Renderer.forceMeshLod
+  nameWithType: Renderer.forceMeshLod
 - uid: UnityEngine.Renderer.forceRenderingOff
   name: forceRenderingOff
   href: https://docs.unity3d.com/Documentation/ScriptReference/Renderer-forceRenderingOff.html
@@ -176239,6 +176965,12 @@ references:
   commentId: P:UnityEngine.Renderer.materials
   fullName: UnityEngine.Renderer.materials
   nameWithType: Renderer.materials
+- uid: UnityEngine.Renderer.meshLodSelectionBias
+  name: meshLodSelectionBias
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Renderer-meshLodSelectionBias.html
+  commentId: P:UnityEngine.Renderer.meshLodSelectionBias
+  fullName: UnityEngine.Renderer.meshLodSelectionBias
+  nameWithType: Renderer.meshLodSelectionBias
 - uid: UnityEngine.Renderer.motionVectorGenerationMode
   name: motionVectorGenerationMode
   href: https://docs.unity3d.com/Documentation/ScriptReference/Renderer-motionVectorGenerationMode.html
@@ -177367,6 +178099,12 @@ references:
   commentId: T:UnityEngine.Rendering.BatchDrawCommand
   fullName: UnityEngine.Rendering.BatchDrawCommand
   nameWithType: BatchDrawCommand
+- uid: UnityEngine.Rendering.BatchDrawCommand.activeMeshLod
+  name: activeMeshLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.BatchDrawCommand-activeMeshLod.html
+  commentId: F:UnityEngine.Rendering.BatchDrawCommand.activeMeshLod
+  fullName: UnityEngine.Rendering.BatchDrawCommand.activeMeshLod
+  nameWithType: BatchDrawCommand.activeMeshLod
 - uid: UnityEngine.Rendering.BatchDrawCommand.batchID
   name: batchID
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.BatchDrawCommand-batchID.html
@@ -184279,6 +185017,12 @@ references:
   commentId: F:UnityEngine.Rendering.MeshUpdateFlags.DontValidateIndices
   fullName: UnityEngine.Rendering.MeshUpdateFlags.DontValidateIndices
   nameWithType: MeshUpdateFlags.DontValidateIndices
+- uid: UnityEngine.Rendering.MeshUpdateFlags.DontValidateLodRanges
+  name: DontValidateLodRanges
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.MeshUpdateFlags.DontValidateLodRanges.html
+  commentId: F:UnityEngine.Rendering.MeshUpdateFlags.DontValidateLodRanges
+  fullName: UnityEngine.Rendering.MeshUpdateFlags.DontValidateLodRanges
+  nameWithType: MeshUpdateFlags.DontValidateLodRanges
 - uid: UnityEngine.Rendering.MetadataValue
   name: MetadataValue
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.MetadataValue.html
@@ -185593,6 +186337,12 @@ references:
   commentId: F:UnityEngine.Rendering.RayTracingInstanceCullingFlags.EnableLODCulling
   fullName: UnityEngine.Rendering.RayTracingInstanceCullingFlags.EnableLODCulling
   nameWithType: RayTracingInstanceCullingFlags.EnableLODCulling
+- uid: UnityEngine.Rendering.RayTracingInstanceCullingFlags.EnableMeshLOD
+  name: EnableMeshLOD
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RayTracingInstanceCullingFlags.EnableMeshLOD.html
+  commentId: F:UnityEngine.Rendering.RayTracingInstanceCullingFlags.EnableMeshLOD
+  fullName: UnityEngine.Rendering.RayTracingInstanceCullingFlags.EnableMeshLOD
+  nameWithType: RayTracingInstanceCullingFlags.EnableMeshLOD
 - uid: UnityEngine.Rendering.RayTracingInstanceCullingFlags.EnablePlaneCulling
   name: EnablePlaneCulling
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RayTracingInstanceCullingFlags.EnablePlaneCulling.html
@@ -185893,6 +186643,12 @@ references:
   commentId: F:UnityEngine.Rendering.RayTracingMeshInstanceConfig.mesh
   fullName: UnityEngine.Rendering.RayTracingMeshInstanceConfig.mesh
   nameWithType: RayTracingMeshInstanceConfig.mesh
+- uid: UnityEngine.Rendering.RayTracingMeshInstanceConfig.meshLod
+  name: meshLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RayTracingMeshInstanceConfig-meshLod.html
+  commentId: F:UnityEngine.Rendering.RayTracingMeshInstanceConfig.meshLod
+  fullName: UnityEngine.Rendering.RayTracingMeshInstanceConfig.meshLod
+  nameWithType: RayTracingMeshInstanceConfig.meshLod
 - uid: UnityEngine.Rendering.RayTracingMeshInstanceConfig.motionVectorMode
   name: motionVectorMode
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RayTracingMeshInstanceConfig-motionVectorMode.html
@@ -192301,6 +193057,12 @@ references:
   commentId: P:UnityEngine.RenderParams.camera
   fullName: UnityEngine.RenderParams.camera
   nameWithType: RenderParams.camera
+- uid: UnityEngine.RenderParams.forceMeshLod
+  name: forceMeshLod
+  href: https://docs.unity3d.com/Documentation/ScriptReference/RenderParams-forceMeshLod.html
+  commentId: P:UnityEngine.RenderParams.forceMeshLod
+  fullName: UnityEngine.RenderParams.forceMeshLod
+  nameWithType: RenderParams.forceMeshLod
 - uid: UnityEngine.RenderParams.instanceID
   name: instanceID
   href: https://docs.unity3d.com/Documentation/ScriptReference/RenderParams-instanceID.html
@@ -192337,6 +193099,12 @@ references:
   commentId: P:UnityEngine.RenderParams.matProps
   fullName: UnityEngine.RenderParams.matProps
   nameWithType: RenderParams.matProps
+- uid: UnityEngine.RenderParams.meshLodSelectionBias
+  name: meshLodSelectionBias
+  href: https://docs.unity3d.com/Documentation/ScriptReference/RenderParams-meshLodSelectionBias.html
+  commentId: P:UnityEngine.RenderParams.meshLodSelectionBias
+  fullName: UnityEngine.RenderParams.meshLodSelectionBias
+  nameWithType: RenderParams.meshLodSelectionBias
 - uid: UnityEngine.RenderParams.motionVectorMode
   name: motionVectorMode
   href: https://docs.unity3d.com/Documentation/ScriptReference/RenderParams-motionVectorMode.html
@@ -224341,6 +225109,12 @@ references:
   commentId: P:UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   fullName: UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   nameWithType: IResolvedStyle.unitySliceTop
+- uid: UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  name: unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IResolvedStyle-unitySliceType.html
+  commentId: P:UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  fullName: UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  nameWithType: IResolvedStyle.unitySliceType
 - uid: UnityEngine.UIElements.IResolvedStyle.unityTextAlign
   name: unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IResolvedStyle-unityTextAlign.html
@@ -224869,6 +225643,12 @@ references:
   commentId: P:UnityEngine.UIElements.IStyle.unitySliceTop
   fullName: UnityEngine.UIElements.IStyle.unitySliceTop
   nameWithType: IStyle.unitySliceTop
+- uid: UnityEngine.UIElements.IStyle.unitySliceType
+  name: unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IStyle-unitySliceType.html
+  commentId: P:UnityEngine.UIElements.IStyle.unitySliceType
+  fullName: UnityEngine.UIElements.IStyle.unitySliceType
+  nameWithType: IStyle.unitySliceType
 - uid: UnityEngine.UIElements.IStyle.unityTextAlign
   name: unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IStyle-unityTextAlign.html
@@ -225691,6 +226471,12 @@ references:
   commentId: M:UnityEngine.UIElements.Length.Percent(System.Single)
   fullName: UnityEngine.UIElements.Length.Percent
   nameWithType: Length.Percent(Single)
+- uid: UnityEngine.UIElements.Length.Pixels(System.Single)
+  name: Pixels
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Length.Pixels.html
+  commentId: M:UnityEngine.UIElements.Length.Pixels(System.Single)
+  fullName: UnityEngine.UIElements.Length.Pixels
+  nameWithType: Length.Pixels(Single)
 - uid: UnityEngine.UIElements.Length.ToString
   name: ToString
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Length.ToString.html
@@ -227671,6 +228457,78 @@ references:
   commentId: P:UnityEngine.UIElements.PanelChangedEventBase`1.originPanel
   fullName: UnityEngine.UIElements.PanelChangedEventBase
   nameWithType: PanelChangedEventBase<T>.originPanel
+- uid: UnityEngine.UIElements.PanelInputConfiguration
+  name: PanelInputConfiguration
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration.html
+  commentId: T:UnityEngine.UIElements.PanelInputConfiguration
+  fullName: UnityEngine.UIElements.PanelInputConfiguration
+  nameWithType: PanelInputConfiguration
+- uid: UnityEngine.UIElements.PanelInputConfiguration.autoCreatePanelComponents
+  name: autoCreatePanelComponents
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration-autoCreatePanelComponents.html
+  commentId: P:UnityEngine.UIElements.PanelInputConfiguration.autoCreatePanelComponents
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.autoCreatePanelComponents
+  nameWithType: PanelInputConfiguration.autoCreatePanelComponents
+- uid: UnityEngine.UIElements.PanelInputConfiguration.defaultEventCameraIsMainCamera
+  name: defaultEventCameraIsMainCamera
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration-defaultEventCameraIsMainCamera.html
+  commentId: P:UnityEngine.UIElements.PanelInputConfiguration.defaultEventCameraIsMainCamera
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.defaultEventCameraIsMainCamera
+  nameWithType: PanelInputConfiguration.defaultEventCameraIsMainCamera
+- uid: UnityEngine.UIElements.PanelInputConfiguration.eventCameras
+  name: eventCameras
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration-eventCameras.html
+  commentId: P:UnityEngine.UIElements.PanelInputConfiguration.eventCameras
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.eventCameras
+  nameWithType: PanelInputConfiguration.eventCameras
+- uid: UnityEngine.UIElements.PanelInputConfiguration.interactionLayers
+  name: interactionLayers
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration-interactionLayers.html
+  commentId: P:UnityEngine.UIElements.PanelInputConfiguration.interactionLayers
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.interactionLayers
+  nameWithType: PanelInputConfiguration.interactionLayers
+- uid: UnityEngine.UIElements.PanelInputConfiguration.maxInteractionDistance
+  name: maxInteractionDistance
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration-maxInteractionDistance.html
+  commentId: P:UnityEngine.UIElements.PanelInputConfiguration.maxInteractionDistance
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.maxInteractionDistance
+  nameWithType: PanelInputConfiguration.maxInteractionDistance
+- uid: UnityEngine.UIElements.PanelInputConfiguration.panelInputRedirection
+  name: panelInputRedirection
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration-panelInputRedirection.html
+  commentId: P:UnityEngine.UIElements.PanelInputConfiguration.panelInputRedirection
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.panelInputRedirection
+  nameWithType: PanelInputConfiguration.panelInputRedirection
+- uid: UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection
+  name: PanelInputConfiguration.PanelInputRedirection
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration.PanelInputRedirection.html
+  commentId: T:UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection
+  nameWithType: PanelInputConfiguration.PanelInputRedirection
+- uid: UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.Always
+  name: Always
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration.PanelInputRedirection.Always.html
+  commentId: F:UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.Always
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.Always
+  nameWithType: PanelInputConfiguration.PanelInputRedirection.Always
+- uid: UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.AutoSwitch
+  name: AutoSwitch
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration.PanelInputRedirection.AutoSwitch.html
+  commentId: F:UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.AutoSwitch
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.AutoSwitch
+  nameWithType: PanelInputConfiguration.PanelInputRedirection.AutoSwitch
+- uid: UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.Never
+  name: Never
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration.PanelInputRedirection.Never.html
+  commentId: F:UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.Never
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.PanelInputRedirection.Never
+  nameWithType: PanelInputConfiguration.PanelInputRedirection.Never
+- uid: UnityEngine.UIElements.PanelInputConfiguration.processWorldSpaceInput
+  name: processWorldSpaceInput
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelInputConfiguration-processWorldSpaceInput.html
+  commentId: P:UnityEngine.UIElements.PanelInputConfiguration.processWorldSpaceInput
+  fullName: UnityEngine.UIElements.PanelInputConfiguration.processWorldSpaceInput
+  nameWithType: PanelInputConfiguration.processWorldSpaceInput
 - uid: UnityEngine.UIElements.PanelScaleMode
   name: PanelScaleMode
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PanelScaleMode.html
@@ -229249,6 +230107,18 @@ references:
   commentId: T:UnityEngine.UIElements.Rotate
   fullName: UnityEngine.UIElements.Rotate
   nameWithType: Rotate
+- uid: UnityEngine.UIElements.Rotate.#ctor(UnityEngine.Quaternion)
+  name: Rotate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Rotate.Rotate.html
+  commentId: M:UnityEngine.UIElements.Rotate.#ctor(UnityEngine.Quaternion)
+  fullName: UnityEngine.UIElements.Rotate.Rotate
+  nameWithType: Rotate.Rotate(Quaternion)
+- uid: UnityEngine.UIElements.Rotate.#ctor(UnityEngine.UIElements.Angle,UnityEngine.Vector3)
+  name: Rotate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Rotate.Rotate.html
+  commentId: M:UnityEngine.UIElements.Rotate.#ctor(UnityEngine.UIElements.Angle,UnityEngine.Vector3)
+  fullName: UnityEngine.UIElements.Rotate.Rotate
+  nameWithType: Rotate.Rotate(Angle, Vector3)
 - uid: UnityEngine.UIElements.Rotate.#ctor(UnityEngine.UIElements.Angle)
   name: Rotate
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Rotate.Rotate.html
@@ -229291,6 +230161,18 @@ references:
   commentId: M:UnityEngine.UIElements.Rotate.op_Equality(UnityEngine.UIElements.Rotate,UnityEngine.UIElements.Rotate)
   fullName: UnityEngine.UIElements.Rotate.Equality
   nameWithType: Rotate.Equality(Rotate, Rotate)
+- uid: UnityEngine.UIElements.Rotate.op_Implicit(UnityEngine.Quaternion)~UnityEngine.UIElements.Rotate
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Rotate.Implicit.html
+  commentId: M:UnityEngine.UIElements.Rotate.op_Implicit(UnityEngine.Quaternion)~UnityEngine.UIElements.Rotate
+  fullName: UnityEngine.UIElements.Rotate.Implicit
+  nameWithType: Rotate.Implicit(Quaternion to Rotate)
+- uid: UnityEngine.UIElements.Rotate.op_Implicit(UnityEngine.UIElements.Angle)~UnityEngine.UIElements.Rotate
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Rotate.Implicit.html
+  commentId: M:UnityEngine.UIElements.Rotate.op_Implicit(UnityEngine.UIElements.Angle)~UnityEngine.UIElements.Rotate
+  fullName: UnityEngine.UIElements.Rotate.Implicit
+  nameWithType: Rotate.Implicit(Angle to Rotate)
 - uid: UnityEngine.UIElements.Rotate.op_Inequality(UnityEngine.UIElements.Rotate,UnityEngine.UIElements.Rotate)
   name: Inequality
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Rotate.Inequality.html
@@ -230017,6 +230899,24 @@ references:
   commentId: F:UnityEngine.UIElements.SetupDragAndDropArgs.startDragArgs
   fullName: UnityEngine.UIElements.SetupDragAndDropArgs.startDragArgs
   nameWithType: SetupDragAndDropArgs.startDragArgs
+- uid: UnityEngine.UIElements.SliceType
+  name: SliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.html
+  commentId: T:UnityEngine.UIElements.SliceType
+  fullName: UnityEngine.UIElements.SliceType
+  nameWithType: SliceType
+- uid: UnityEngine.UIElements.SliceType.Sliced
+  name: Sliced
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.Sliced.html
+  commentId: F:UnityEngine.UIElements.SliceType.Sliced
+  fullName: UnityEngine.UIElements.SliceType.Sliced
+  nameWithType: SliceType.Sliced
+- uid: UnityEngine.UIElements.SliceType.Tiled
+  name: Tiled
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.Tiled.html
+  commentId: F:UnityEngine.UIElements.SliceType.Tiled
+  fullName: UnityEngine.UIElements.SliceType.Tiled
+  nameWithType: SliceType.Tiled
 - uid: UnityEngine.UIElements.Slider
   name: Slider
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Slider.html
@@ -231703,6 +232603,12 @@ references:
   commentId: T:UnityEngine.UIElements.StyleRotate
   fullName: UnityEngine.UIElements.StyleRotate
   nameWithType: StyleRotate
+- uid: UnityEngine.UIElements.StyleRotate.#ctor(UnityEngine.Quaternion)
+  name: StyleRotate
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleRotate.StyleRotate.html
+  commentId: M:UnityEngine.UIElements.StyleRotate.#ctor(UnityEngine.Quaternion)
+  fullName: UnityEngine.UIElements.StyleRotate.StyleRotate
+  nameWithType: StyleRotate.StyleRotate(Quaternion)
 - uid: UnityEngine.UIElements.StyleRotate.#ctor(UnityEngine.UIElements.Rotate)
   name: StyleRotate
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleRotate.StyleRotate.html
@@ -233851,6 +234757,12 @@ references:
   commentId: M:UnityEngine.UIElements.TimeValue.GetHashCode
   fullName: UnityEngine.UIElements.TimeValue.GetHashCode
   nameWithType: TimeValue.GetHashCode()
+- uid: UnityEngine.UIElements.TimeValue.Milliseconds(System.Single)
+  name: Milliseconds
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TimeValue.Milliseconds.html
+  commentId: M:UnityEngine.UIElements.TimeValue.Milliseconds(System.Single)
+  fullName: UnityEngine.UIElements.TimeValue.Milliseconds
+  nameWithType: TimeValue.Milliseconds(Single)
 - uid: UnityEngine.UIElements.TimeValue.op_Equality(UnityEngine.UIElements.TimeValue,UnityEngine.UIElements.TimeValue)
   name: Equality
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TimeValue.Equality.html
@@ -233869,6 +234781,12 @@ references:
   commentId: M:UnityEngine.UIElements.TimeValue.op_Inequality(UnityEngine.UIElements.TimeValue,UnityEngine.UIElements.TimeValue)
   fullName: UnityEngine.UIElements.TimeValue.Inequality
   nameWithType: TimeValue.Inequality(TimeValue, TimeValue)
+- uid: UnityEngine.UIElements.TimeValue.Seconds(System.Single)
+  name: Seconds
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TimeValue.Seconds.html
+  commentId: M:UnityEngine.UIElements.TimeValue.Seconds(System.Single)
+  fullName: UnityEngine.UIElements.TimeValue.Seconds
+  nameWithType: TimeValue.Seconds(Single)
 - uid: UnityEngine.UIElements.TimeValue.ToString
   name: ToString
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TimeValue.ToString.html
@@ -237631,6 +238549,12 @@ references:
   commentId: M:UnityEngine.UIElements.VisualElement.GetBindingInfos
   fullName: UnityEngine.UIElements.VisualElement.GetBindingInfos
   nameWithType: VisualElement.GetBindingInfos()
+- uid: UnityEngine.UIElements.VisualElement.GetBindingInfos(System.Collections.Generic.List{UnityEngine.UIElements.BindingInfo})
+  name: GetBindingInfos
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElement.GetBindingInfos.html
+  commentId: M:UnityEngine.UIElements.VisualElement.GetBindingInfos(System.Collections.Generic.List{UnityEngine.UIElements.BindingInfo})
+  fullName: UnityEngine.UIElements.VisualElement.GetBindingInfos
+  nameWithType: VisualElement.GetBindingInfos(List<BindingInfo>)
 - uid: UnityEngine.UIElements.VisualElement.GetClasses
   name: GetClasses
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElement.GetClasses.html
@@ -238585,6 +239509,12 @@ references:
   commentId: P:UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceTop
   fullName: UnityEngine.UIElements.VisualElement.UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   nameWithType: VisualElement.IResolvedStyle.unitySliceTop
+- uid: UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceType
+  name: IResolvedStyle.unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElement.IResolvedStyle.unitySliceType.html
+  commentId: P:UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceType
+  fullName: UnityEngine.UIElements.VisualElement.UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  nameWithType: VisualElement.IResolvedStyle.unitySliceType
 - uid: UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unityTextAlign
   name: IResolvedStyle.unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElement.IResolvedStyle.unityTextAlign.html
@@ -241867,6 +242797,12 @@ references:
   commentId: T:UnityEngine.VFX.VFXRenderer
   fullName: UnityEngine.VFX.VFXRenderer
   nameWithType: VFXRenderer
+- uid: UnityEngine.VFX.VFXRenderer.#ctor
+  name: VFXRenderer
+  href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXRenderer.VFXRenderer.html
+  commentId: M:UnityEngine.VFX.VFXRenderer.#ctor
+  fullName: UnityEngine.VFX.VFXRenderer.VFXRenderer
+  nameWithType: VFXRenderer.VFXRenderer()
 - uid: UnityEngine.VFX.VFXSpace
   name: VFXSpace
   href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXSpace.html
