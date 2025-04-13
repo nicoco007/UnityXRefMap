@@ -52399,6 +52399,12 @@ references:
   commentId: P:UnityEditor.PlayerSettings.Android.optimizedFramePacing
   fullName: UnityEditor.PlayerSettings.Android.optimizedFramePacing
   nameWithType: PlayerSettings.Android.optimizedFramePacing
+- uid: UnityEditor.PlayerSettings.Android.predictiveBackSupport
+  name: predictiveBackSupport
+  href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerSettings.Android-predictiveBackSupport.html
+  commentId: P:UnityEditor.PlayerSettings.Android.predictiveBackSupport
+  fullName: UnityEditor.PlayerSettings.Android.predictiveBackSupport
+  nameWithType: PlayerSettings.Android.predictiveBackSupport
 - uid: UnityEditor.PlayerSettings.Android.preferredInstallLocation
   name: preferredInstallLocation
   href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerSettings.Android-preferredInstallLocation.html

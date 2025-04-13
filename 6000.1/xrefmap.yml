@@ -78331,6 +78331,12 @@ references:
   commentId: F:UnityEditor.Search.SearchValue.ValueType.Enum
   fullName: UnityEditor.Search.SearchValue.ValueType.Enum
   nameWithType: SearchValue.ValueType.Enum
+- uid: UnityEditor.Search.SearchValue.ValueType.EnumFlags
+  name: EnumFlags
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Search.SearchValue.ValueType.EnumFlags.html
+  commentId: F:UnityEditor.Search.SearchValue.ValueType.EnumFlags
+  fullName: UnityEditor.Search.SearchValue.ValueType.EnumFlags
+  nameWithType: SearchValue.ValueType.EnumFlags
 - uid: UnityEditor.Search.SearchValue.ValueType.Nil
   name: Nil
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.SearchValue.ValueType.Nil.html
@@ -81139,6 +81145,12 @@ references:
   commentId: P:UnityEditor.SettingsProvider.titleBarGuiHandler
   fullName: UnityEditor.SettingsProvider.titleBarGuiHandler
   nameWithType: SettingsProvider.titleBarGuiHandler
+- uid: UnityEditor.SettingsProvider.ToString
+  name: ToString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/SettingsProvider.ToString.html
+  commentId: M:UnityEditor.SettingsProvider.ToString
+  fullName: UnityEditor.SettingsProvider.ToString
+  nameWithType: SettingsProvider.ToString()
 - uid: UnityEditor.SettingsProviderAttribute
   name: SettingsProviderAttribute
   href: https://docs.unity3d.com/Documentation/ScriptReference/SettingsProviderAttribute.html
@@ -224317,6 +224329,12 @@ references:
   commentId: P:UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   fullName: UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   nameWithType: IResolvedStyle.unitySliceTop
+- uid: UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  name: unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IResolvedStyle-unitySliceType.html
+  commentId: P:UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  fullName: UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  nameWithType: IResolvedStyle.unitySliceType
 - uid: UnityEngine.UIElements.IResolvedStyle.unityTextAlign
   name: unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IResolvedStyle-unityTextAlign.html
@@ -224845,6 +224863,12 @@ references:
   commentId: P:UnityEngine.UIElements.IStyle.unitySliceTop
   fullName: UnityEngine.UIElements.IStyle.unitySliceTop
   nameWithType: IStyle.unitySliceTop
+- uid: UnityEngine.UIElements.IStyle.unitySliceType
+  name: unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IStyle-unitySliceType.html
+  commentId: P:UnityEngine.UIElements.IStyle.unitySliceType
+  fullName: UnityEngine.UIElements.IStyle.unitySliceType
+  nameWithType: IStyle.unitySliceType
 - uid: UnityEngine.UIElements.IStyle.unityTextAlign
   name: unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IStyle-unityTextAlign.html
@@ -229963,6 +229987,24 @@ references:
   commentId: F:UnityEngine.UIElements.SetupDragAndDropArgs.startDragArgs
   fullName: UnityEngine.UIElements.SetupDragAndDropArgs.startDragArgs
   nameWithType: SetupDragAndDropArgs.startDragArgs
+- uid: UnityEngine.UIElements.SliceType
+  name: SliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.html
+  commentId: T:UnityEngine.UIElements.SliceType
+  fullName: UnityEngine.UIElements.SliceType
+  nameWithType: SliceType
+- uid: UnityEngine.UIElements.SliceType.Sliced
+  name: Sliced
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.Sliced.html
+  commentId: F:UnityEngine.UIElements.SliceType.Sliced
+  fullName: UnityEngine.UIElements.SliceType.Sliced
+  nameWithType: SliceType.Sliced
+- uid: UnityEngine.UIElements.SliceType.Tiled
+  name: Tiled
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.Tiled.html
+  commentId: F:UnityEngine.UIElements.SliceType.Tiled
+  fullName: UnityEngine.UIElements.SliceType.Tiled
+  nameWithType: SliceType.Tiled
 - uid: UnityEngine.UIElements.Slider
   name: Slider
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Slider.html
@@ -238495,6 +238537,12 @@ references:
   commentId: P:UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceTop
   fullName: UnityEngine.UIElements.VisualElement.UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   nameWithType: VisualElement.IResolvedStyle.unitySliceTop
+- uid: UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceType
+  name: IResolvedStyle.unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElement.IResolvedStyle.unitySliceType.html
+  commentId: P:UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceType
+  fullName: UnityEngine.UIElements.VisualElement.UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  nameWithType: VisualElement.IResolvedStyle.unitySliceType
 - uid: UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unityTextAlign
   name: IResolvedStyle.unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElement.IResolvedStyle.unityTextAlign.html

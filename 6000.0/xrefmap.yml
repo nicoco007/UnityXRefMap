@@ -12217,6 +12217,12 @@ references:
   commentId: F:UnityEditor.AndroidSdkVersions.AndroidApiLevel35
   fullName: UnityEditor.AndroidSdkVersions.AndroidApiLevel35
   nameWithType: AndroidSdkVersions.AndroidApiLevel35
+- uid: UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  name: AndroidApiLevel36
+  href: https://docs.unity3d.com/Documentation/ScriptReference/AndroidSdkVersions.AndroidApiLevel36.html
+  commentId: F:UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  fullName: UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  nameWithType: AndroidSdkVersions.AndroidApiLevel36
 - uid: UnityEditor.AndroidSdkVersions.AndroidApiLevelAuto
   name: AndroidApiLevelAuto
   href: https://docs.unity3d.com/Documentation/ScriptReference/AndroidSdkVersions.AndroidApiLevelAuto.html
@@ -222223,6 +222229,12 @@ references:
   commentId: P:UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   fullName: UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   nameWithType: IResolvedStyle.unitySliceTop
+- uid: UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  name: unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IResolvedStyle-unitySliceType.html
+  commentId: P:UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  fullName: UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  nameWithType: IResolvedStyle.unitySliceType
 - uid: UnityEngine.UIElements.IResolvedStyle.unityTextAlign
   name: unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IResolvedStyle-unityTextAlign.html
@@ -222751,6 +222763,12 @@ references:
   commentId: P:UnityEngine.UIElements.IStyle.unitySliceTop
   fullName: UnityEngine.UIElements.IStyle.unitySliceTop
   nameWithType: IStyle.unitySliceTop
+- uid: UnityEngine.UIElements.IStyle.unitySliceType
+  name: unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IStyle-unitySliceType.html
+  commentId: P:UnityEngine.UIElements.IStyle.unitySliceType
+  fullName: UnityEngine.UIElements.IStyle.unitySliceType
+  nameWithType: IStyle.unitySliceType
 - uid: UnityEngine.UIElements.IStyle.unityTextAlign
   name: unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IStyle-unityTextAlign.html
@@ -227875,6 +227893,24 @@ references:
   commentId: F:UnityEngine.UIElements.SetupDragAndDropArgs.startDragArgs
   fullName: UnityEngine.UIElements.SetupDragAndDropArgs.startDragArgs
   nameWithType: SetupDragAndDropArgs.startDragArgs
+- uid: UnityEngine.UIElements.SliceType
+  name: SliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.html
+  commentId: T:UnityEngine.UIElements.SliceType
+  fullName: UnityEngine.UIElements.SliceType
+  nameWithType: SliceType
+- uid: UnityEngine.UIElements.SliceType.Sliced
+  name: Sliced
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.Sliced.html
+  commentId: F:UnityEngine.UIElements.SliceType.Sliced
+  fullName: UnityEngine.UIElements.SliceType.Sliced
+  nameWithType: SliceType.Sliced
+- uid: UnityEngine.UIElements.SliceType.Tiled
+  name: Tiled
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.SliceType.Tiled.html
+  commentId: F:UnityEngine.UIElements.SliceType.Tiled
+  fullName: UnityEngine.UIElements.SliceType.Tiled
+  nameWithType: SliceType.Tiled
 - uid: UnityEngine.UIElements.Slider
   name: Slider
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Slider.html
@@ -236383,6 +236419,12 @@ references:
   commentId: P:UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceTop
   fullName: UnityEngine.UIElements.VisualElement.UnityEngine.UIElements.IResolvedStyle.unitySliceTop
   nameWithType: VisualElement.IResolvedStyle.unitySliceTop
+- uid: UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceType
+  name: IResolvedStyle.unitySliceType
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElement.IResolvedStyle.unitySliceType.html
+  commentId: P:UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unitySliceType
+  fullName: UnityEngine.UIElements.VisualElement.UnityEngine.UIElements.IResolvedStyle.unitySliceType
+  nameWithType: VisualElement.IResolvedStyle.unitySliceType
 - uid: UnityEngine.UIElements.VisualElement.UnityEngine#UIElements#IResolvedStyle#unityTextAlign
   name: IResolvedStyle.unityTextAlign
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElement.IResolvedStyle.unityTextAlign.html
@@ -239659,6 +239701,12 @@ references:
   commentId: T:UnityEngine.VFX.VFXRenderer
   fullName: UnityEngine.VFX.VFXRenderer
   nameWithType: VFXRenderer
+- uid: UnityEngine.VFX.VFXRenderer.#ctor
+  name: VFXRenderer
+  href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXRenderer.VFXRenderer.html
+  commentId: M:UnityEngine.VFX.VFXRenderer.#ctor
+  fullName: UnityEngine.VFX.VFXRenderer.VFXRenderer
+  nameWithType: VFXRenderer.VFXRenderer()
 - uid: UnityEngine.VFX.VFXSpace
   name: VFXSpace
   href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXSpace.html
