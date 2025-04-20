@@ -12217,6 +12217,12 @@ references:
   commentId: F:UnityEditor.AndroidSdkVersions.AndroidApiLevel35
   fullName: UnityEditor.AndroidSdkVersions.AndroidApiLevel35
   nameWithType: AndroidSdkVersions.AndroidApiLevel35
+- uid: UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  name: AndroidApiLevel36
+  href: https://docs.unity3d.com/Documentation/ScriptReference/AndroidSdkVersions.AndroidApiLevel36.html
+  commentId: F:UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  fullName: UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  nameWithType: AndroidSdkVersions.AndroidApiLevel36
 - uid: UnityEditor.AndroidSdkVersions.AndroidApiLevelAuto
   name: AndroidApiLevelAuto
   href: https://docs.unity3d.com/Documentation/ScriptReference/AndroidSdkVersions.AndroidApiLevelAuto.html
@@ -17503,6 +17509,12 @@ references:
   commentId: M:UnityEditor.AssetPreview.IsLoadingAssetPreview(System.Int32)
   fullName: UnityEditor.AssetPreview.IsLoadingAssetPreview
   nameWithType: AssetPreview.IsLoadingAssetPreview(Int32)
+- uid: UnityEditor.AssetPreview.IsLoadingAssetPreview(UnityEngine.EntityId)
+  name: IsLoadingAssetPreview
+  href: https://docs.unity3d.com/Documentation/ScriptReference/AssetPreview.IsLoadingAssetPreview.html
+  commentId: M:UnityEditor.AssetPreview.IsLoadingAssetPreview(UnityEngine.EntityId)
+  fullName: UnityEditor.AssetPreview.IsLoadingAssetPreview
+  nameWithType: AssetPreview.IsLoadingAssetPreview(EntityId)
 - uid: UnityEditor.AssetPreview.IsLoadingAssetPreviews
   name: IsLoadingAssetPreviews
   href: https://docs.unity3d.com/Documentation/ScriptReference/AssetPreview.IsLoadingAssetPreviews.html
@@ -73051,6 +73063,12 @@ references:
   commentId: M:UnityEditor.Search.ObjectIndexer.IndexProperty``2(System.Int32,System.String,System.String,System.Boolean,System.Boolean)
   fullName: UnityEditor.Search.ObjectIndexer.IndexProperty
   nameWithType: ObjectIndexer.IndexProperty<TProperty, TPropertyOwner>(Int32, String, String, Boolean, Boolean)
+- uid: UnityEditor.Search.ObjectIndexer.IndexProperty``2(System.Int32,System.String,System.String)
+  name: IndexProperty
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Search.ObjectIndexer.IndexProperty.html
+  commentId: M:UnityEditor.Search.ObjectIndexer.IndexProperty``2(System.Int32,System.String,System.String)
+  fullName: UnityEditor.Search.ObjectIndexer.IndexProperty
+  nameWithType: ObjectIndexer.IndexProperty<TProperty, TPropertyOwner>(Int32, String, String)
 - uid: UnityEditor.Search.ObjectIndexer.IndexPropertyComponents(System.Int32,System.String,System.String)
   name: IndexPropertyComponents
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.ObjectIndexer.IndexPropertyComponents.html
@@ -110017,6 +110035,12 @@ references:
   commentId: P:UnityEngine.Animations.GenericBinding.propertyNameHash
   fullName: UnityEngine.Animations.GenericBinding.propertyNameHash
   nameWithType: GenericBinding.propertyNameHash
+- uid: UnityEngine.Animations.GenericBinding.scriptEntityId
+  name: scriptEntityId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBinding-scriptEntityId.html
+  commentId: P:UnityEngine.Animations.GenericBinding.scriptEntityId
+  fullName: UnityEngine.Animations.GenericBinding.scriptEntityId
+  nameWithType: GenericBinding.scriptEntityId
 - uid: UnityEngine.Animations.GenericBinding.scriptInstanceID
   name: scriptInstanceID
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBinding-scriptInstanceID.html
@@ -110047,6 +110071,12 @@ references:
   commentId: M:UnityEngine.Animations.GenericBindingUtility.BindProperties(UnityEngine.GameObject,Unity.Collections.NativeArray{UnityEngine.Animations.GenericBinding},Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty}@,Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty}@,Unity.Collections.Allocator)
   fullName: UnityEngine.Animations.GenericBindingUtility.BindProperties
   nameWithType: GenericBindingUtility.BindProperties(GameObject, NativeArray<GenericBinding>, out NativeArray<BoundProperty>, out NativeArray<BoundProperty>, Allocator)
+- uid: UnityEngine.Animations.GenericBindingUtility.BindProperties(UnityEngine.GameObject,Unity.Collections.NativeArray{UnityEngine.Animations.GenericBinding},Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty}@,Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty}@,Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty}@,Unity.Collections.Allocator)
+  name: BindProperties
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.BindProperties.html
+  commentId: M:UnityEngine.Animations.GenericBindingUtility.BindProperties(UnityEngine.GameObject,Unity.Collections.NativeArray{UnityEngine.Animations.GenericBinding},Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty}@,Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty}@,Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty}@,Unity.Collections.Allocator)
+  fullName: UnityEngine.Animations.GenericBindingUtility.BindProperties
+  nameWithType: GenericBindingUtility.BindProperties(GameObject, NativeArray<GenericBinding>, out NativeArray<BoundProperty>, out NativeArray<BoundProperty>, out NativeArray<BoundProperty>, Allocator)
 - uid: UnityEngine.Animations.GenericBindingUtility.CreateGenericBinding(UnityEngine.Object,System.String,UnityEngine.GameObject,System.Boolean,UnityEngine.Animations.GenericBinding@)
   name: CreateGenericBinding
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.CreateGenericBinding.html
@@ -110077,6 +110107,12 @@ references:
   commentId: M:UnityEngine.Animations.GenericBindingUtility.GetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32},Unity.Collections.NativeArray{System.Single})
   fullName: UnityEngine.Animations.GenericBindingUtility.GetValues
   nameWithType: GenericBindingUtility.GetValues(NativeArray<BoundProperty>, NativeArray<Int32>, NativeArray<Single>)
+- uid: UnityEngine.Animations.GenericBindingUtility.GetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  name: GetValues
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.GetValues.html
+  commentId: M:UnityEngine.Animations.GenericBindingUtility.GetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  fullName: UnityEngine.Animations.GenericBindingUtility.GetValues
+  nameWithType: GenericBindingUtility.GetValues(NativeArray<BoundProperty>, NativeArray<Int32>, NativeArray<EntityId>)
 - uid: UnityEngine.Animations.GenericBindingUtility.GetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32})
   name: GetValues
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.GetValues.html
@@ -110089,6 +110125,12 @@ references:
   commentId: M:UnityEngine.Animations.GenericBindingUtility.GetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Single})
   fullName: UnityEngine.Animations.GenericBindingUtility.GetValues
   nameWithType: GenericBindingUtility.GetValues(NativeArray<BoundProperty>, NativeArray<Single>)
+- uid: UnityEngine.Animations.GenericBindingUtility.GetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  name: GetValues
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.GetValues.html
+  commentId: M:UnityEngine.Animations.GenericBindingUtility.GetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  fullName: UnityEngine.Animations.GenericBindingUtility.GetValues
+  nameWithType: GenericBindingUtility.GetValues(NativeArray<BoundProperty>, NativeArray<EntityId>)
 - uid: UnityEngine.Animations.GenericBindingUtility.SetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32},Unity.Collections.NativeArray{System.Int32})
   name: SetValues
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.SetValues.html
@@ -110101,6 +110143,12 @@ references:
   commentId: M:UnityEngine.Animations.GenericBindingUtility.SetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32},Unity.Collections.NativeArray{System.Single})
   fullName: UnityEngine.Animations.GenericBindingUtility.SetValues
   nameWithType: GenericBindingUtility.SetValues(NativeArray<BoundProperty>, NativeArray<Int32>, NativeArray<Single>)
+- uid: UnityEngine.Animations.GenericBindingUtility.SetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  name: SetValues
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.SetValues.html
+  commentId: M:UnityEngine.Animations.GenericBindingUtility.SetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  fullName: UnityEngine.Animations.GenericBindingUtility.SetValues
+  nameWithType: GenericBindingUtility.SetValues(NativeArray<BoundProperty>, NativeArray<Int32>, NativeArray<EntityId>)
 - uid: UnityEngine.Animations.GenericBindingUtility.SetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Int32})
   name: SetValues
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.SetValues.html
@@ -110113,6 +110161,12 @@ references:
   commentId: M:UnityEngine.Animations.GenericBindingUtility.SetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{System.Single})
   fullName: UnityEngine.Animations.GenericBindingUtility.SetValues
   nameWithType: GenericBindingUtility.SetValues(NativeArray<BoundProperty>, NativeArray<Single>)
+- uid: UnityEngine.Animations.GenericBindingUtility.SetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  name: SetValues
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.SetValues.html
+  commentId: M:UnityEngine.Animations.GenericBindingUtility.SetValues(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  fullName: UnityEngine.Animations.GenericBindingUtility.SetValues
+  nameWithType: GenericBindingUtility.SetValues(NativeArray<BoundProperty>, NativeArray<EntityId>)
 - uid: UnityEngine.Animations.GenericBindingUtility.UnbindProperties(Unity.Collections.NativeArray{UnityEngine.Animations.BoundProperty})
   name: UnbindProperties
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.GenericBindingUtility.UnbindProperties.html
@@ -144091,6 +144145,24 @@ references:
   commentId: P:UnityEngine.IconAttribute.path
   fullName: UnityEngine.IconAttribute.path
   nameWithType: IconAttribute.path
+- uid: UnityEngine.Identifiers
+  name: UnityEngine.Identifiers
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Identifiers.html
+  commentId: N:UnityEngine.Identifiers
+  fullName: UnityEngine.Identifiers
+  nameWithType: UnityEngine.Identifiers
+- uid: UnityEngine.Identifiers.Identifiers
+  name: Identifiers
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Identifiers.Identifiers.html
+  commentId: T:UnityEngine.Identifiers.Identifiers
+  fullName: UnityEngine.Identifiers.Identifiers
+  nameWithType: Identifiers
+- uid: UnityEngine.Identifiers.Identifiers.installationId
+  name: installationId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Identifiers.Identifiers-installationId.html
+  commentId: P:UnityEngine.Identifiers.Identifiers.installationId
+  fullName: UnityEngine.Identifiers.Identifiers.installationId
+  nameWithType: Identifiers.installationId
 - uid: UnityEngine.IExposedPropertyTable
   name: IExposedPropertyTable
   href: https://docs.unity3d.com/Documentation/ScriptReference/IExposedPropertyTable.html
@@ -194455,6 +194527,30 @@ references:
   commentId: T:UnityEngine.Resources
   fullName: UnityEngine.Resources
   nameWithType: Resources
+- uid: UnityEngine.Resources.EntityIdIsValid(UnityEngine.EntityId)
+  name: EntityIdIsValid
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Resources.EntityIdIsValid.html
+  commentId: M:UnityEngine.Resources.EntityIdIsValid(UnityEngine.EntityId)
+  fullName: UnityEngine.Resources.EntityIdIsValid
+  nameWithType: Resources.EntityIdIsValid(EntityId)
+- uid: UnityEngine.Resources.EntityIdsToValidArray(ReadOnlySpan{UnityEngine.EntityId},Span{System.Boolean})
+  name: EntityIdsToValidArray
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Resources.EntityIdsToValidArray.html
+  commentId: M:UnityEngine.Resources.EntityIdsToValidArray(ReadOnlySpan{UnityEngine.EntityId},Span{System.Boolean})
+  fullName: UnityEngine.Resources.EntityIdsToValidArray
+  nameWithType: Resources.EntityIdsToValidArray(ReadOnlySpan<EntityId>, Span<Boolean>)
+- uid: UnityEngine.Resources.EntityIdsToValidArray(Unity.Collections.NativeArray{UnityEngine.EntityId},Unity.Collections.NativeArray{System.Boolean})
+  name: EntityIdsToValidArray
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Resources.EntityIdsToValidArray.html
+  commentId: M:UnityEngine.Resources.EntityIdsToValidArray(Unity.Collections.NativeArray{UnityEngine.EntityId},Unity.Collections.NativeArray{System.Boolean})
+  fullName: UnityEngine.Resources.EntityIdsToValidArray
+  nameWithType: Resources.EntityIdsToValidArray(NativeArray<EntityId>, NativeArray<Boolean>)
+- uid: UnityEngine.Resources.EntityIdToObject(UnityEngine.EntityId)
+  name: EntityIdToObject
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Resources.EntityIdToObject.html
+  commentId: M:UnityEngine.Resources.EntityIdToObject(UnityEngine.EntityId)
+  fullName: UnityEngine.Resources.EntityIdToObject
+  nameWithType: Resources.EntityIdToObject(EntityId)
 - uid: UnityEngine.Resources.FindObjectsOfTypeAll(System.Type)
   name: FindObjectsOfTypeAll
   href: https://docs.unity3d.com/Documentation/ScriptReference/Resources.FindObjectsOfTypeAll.html
@@ -222925,6 +223021,12 @@ references:
   commentId: M:UnityEngine.UIElements.GenericDropdownMenu.DropDown(UnityEngine.Rect,UnityEngine.UIElements.VisualElement,System.Boolean)
   fullName: UnityEngine.UIElements.GenericDropdownMenu.DropDown
   nameWithType: GenericDropdownMenu.DropDown(Rect, VisualElement, Boolean)
+- uid: UnityEngine.UIElements.GenericDropdownMenu.DropDown(UnityEngine.Rect)
+  name: DropDown
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.GenericDropdownMenu.DropDown.html
+  commentId: M:UnityEngine.UIElements.GenericDropdownMenu.DropDown(UnityEngine.Rect)
+  fullName: UnityEngine.UIElements.GenericDropdownMenu.DropDown
+  nameWithType: GenericDropdownMenu.DropDown(Rect)
 - uid: UnityEngine.UIElements.GenericDropdownMenu.itemContentUssClassName
   name: itemContentUssClassName
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.GenericDropdownMenu-itemContentUssClassName.html
@@ -228775,6 +228877,84 @@ references:
   commentId: F:UnityEngine.UIElements.PickingMode.Position
   fullName: UnityEngine.UIElements.PickingMode.Position
   nameWithType: PickingMode.Position
+- uid: UnityEngine.UIElements.Pivot
+  name: Pivot
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.html
+  commentId: T:UnityEngine.UIElements.Pivot
+  fullName: UnityEngine.UIElements.Pivot
+  nameWithType: Pivot
+- uid: UnityEngine.UIElements.Pivot.BottomCenter
+  name: BottomCenter
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.BottomCenter.html
+  commentId: F:UnityEngine.UIElements.Pivot.BottomCenter
+  fullName: UnityEngine.UIElements.Pivot.BottomCenter
+  nameWithType: Pivot.BottomCenter
+- uid: UnityEngine.UIElements.Pivot.BottomLeft
+  name: BottomLeft
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.BottomLeft.html
+  commentId: F:UnityEngine.UIElements.Pivot.BottomLeft
+  fullName: UnityEngine.UIElements.Pivot.BottomLeft
+  nameWithType: Pivot.BottomLeft
+- uid: UnityEngine.UIElements.Pivot.BottomRight
+  name: BottomRight
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.BottomRight.html
+  commentId: F:UnityEngine.UIElements.Pivot.BottomRight
+  fullName: UnityEngine.UIElements.Pivot.BottomRight
+  nameWithType: Pivot.BottomRight
+- uid: UnityEngine.UIElements.Pivot.Center
+  name: Center
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.Center.html
+  commentId: F:UnityEngine.UIElements.Pivot.Center
+  fullName: UnityEngine.UIElements.Pivot.Center
+  nameWithType: Pivot.Center
+- uid: UnityEngine.UIElements.Pivot.LeftCenter
+  name: LeftCenter
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.LeftCenter.html
+  commentId: F:UnityEngine.UIElements.Pivot.LeftCenter
+  fullName: UnityEngine.UIElements.Pivot.LeftCenter
+  nameWithType: Pivot.LeftCenter
+- uid: UnityEngine.UIElements.Pivot.RightCenter
+  name: RightCenter
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.RightCenter.html
+  commentId: F:UnityEngine.UIElements.Pivot.RightCenter
+  fullName: UnityEngine.UIElements.Pivot.RightCenter
+  nameWithType: Pivot.RightCenter
+- uid: UnityEngine.UIElements.Pivot.TopCenter
+  name: TopCenter
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.TopCenter.html
+  commentId: F:UnityEngine.UIElements.Pivot.TopCenter
+  fullName: UnityEngine.UIElements.Pivot.TopCenter
+  nameWithType: Pivot.TopCenter
+- uid: UnityEngine.UIElements.Pivot.TopLeft
+  name: TopLeft
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.TopLeft.html
+  commentId: F:UnityEngine.UIElements.Pivot.TopLeft
+  fullName: UnityEngine.UIElements.Pivot.TopLeft
+  nameWithType: Pivot.TopLeft
+- uid: UnityEngine.UIElements.Pivot.TopRight
+  name: TopRight
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.Pivot.TopRight.html
+  commentId: F:UnityEngine.UIElements.Pivot.TopRight
+  fullName: UnityEngine.UIElements.Pivot.TopRight
+  nameWithType: Pivot.TopRight
+- uid: UnityEngine.UIElements.PivotReferenceSize
+  name: PivotReferenceSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PivotReferenceSize.html
+  commentId: T:UnityEngine.UIElements.PivotReferenceSize
+  fullName: UnityEngine.UIElements.PivotReferenceSize
+  nameWithType: PivotReferenceSize
+- uid: UnityEngine.UIElements.PivotReferenceSize.BoundingBox
+  name: BoundingBox
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PivotReferenceSize.BoundingBox.html
+  commentId: F:UnityEngine.UIElements.PivotReferenceSize.BoundingBox
+  fullName: UnityEngine.UIElements.PivotReferenceSize.BoundingBox
+  nameWithType: PivotReferenceSize.BoundingBox
+- uid: UnityEngine.UIElements.PivotReferenceSize.Layout
+  name: Layout
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PivotReferenceSize.Layout.html
+  commentId: F:UnityEngine.UIElements.PivotReferenceSize.Layout
+  fullName: UnityEngine.UIElements.PivotReferenceSize.Layout
+  nameWithType: PivotReferenceSize.Layout
 - uid: UnityEngine.UIElements.PointerCancelEvent
   name: PointerCancelEvent
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.PointerCancelEvent.html
@@ -235921,6 +236101,18 @@ references:
   commentId: P:UnityEngine.UIElements.UIDocument.parentUI
   fullName: UnityEngine.UIElements.UIDocument.parentUI
   nameWithType: UIDocument.parentUI
+- uid: UnityEngine.UIElements.UIDocument.pivot
+  name: pivot
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument-pivot.html
+  commentId: P:UnityEngine.UIElements.UIDocument.pivot
+  fullName: UnityEngine.UIElements.UIDocument.pivot
+  nameWithType: UIDocument.pivot
+- uid: UnityEngine.UIElements.UIDocument.pivotReferenceSize
+  name: pivotReferenceSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument-pivotReferenceSize.html
+  commentId: P:UnityEngine.UIElements.UIDocument.pivotReferenceSize
+  fullName: UnityEngine.UIElements.UIDocument.pivotReferenceSize
+  nameWithType: UIDocument.pivotReferenceSize
 - uid: UnityEngine.UIElements.UIDocument.rootVisualElement
   name: rootVisualElement
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument-rootVisualElement.html
@@ -239929,6 +240121,12 @@ references:
   commentId: M:UnityEngine.UIElements.VisualElementStyleSheetSet.GetHashCode
   fullName: UnityEngine.UIElements.VisualElementStyleSheetSet.GetHashCode
   nameWithType: VisualElementStyleSheetSet.GetHashCode()
+- uid: UnityEngine.UIElements.VisualElementStyleSheetSet.Insert(System.Int32,UnityEngine.UIElements.StyleSheet)
+  name: Insert
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElementStyleSheetSet.Insert.html
+  commentId: M:UnityEngine.UIElements.VisualElementStyleSheetSet.Insert(System.Int32,UnityEngine.UIElements.StyleSheet)
+  fullName: UnityEngine.UIElements.VisualElementStyleSheetSet.Insert
+  nameWithType: VisualElementStyleSheetSet.Insert(Int32, StyleSheet)
 - uid: UnityEngine.UIElements.VisualElementStyleSheetSet.Item(System.Int32)
   name: Item[Int32]
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElementStyleSheetSet.Item[Int32].html
@@ -250525,6 +250723,12 @@ references:
   commentId: F:UnityEngine.XR.XRDisplaySubsystem.XRRenderParameter.viewport
   fullName: UnityEngine.XR.XRDisplaySubsystem.XRRenderParameter.viewport
   nameWithType: XRDisplaySubsystem.XRRenderParameter.viewport
+- uid: UnityEngine.XR.XRDisplaySubsystem.XRRenderParameter.visibleMesh
+  name: visibleMesh
+  href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem.XRRenderParameter-visibleMesh.html
+  commentId: F:UnityEngine.XR.XRDisplaySubsystem.XRRenderParameter.visibleMesh
+  fullName: UnityEngine.XR.XRDisplaySubsystem.XRRenderParameter.visibleMesh
+  nameWithType: XRDisplaySubsystem.XRRenderParameter.visibleMesh
 - uid: UnityEngine.XR.XRDisplaySubsystem.XRRenderPass
   name: XRDisplaySubsystem.XRRenderPass
   href: https://docs.unity3d.com/Documentation/ScriptReference/XR.XRDisplaySubsystem.XRRenderPass.html

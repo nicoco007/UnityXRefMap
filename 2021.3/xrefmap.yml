@@ -5533,6 +5533,12 @@ references:
   commentId: F:UnityEditor.AndroidSdkVersions.AndroidApiLevel35
   fullName: UnityEditor.AndroidSdkVersions.AndroidApiLevel35
   nameWithType: AndroidSdkVersions.AndroidApiLevel35
+- uid: UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  name: AndroidApiLevel36
+  href: https://docs.unity3d.com/Documentation/ScriptReference/AndroidSdkVersions.AndroidApiLevel36.html
+  commentId: F:UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  fullName: UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  nameWithType: AndroidSdkVersions.AndroidApiLevel36
 - uid: UnityEditor.AndroidSdkVersions.AndroidApiLevelAuto
   name: AndroidApiLevelAuto
   href: https://docs.unity3d.com/Documentation/ScriptReference/AndroidSdkVersions.AndroidApiLevelAuto.html
@@ -47185,6 +47191,12 @@ references:
   commentId: P:UnityEditor.PlayerSettings.Android.optimizedFramePacing
   fullName: UnityEditor.PlayerSettings.Android.optimizedFramePacing
   nameWithType: PlayerSettings.Android.optimizedFramePacing
+- uid: UnityEditor.PlayerSettings.Android.predictiveBackSupport
+  name: predictiveBackSupport
+  href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerSettings.Android-predictiveBackSupport.html
+  commentId: P:UnityEditor.PlayerSettings.Android.predictiveBackSupport
+  fullName: UnityEditor.PlayerSettings.Android.predictiveBackSupport
+  nameWithType: PlayerSettings.Android.predictiveBackSupport
 - uid: UnityEditor.PlayerSettings.Android.preferredInstallLocation
   name: preferredInstallLocation
   href: https://docs.unity3d.com/Documentation/ScriptReference/PlayerSettings.Android-preferredInstallLocation.html
