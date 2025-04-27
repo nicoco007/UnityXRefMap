@@ -207205,12 +207205,6 @@ references:
   commentId: P:UnityEngine.TextCore.Text.TextSettings.fallbackSpriteAssets
   fullName: UnityEngine.TextCore.Text.TextSettings.fallbackSpriteAssets
   nameWithType: TextSettings.fallbackSpriteAssets
-- uid: UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal(UnityEngine.Font)
-  name: GetCachedFontAssetInternal
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.TextSettings.GetCachedFontAssetInternal.html
-  commentId: M:UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal(UnityEngine.Font)
-  fullName: UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal
-  nameWithType: TextSettings.GetCachedFontAssetInternal(Font)
 - uid: UnityEngine.TextCore.Text.TextSettings.InitializeFontReferenceLookup
   name: InitializeFontReferenceLookup
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.TextSettings.InitializeFontReferenceLookup.html
