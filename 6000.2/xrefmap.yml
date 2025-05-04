@@ -11557,6 +11557,12 @@ references:
   commentId: M:UnityEditor.Analytics.PackageManagerResolvePackageAnalytic.#ctor
   fullName: UnityEditor.Analytics.PackageManagerResolvePackageAnalytic.PackageManagerResolvePackageAnalytic
   nameWithType: PackageManagerResolvePackageAnalytic.PackageManagerResolvePackageAnalytic()
+- uid: UnityEditor.Analytics.PackageManagerResolvePackageAnalytic.package_compliance_statuses
+  name: package_compliance_statuses
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Analytics.PackageManagerResolvePackageAnalytic-package_compliance_statuses.html
+  commentId: F:UnityEditor.Analytics.PackageManagerResolvePackageAnalytic.package_compliance_statuses
+  fullName: UnityEditor.Analytics.PackageManagerResolvePackageAnalytic.package_compliance_statuses
+  nameWithType: PackageManagerResolvePackageAnalytic.package_compliance_statuses
 - uid: UnityEditor.Analytics.PackageManagerResolvePackageAnalytic.package_registries
   name: package_registries
   href: https://docs.unity3d.com/Documentation/ScriptReference/Analytics.PackageManagerResolvePackageAnalytic-package_registries.html
@@ -145129,6 +145135,36 @@ references:
   commentId: M:UnityEngine.IntegratedSubsystemDescriptor`1.Create
   fullName: UnityEngine.IntegratedSubsystemDescriptor
   nameWithType: IntegratedSubsystemDescriptor<TSubsystem>.Create()
+- uid: UnityEngine.IntegrationInfo
+  name: IntegrationInfo
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IntegrationInfo.html
+  commentId: T:UnityEngine.IntegrationInfo
+  fullName: UnityEngine.IntegrationInfo
+  nameWithType: IntegrationInfo
+- uid: UnityEngine.IntegrationInfo.description
+  name: description
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IntegrationInfo-description.html
+  commentId: P:UnityEngine.IntegrationInfo.description
+  fullName: UnityEngine.IntegrationInfo.description
+  nameWithType: IntegrationInfo.description
+- uid: UnityEngine.IntegrationInfo.id
+  name: id
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IntegrationInfo-id.html
+  commentId: P:UnityEngine.IntegrationInfo.id
+  fullName: UnityEngine.IntegrationInfo.id
+  nameWithType: IntegrationInfo.id
+- uid: UnityEngine.IntegrationInfo.isFallback
+  name: isFallback
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IntegrationInfo-isFallback.html
+  commentId: P:UnityEngine.IntegrationInfo.isFallback
+  fullName: UnityEngine.IntegrationInfo.isFallback
+  nameWithType: IntegrationInfo.isFallback
+- uid: UnityEngine.IntegrationInfo.name
+  name: name
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IntegrationInfo-name.html
+  commentId: P:UnityEngine.IntegrationInfo.name
+  fullName: UnityEngine.IntegrationInfo.name
+  nameWithType: IntegrationInfo.name
 - uid: UnityEngine.IntegrityCheckLevel
   name: IntegrityCheckLevel
   href: https://docs.unity3d.com/Documentation/ScriptReference/IntegrityCheckLevel.html
@@ -166927,6 +166963,12 @@ references:
   commentId: P:UnityEngine.Physics.defaultSolverVelocityIterations
   fullName: UnityEngine.Physics.defaultSolverVelocityIterations
   nameWithType: Physics.defaultSolverVelocityIterations
+- uid: UnityEngine.Physics.GetCurrentIntegrationInfo
+  name: GetCurrentIntegrationInfo
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Physics.GetCurrentIntegrationInfo.html
+  commentId: M:UnityEngine.Physics.GetCurrentIntegrationInfo
+  fullName: UnityEngine.Physics.GetCurrentIntegrationInfo
+  nameWithType: Physics.GetCurrentIntegrationInfo()
 - uid: UnityEngine.Physics.GetIgnoreCollision(UnityEngine.Collider,UnityEngine.Collider)
   name: GetIgnoreCollision
   href: https://docs.unity3d.com/Documentation/ScriptReference/Physics.GetIgnoreCollision.html
@@ -189865,6 +189907,18 @@ references:
   commentId: F:UnityEngine.Rendering.ShaderPropertyFlags.PerRendererData
   fullName: UnityEngine.Rendering.ShaderPropertyFlags.PerRendererData
   nameWithType: ShaderPropertyFlags.PerRendererData
+- uid: UnityEngine.Rendering.ShaderPropertyFlags.Vector2
+  name: Vector2
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.ShaderPropertyFlags.Vector2.html
+  commentId: F:UnityEngine.Rendering.ShaderPropertyFlags.Vector2
+  fullName: UnityEngine.Rendering.ShaderPropertyFlags.Vector2
+  nameWithType: ShaderPropertyFlags.Vector2
+- uid: UnityEngine.Rendering.ShaderPropertyFlags.Vector3
+  name: Vector3
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.ShaderPropertyFlags.Vector3.html
+  commentId: F:UnityEngine.Rendering.ShaderPropertyFlags.Vector3
+  fullName: UnityEngine.Rendering.ShaderPropertyFlags.Vector3
+  nameWithType: ShaderPropertyFlags.Vector3
 - uid: UnityEngine.Rendering.ShaderPropertyType
   name: ShaderPropertyType
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.ShaderPropertyType.html
@@ -208069,12 +208123,6 @@ references:
   commentId: P:UnityEngine.TextCore.Text.TextSettings.fallbackSpriteAssets
   fullName: UnityEngine.TextCore.Text.TextSettings.fallbackSpriteAssets
   nameWithType: TextSettings.fallbackSpriteAssets
-- uid: UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal(UnityEngine.Font)
-  name: GetCachedFontAssetInternal
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.TextSettings.GetCachedFontAssetInternal.html
-  commentId: M:UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal(UnityEngine.Font)
-  fullName: UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal
-  nameWithType: TextSettings.GetCachedFontAssetInternal(Font)
 - uid: UnityEngine.TextCore.Text.TextSettings.InitializeFontReferenceLookup
   name: InitializeFontReferenceLookup
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.TextSettings.InitializeFontReferenceLookup.html

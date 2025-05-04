@@ -72985,6 +72985,12 @@ references:
   commentId: M:UnityEditor.Search.ObjectIndexer.IndexProperty``2(System.Int32,System.String,System.String,System.Boolean,System.Boolean)
   fullName: UnityEditor.Search.ObjectIndexer.IndexProperty
   nameWithType: ObjectIndexer.IndexProperty<TProperty, TPropertyOwner>(Int32, String, String, Boolean, Boolean)
+- uid: UnityEditor.Search.ObjectIndexer.IndexProperty``2(System.Int32,System.String,System.String)
+  name: IndexProperty
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Search.ObjectIndexer.IndexProperty.html
+  commentId: M:UnityEditor.Search.ObjectIndexer.IndexProperty``2(System.Int32,System.String,System.String)
+  fullName: UnityEditor.Search.ObjectIndexer.IndexProperty
+  nameWithType: ObjectIndexer.IndexProperty<TProperty, TPropertyOwner>(Int32, String, String)
 - uid: UnityEditor.Search.ObjectIndexer.IndexPropertyComponents(System.Int32,System.String,System.String)
   name: IndexPropertyComponents
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.ObjectIndexer.IndexPropertyComponents.html

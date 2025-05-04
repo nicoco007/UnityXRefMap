@@ -21733,6 +21733,12 @@ references:
   commentId: F:UnityEditor.BuildTarget.iPhone
   fullName: UnityEditor.BuildTarget.iPhone
   nameWithType: BuildTarget.iPhone
+- uid: UnityEditor.BuildTarget.Kepler
+  name: Kepler
+  href: https://docs.unity3d.com/Documentation/ScriptReference/BuildTarget.Kepler.html
+  commentId: F:UnityEditor.BuildTarget.Kepler
+  fullName: UnityEditor.BuildTarget.Kepler
+  nameWithType: BuildTarget.Kepler
 - uid: UnityEditor.BuildTarget.LinuxHeadlessSimulation
   name: LinuxHeadlessSimulation
   href: https://docs.unity3d.com/Documentation/ScriptReference/BuildTarget.LinuxHeadlessSimulation.html
@@ -22009,6 +22015,12 @@ references:
   commentId: F:UnityEditor.BuildTargetGroup.iPhone
   fullName: UnityEditor.BuildTargetGroup.iPhone
   nameWithType: BuildTargetGroup.iPhone
+- uid: UnityEditor.BuildTargetGroup.Kepler
+  name: Kepler
+  href: https://docs.unity3d.com/Documentation/ScriptReference/BuildTargetGroup.Kepler.html
+  commentId: F:UnityEditor.BuildTargetGroup.Kepler
+  fullName: UnityEditor.BuildTargetGroup.Kepler
+  nameWithType: BuildTargetGroup.Kepler
 - uid: UnityEditor.BuildTargetGroup.LinuxHeadlessSimulation
   name: LinuxHeadlessSimulation
   href: https://docs.unity3d.com/Documentation/ScriptReference/BuildTargetGroup.LinuxHeadlessSimulation.html
@@ -193351,6 +193363,18 @@ references:
   commentId: F:UnityEngine.RuntimePlatform.IPhonePlayer
   fullName: UnityEngine.RuntimePlatform.IPhonePlayer
   nameWithType: RuntimePlatform.IPhonePlayer
+- uid: UnityEngine.RuntimePlatform.KeplerArm64
+  name: KeplerArm64
+  href: https://docs.unity3d.com/Documentation/ScriptReference/RuntimePlatform.KeplerArm64.html
+  commentId: F:UnityEngine.RuntimePlatform.KeplerArm64
+  fullName: UnityEngine.RuntimePlatform.KeplerArm64
+  nameWithType: RuntimePlatform.KeplerArm64
+- uid: UnityEngine.RuntimePlatform.KeplerX64
+  name: KeplerX64
+  href: https://docs.unity3d.com/Documentation/ScriptReference/RuntimePlatform.KeplerX64.html
+  commentId: F:UnityEngine.RuntimePlatform.KeplerX64
+  fullName: UnityEngine.RuntimePlatform.KeplerX64
+  nameWithType: RuntimePlatform.KeplerX64
 - uid: UnityEngine.RuntimePlatform.LinuxEditor
   name: LinuxEditor
   href: https://docs.unity3d.com/Documentation/ScriptReference/RuntimePlatform.LinuxEditor.html
@@ -205117,12 +205141,6 @@ references:
   commentId: P:UnityEngine.TextCore.Text.TextSettings.fallbackSpriteAssets
   fullName: UnityEngine.TextCore.Text.TextSettings.fallbackSpriteAssets
   nameWithType: TextSettings.fallbackSpriteAssets
-- uid: UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal(UnityEngine.Font)
-  name: GetCachedFontAssetInternal
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.TextSettings.GetCachedFontAssetInternal.html
-  commentId: M:UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal(UnityEngine.Font)
-  fullName: UnityEngine.TextCore.Text.TextSettings.GetCachedFontAssetInternal
-  nameWithType: TextSettings.GetCachedFontAssetInternal(Font)
 - uid: UnityEngine.TextCore.Text.TextSettings.InitializeFontReferenceLookup
   name: InitializeFontReferenceLookup
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.TextSettings.InitializeFontReferenceLookup.html
@@ -216553,6 +216571,12 @@ references:
   commentId: M:UnityEngine.UIElements.ContextualMenuManipulator.#ctor(System.Action{UnityEngine.UIElements.ContextualMenuPopulateEvent})
   fullName: UnityEngine.UIElements.ContextualMenuManipulator.ContextualMenuManipulator
   nameWithType: ContextualMenuManipulator.ContextualMenuManipulator(Action<ContextualMenuPopulateEvent>)
+- uid: UnityEngine.UIElements.ContextualMenuManipulator.IsOSXContextualMenuPlatform
+  name: IsOSXContextualMenuPlatform
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.ContextualMenuManipulator.IsOSXContextualMenuPlatform.html
+  commentId: M:UnityEngine.UIElements.ContextualMenuManipulator.IsOSXContextualMenuPlatform
+  fullName: UnityEngine.UIElements.ContextualMenuManipulator.IsOSXContextualMenuPlatform
+  nameWithType: ContextualMenuManipulator.IsOSXContextualMenuPlatform()
 - uid: UnityEngine.UIElements.ContextualMenuManipulator.RegisterCallbacksOnTarget
   name: RegisterCallbacksOnTarget
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.ContextualMenuManipulator.RegisterCallbacksOnTarget.html
