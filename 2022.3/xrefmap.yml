@@ -8695,6 +8695,12 @@ references:
   commentId: F:UnityEditor.AndroidSdkVersions.AndroidApiLevel35
   fullName: UnityEditor.AndroidSdkVersions.AndroidApiLevel35
   nameWithType: AndroidSdkVersions.AndroidApiLevel35
+- uid: UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  name: AndroidApiLevel36
+  href: https://docs.unity3d.com/Documentation/ScriptReference/AndroidSdkVersions.AndroidApiLevel36.html
+  commentId: F:UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  fullName: UnityEditor.AndroidSdkVersions.AndroidApiLevel36
+  nameWithType: AndroidSdkVersions.AndroidApiLevel36
 - uid: UnityEditor.AndroidSdkVersions.AndroidApiLevelAuto
   name: AndroidApiLevelAuto
   href: https://docs.unity3d.com/Documentation/ScriptReference/AndroidSdkVersions.AndroidApiLevelAuto.html
@@ -135871,12 +135877,66 @@ references:
   commentId: F:UnityEngine.KeyCode.F15
   fullName: UnityEngine.KeyCode.F15
   nameWithType: KeyCode.F15
+- uid: UnityEngine.KeyCode.F16
+  name: F16
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F16.html
+  commentId: F:UnityEngine.KeyCode.F16
+  fullName: UnityEngine.KeyCode.F16
+  nameWithType: KeyCode.F16
+- uid: UnityEngine.KeyCode.F17
+  name: F17
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F17.html
+  commentId: F:UnityEngine.KeyCode.F17
+  fullName: UnityEngine.KeyCode.F17
+  nameWithType: KeyCode.F17
+- uid: UnityEngine.KeyCode.F18
+  name: F18
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F18.html
+  commentId: F:UnityEngine.KeyCode.F18
+  fullName: UnityEngine.KeyCode.F18
+  nameWithType: KeyCode.F18
+- uid: UnityEngine.KeyCode.F19
+  name: F19
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F19.html
+  commentId: F:UnityEngine.KeyCode.F19
+  fullName: UnityEngine.KeyCode.F19
+  nameWithType: KeyCode.F19
 - uid: UnityEngine.KeyCode.F2
   name: F2
   href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F2.html
   commentId: F:UnityEngine.KeyCode.F2
   fullName: UnityEngine.KeyCode.F2
   nameWithType: KeyCode.F2
+- uid: UnityEngine.KeyCode.F20
+  name: F20
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F20.html
+  commentId: F:UnityEngine.KeyCode.F20
+  fullName: UnityEngine.KeyCode.F20
+  nameWithType: KeyCode.F20
+- uid: UnityEngine.KeyCode.F21
+  name: F21
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F21.html
+  commentId: F:UnityEngine.KeyCode.F21
+  fullName: UnityEngine.KeyCode.F21
+  nameWithType: KeyCode.F21
+- uid: UnityEngine.KeyCode.F22
+  name: F22
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F22.html
+  commentId: F:UnityEngine.KeyCode.F22
+  fullName: UnityEngine.KeyCode.F22
+  nameWithType: KeyCode.F22
+- uid: UnityEngine.KeyCode.F23
+  name: F23
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F23.html
+  commentId: F:UnityEngine.KeyCode.F23
+  fullName: UnityEngine.KeyCode.F23
+  nameWithType: KeyCode.F23
+- uid: UnityEngine.KeyCode.F24
+  name: F24
+  href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F24.html
+  commentId: F:UnityEngine.KeyCode.F24
+  fullName: UnityEngine.KeyCode.F24
+  nameWithType: KeyCode.F24
 - uid: UnityEngine.KeyCode.F3
   name: F3
   href: https://docs.unity3d.com/Documentation/ScriptReference/KeyCode.F3.html
