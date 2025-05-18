@@ -204145,12 +204145,6 @@ references:
   commentId: P:UnityEngine.TextCore.Text.FontAsset.fallbackFontAssetTable
   fullName: UnityEngine.TextCore.Text.FontAsset.fallbackFontAssetTable
   nameWithType: FontAsset.fallbackFontAssetTable
-- uid: UnityEngine.TextCore.Text.FontAsset.Finalize
-  name: Finalize
-  href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.FontAsset.Finalize.html
-  commentId: M:UnityEngine.TextCore.Text.FontAsset.Finalize
-  fullName: UnityEngine.TextCore.Text.FontAsset.Finalize
-  nameWithType: FontAsset.Finalize()
 - uid: UnityEngine.TextCore.Text.FontAsset.fontAssetCreationEditorSettings
   name: fontAssetCreationEditorSettings
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.Text.FontAsset-fontAssetCreationEditorSettings.html
@@ -236863,6 +236857,12 @@ references:
   commentId: M:UnityEngine.UIElements.VisualElementStyleSheetSet.GetHashCode
   fullName: UnityEngine.UIElements.VisualElementStyleSheetSet.GetHashCode
   nameWithType: VisualElementStyleSheetSet.GetHashCode()
+- uid: UnityEngine.UIElements.VisualElementStyleSheetSet.Insert(System.Int32,UnityEngine.UIElements.StyleSheet)
+  name: Insert
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElementStyleSheetSet.Insert.html
+  commentId: M:UnityEngine.UIElements.VisualElementStyleSheetSet.Insert(System.Int32,UnityEngine.UIElements.StyleSheet)
+  fullName: UnityEngine.UIElements.VisualElementStyleSheetSet.Insert
+  nameWithType: VisualElementStyleSheetSet.Insert(Int32, StyleSheet)
 - uid: UnityEngine.UIElements.VisualElementStyleSheetSet.Item(System.Int32)
   name: Item[Int32]
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.VisualElementStyleSheetSet.Item[Int32].html

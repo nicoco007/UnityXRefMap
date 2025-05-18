@@ -68035,6 +68035,42 @@ references:
   commentId: M:UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu`1.UnityEditor#Rendering#IRenderPipelineGraphicsSettingsContextMenu#PopulateContextMenu(UnityEngine.Rendering.IRenderPipelineGraphicsSettings,UnityEditor.PropertyDrawer,UnityEditor.GenericMenu@)
   fullName: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu
   nameWithType: IRenderPipelineGraphicsSettingsContextMenu<T>.IRenderPipelineGraphicsSettingsContextMenu.PopulateContextMenu(IRenderPipelineGraphicsSettings, PropertyDrawer, ref GenericMenu)
+- uid: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2
+  name: IRenderPipelineGraphicsSettingsContextMenu2
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.IRenderPipelineGraphicsSettingsContextMenu2.html
+  commentId: T:UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2
+  fullName: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2
+  nameWithType: IRenderPipelineGraphicsSettingsContextMenu2
+- uid: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2.PopulateContextMenu(UnityEngine.Rendering.IRenderPipelineGraphicsSettings,UnityEditor.SerializedProperty,UnityEditor.GenericMenu@)
+  name: PopulateContextMenu
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.IRenderPipelineGraphicsSettingsContextMenu2.PopulateContextMenu.html
+  commentId: M:UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2.PopulateContextMenu(UnityEngine.Rendering.IRenderPipelineGraphicsSettings,UnityEditor.SerializedProperty,UnityEditor.GenericMenu@)
+  fullName: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2.PopulateContextMenu
+  nameWithType: IRenderPipelineGraphicsSettingsContextMenu2.PopulateContextMenu(IRenderPipelineGraphicsSettings, SerializedProperty, ref GenericMenu)
+- uid: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2.priority
+  name: priority
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.IRenderPipelineGraphicsSettingsContextMenu2-priority.html
+  commentId: P:UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2.priority
+  fullName: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2.priority
+  nameWithType: IRenderPipelineGraphicsSettingsContextMenu2.priority
+- uid: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2`1
+  name: IRenderPipelineGraphicsSettingsContextMenu2
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.IRenderPipelineGraphicsSettingsContextMenu2.html
+  commentId: T:UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2`1
+  fullName: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2
+  nameWithType: IRenderPipelineGraphicsSettingsContextMenu2<T>
+- uid: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2`1.PopulateContextMenu(`0,UnityEditor.SerializedProperty,UnityEditor.GenericMenu@)
+  name: PopulateContextMenu
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.IRenderPipelineGraphicsSettingsContextMenu2.html
+  commentId: M:UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2`1.PopulateContextMenu(`0,UnityEditor.SerializedProperty,UnityEditor.GenericMenu@)
+  fullName: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2
+  nameWithType: IRenderPipelineGraphicsSettingsContextMenu2<T>.PopulateContextMenu(T, SerializedProperty, ref GenericMenu)
+- uid: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2`1.UnityEditor#Rendering#IRenderPipelineGraphicsSettingsContextMenu2#PopulateContextMenu(UnityEngine.Rendering.IRenderPipelineGraphicsSettings,UnityEditor.SerializedProperty,UnityEditor.GenericMenu@)
+  name: IRenderPipelineGraphicsSettingsContextMenu2.PopulateContextMenu
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.IRenderPipelineGraphicsSettingsContextMenu2.html
+  commentId: M:UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2`1.UnityEditor#Rendering#IRenderPipelineGraphicsSettingsContextMenu2#PopulateContextMenu(UnityEngine.Rendering.IRenderPipelineGraphicsSettings,UnityEditor.SerializedProperty,UnityEditor.GenericMenu@)
+  fullName: UnityEditor.Rendering.IRenderPipelineGraphicsSettingsContextMenu2
+  nameWithType: IRenderPipelineGraphicsSettingsContextMenu2<T>.IRenderPipelineGraphicsSettingsContextMenu2.PopulateContextMenu(IRenderPipelineGraphicsSettings, SerializedProperty, ref GenericMenu)
 - uid: UnityEditor.Rendering.PlatformShaderSettings
   name: PlatformShaderSettings
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.PlatformShaderSettings.html
@@ -108373,6 +108409,12 @@ references:
   commentId: M:UnityEngine.AnimationCurve.GetHashCode
   fullName: UnityEngine.AnimationCurve.GetHashCode
   nameWithType: AnimationCurve.GetHashCode()
+- uid: UnityEngine.AnimationCurve.GetKeys(Unity.Collections.NativeArray{UnityEngine.Keyframe})
+  name: GetKeys
+  href: https://docs.unity3d.com/Documentation/ScriptReference/AnimationCurve.GetKeys.html
+  commentId: M:UnityEngine.AnimationCurve.GetKeys(Unity.Collections.NativeArray{UnityEngine.Keyframe})
+  fullName: UnityEngine.AnimationCurve.GetKeys
+  nameWithType: AnimationCurve.GetKeys(NativeArray<Keyframe>)
 - uid: UnityEngine.AnimationCurve.Item(System.Int32)
   name: Item[Int32]
   href: https://docs.unity3d.com/Documentation/ScriptReference/AnimationCurve.Item[Int32].html
@@ -108421,6 +108463,12 @@ references:
   commentId: M:UnityEngine.AnimationCurve.RemoveKey(System.Int32)
   fullName: UnityEngine.AnimationCurve.RemoveKey
   nameWithType: AnimationCurve.RemoveKey(Int32)
+- uid: UnityEngine.AnimationCurve.SetKeys(Unity.Collections.NativeArray{UnityEngine.Keyframe})
+  name: SetKeys
+  href: https://docs.unity3d.com/Documentation/ScriptReference/AnimationCurve.SetKeys.html
+  commentId: M:UnityEngine.AnimationCurve.SetKeys(Unity.Collections.NativeArray{UnityEngine.Keyframe})
+  fullName: UnityEngine.AnimationCurve.SetKeys
+  nameWithType: AnimationCurve.SetKeys(NativeArray<Keyframe>)
 - uid: UnityEngine.AnimationCurve.SmoothTangents(System.Int32,System.Single)
   name: SmoothTangents
   href: https://docs.unity3d.com/Documentation/ScriptReference/AnimationCurve.SmoothTangents.html
@@ -188881,6 +188929,54 @@ references:
   commentId: F:UnityEngine.Rendering.RTClearFlags.Color
   fullName: UnityEngine.Rendering.RTClearFlags.Color
   nameWithType: RTClearFlags.Color
+- uid: UnityEngine.Rendering.RTClearFlags.Color0
+  name: Color0
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.Color0.html
+  commentId: F:UnityEngine.Rendering.RTClearFlags.Color0
+  fullName: UnityEngine.Rendering.RTClearFlags.Color0
+  nameWithType: RTClearFlags.Color0
+- uid: UnityEngine.Rendering.RTClearFlags.Color1
+  name: Color1
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.Color1.html
+  commentId: F:UnityEngine.Rendering.RTClearFlags.Color1
+  fullName: UnityEngine.Rendering.RTClearFlags.Color1
+  nameWithType: RTClearFlags.Color1
+- uid: UnityEngine.Rendering.RTClearFlags.Color2
+  name: Color2
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.Color2.html
+  commentId: F:UnityEngine.Rendering.RTClearFlags.Color2
+  fullName: UnityEngine.Rendering.RTClearFlags.Color2
+  nameWithType: RTClearFlags.Color2
+- uid: UnityEngine.Rendering.RTClearFlags.Color3
+  name: Color3
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.Color3.html
+  commentId: F:UnityEngine.Rendering.RTClearFlags.Color3
+  fullName: UnityEngine.Rendering.RTClearFlags.Color3
+  nameWithType: RTClearFlags.Color3
+- uid: UnityEngine.Rendering.RTClearFlags.Color4
+  name: Color4
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.Color4.html
+  commentId: F:UnityEngine.Rendering.RTClearFlags.Color4
+  fullName: UnityEngine.Rendering.RTClearFlags.Color4
+  nameWithType: RTClearFlags.Color4
+- uid: UnityEngine.Rendering.RTClearFlags.Color5
+  name: Color5
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.Color5.html
+  commentId: F:UnityEngine.Rendering.RTClearFlags.Color5
+  fullName: UnityEngine.Rendering.RTClearFlags.Color5
+  nameWithType: RTClearFlags.Color5
+- uid: UnityEngine.Rendering.RTClearFlags.Color6
+  name: Color6
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.Color6.html
+  commentId: F:UnityEngine.Rendering.RTClearFlags.Color6
+  fullName: UnityEngine.Rendering.RTClearFlags.Color6
+  nameWithType: RTClearFlags.Color6
+- uid: UnityEngine.Rendering.RTClearFlags.Color7
+  name: Color7
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.Color7.html
+  commentId: F:UnityEngine.Rendering.RTClearFlags.Color7
+  fullName: UnityEngine.Rendering.RTClearFlags.Color7
+  nameWithType: RTClearFlags.Color7
 - uid: UnityEngine.Rendering.RTClearFlags.ColorDepth
   name: ColorDepth
   href: https://docs.unity3d.com/Documentation/ScriptReference/Rendering.RTClearFlags.ColorDepth.html
