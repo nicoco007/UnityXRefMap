@@ -45421,24 +45421,6 @@ references:
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.AddExpandedRows(UnityEditor.IMGUI.Controls.TreeViewItem,IList{UnityEditor.IMGUI.Controls.TreeViewItem})
   fullName: UnityEditor.IMGUI.Controls.TreeView.AddExpandedRows
   nameWithType: TreeView.AddExpandedRows(TreeViewItem, IList<TreeViewItem>)
-- uid: UnityEditor.IMGUI.Controls.TreeView.AfterRowsGUI
-  name: AfterRowsGUI
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.AfterRowsGUI.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.AfterRowsGUI
-  fullName: UnityEditor.IMGUI.Controls.TreeView.AfterRowsGUI
-  nameWithType: TreeView.AfterRowsGUI()
-- uid: UnityEditor.IMGUI.Controls.TreeView.baseIndent
-  name: baseIndent
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-baseIndent.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.baseIndent
-  fullName: UnityEditor.IMGUI.Controls.TreeView.baseIndent
-  nameWithType: TreeView.baseIndent
-- uid: UnityEditor.IMGUI.Controls.TreeView.BeforeRowsGUI
-  name: BeforeRowsGUI
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.BeforeRowsGUI.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.BeforeRowsGUI
-  fullName: UnityEditor.IMGUI.Controls.TreeView.BeforeRowsGUI
-  nameWithType: TreeView.BeforeRowsGUI()
 - uid: UnityEditor.IMGUI.Controls.TreeView.BeginRename(UnityEditor.IMGUI.Controls.TreeViewItem,System.Single)
   name: BeginRename
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.BeginRename.html
@@ -45511,168 +45493,30 @@ references:
   commentId: F:UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs.draggedItemIDs
   fullName: UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs.draggedItemIDs
   nameWithType: TreeView.CanStartDragArgs.draggedItemIDs
-- uid: UnityEditor.IMGUI.Controls.TreeView.cellMargin
-  name: cellMargin
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-cellMargin.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.cellMargin
-  fullName: UnityEditor.IMGUI.Controls.TreeView.cellMargin
-  nameWithType: TreeView.cellMargin
-- uid: UnityEditor.IMGUI.Controls.TreeView.CenterRectUsingSingleLineHeight(UnityEngine.Rect@)
-  name: CenterRectUsingSingleLineHeight
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.CenterRectUsingSingleLineHeight.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.CenterRectUsingSingleLineHeight(UnityEngine.Rect@)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.CenterRectUsingSingleLineHeight
-  nameWithType: TreeView.CenterRectUsingSingleLineHeight(ref Rect)
-- uid: UnityEditor.IMGUI.Controls.TreeView.CollapseAll
-  name: CollapseAll
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.CollapseAll.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.CollapseAll
-  fullName: UnityEditor.IMGUI.Controls.TreeView.CollapseAll
-  nameWithType: TreeView.CollapseAll()
-- uid: UnityEditor.IMGUI.Controls.TreeView.columnIndexForTreeFoldouts
-  name: columnIndexForTreeFoldouts
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-columnIndexForTreeFoldouts.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.columnIndexForTreeFoldouts
-  fullName: UnityEditor.IMGUI.Controls.TreeView.columnIndexForTreeFoldouts
-  nameWithType: TreeView.columnIndexForTreeFoldouts
-- uid: UnityEditor.IMGUI.Controls.TreeView.CommandEventHandling
-  name: CommandEventHandling
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.CommandEventHandling.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.CommandEventHandling
-  fullName: UnityEditor.IMGUI.Controls.TreeView.CommandEventHandling
-  nameWithType: TreeView.CommandEventHandling()
-- uid: UnityEditor.IMGUI.Controls.TreeView.ContextClicked
-  name: ContextClicked
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.ContextClicked.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.ContextClicked
-  fullName: UnityEditor.IMGUI.Controls.TreeView.ContextClicked
-  nameWithType: TreeView.ContextClicked()
-- uid: UnityEditor.IMGUI.Controls.TreeView.ContextClickedItem(System.Int32)
-  name: ContextClickedItem
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.ContextClickedItem.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.ContextClickedItem(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.ContextClickedItem
-  nameWithType: TreeView.ContextClickedItem(Int32)
+- uid: UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs)~UnityEditor.IMGUI.Controls.TreeView{System.Int32}.CanStartDragArgs
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.CanStartDragArgs.Implicit.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs)~UnityEditor.IMGUI.Controls.TreeView{System.Int32}.CanStartDragArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs.Implicit
+  nameWithType: TreeView.CanStartDragArgs.Implicit(TreeView.CanStartDragArgs to TreeView<Int32>.CanStartDragArgs)
+- uid: UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.CanStartDragArgs)~UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.CanStartDragArgs.Implicit.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.CanStartDragArgs)~UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs.Implicit
+  nameWithType: TreeView.CanStartDragArgs.Implicit(TreeView<Int32>.CanStartDragArgs to TreeView.CanStartDragArgs)
 - uid: UnityEditor.IMGUI.Controls.TreeView.CreateChildListForCollapsedParent
   name: CreateChildListForCollapsedParent
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.CreateChildListForCollapsedParent.html
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.CreateChildListForCollapsedParent
   fullName: UnityEditor.IMGUI.Controls.TreeView.CreateChildListForCollapsedParent
   nameWithType: TreeView.CreateChildListForCollapsedParent()
-- uid: UnityEditor.IMGUI.Controls.TreeView.customFoldoutYOffset
-  name: customFoldoutYOffset
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-customFoldoutYOffset.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.customFoldoutYOffset
-  fullName: UnityEditor.IMGUI.Controls.TreeView.customFoldoutYOffset
-  nameWithType: TreeView.customFoldoutYOffset
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI
-  name: TreeView.DefaultGUI
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultGUI.html
-  commentId: T:UnityEditor.IMGUI.Controls.TreeView.DefaultGUI
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI
-  nameWithType: TreeView.DefaultGUI
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.BoldLabel(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  name: BoldLabel
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultGUI.BoldLabel.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.BoldLabel(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.BoldLabel
-  nameWithType: TreeView.DefaultGUI.BoldLabel(Rect, String, Boolean, Boolean)
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.BoldLabelRightAligned(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  name: BoldLabelRightAligned
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultGUI.BoldLabelRightAligned.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.BoldLabelRightAligned(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.BoldLabelRightAligned
-  nameWithType: TreeView.DefaultGUI.BoldLabelRightAligned(Rect, String, Boolean, Boolean)
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.FoldoutLabel(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  name: FoldoutLabel
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultGUI.FoldoutLabel.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.FoldoutLabel(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.FoldoutLabel
-  nameWithType: TreeView.DefaultGUI.FoldoutLabel(Rect, String, Boolean, Boolean)
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.Label(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  name: Label
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultGUI.Label.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.Label(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.Label
-  nameWithType: TreeView.DefaultGUI.Label(Rect, String, Boolean, Boolean)
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.LabelRightAligned(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  name: LabelRightAligned
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultGUI.LabelRightAligned.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.LabelRightAligned(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultGUI.LabelRightAligned
-  nameWithType: TreeView.DefaultGUI.LabelRightAligned(Rect, String, Boolean, Boolean)
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles
-  name: TreeView.DefaultStyles
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultStyles.html
-  commentId: T:UnityEditor.IMGUI.Controls.TreeView.DefaultStyles
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles
-  nameWithType: TreeView.DefaultStyles
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.backgroundEven
-  name: backgroundEven
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultStyles-backgroundEven.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.backgroundEven
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.backgroundEven
-  nameWithType: TreeView.DefaultStyles.backgroundEven
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.backgroundOdd
-  name: backgroundOdd
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultStyles-backgroundOdd.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.backgroundOdd
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.backgroundOdd
-  nameWithType: TreeView.DefaultStyles.backgroundOdd
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.boldLabel
-  name: boldLabel
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultStyles-boldLabel.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.boldLabel
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.boldLabel
-  nameWithType: TreeView.DefaultStyles.boldLabel
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.boldLabelRightAligned
-  name: boldLabelRightAligned
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultStyles-boldLabelRightAligned.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.boldLabelRightAligned
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.boldLabelRightAligned
-  nameWithType: TreeView.DefaultStyles.boldLabelRightAligned
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.foldoutLabel
-  name: foldoutLabel
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultStyles-foldoutLabel.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.foldoutLabel
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.foldoutLabel
-  nameWithType: TreeView.DefaultStyles.foldoutLabel
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.label
-  name: label
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultStyles-label.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.label
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.label
-  nameWithType: TreeView.DefaultStyles.label
-- uid: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.labelRightAligned
-  name: labelRightAligned
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DefaultStyles-labelRightAligned.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.labelRightAligned
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DefaultStyles.labelRightAligned
-  nameWithType: TreeView.DefaultStyles.labelRightAligned
-- uid: UnityEditor.IMGUI.Controls.TreeView.depthIndentWidth
-  name: depthIndentWidth
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-depthIndentWidth.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.depthIndentWidth
-  fullName: UnityEditor.IMGUI.Controls.TreeView.depthIndentWidth
-  nameWithType: TreeView.depthIndentWidth
 - uid: UnityEditor.IMGUI.Controls.TreeView.DoesItemMatchSearch(UnityEditor.IMGUI.Controls.TreeViewItem,System.String)
   name: DoesItemMatchSearch
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DoesItemMatchSearch.html
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.DoesItemMatchSearch(UnityEditor.IMGUI.Controls.TreeViewItem,System.String)
   fullName: UnityEditor.IMGUI.Controls.TreeView.DoesItemMatchSearch
   nameWithType: TreeView.DoesItemMatchSearch(TreeViewItem, String)
-- uid: UnityEditor.IMGUI.Controls.TreeView.DoFoldoutCallback
-  name: TreeView.DoFoldoutCallback
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DoFoldoutCallback.html
-  commentId: T:UnityEditor.IMGUI.Controls.TreeView.DoFoldoutCallback
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DoFoldoutCallback
-  nameWithType: TreeView.DoFoldoutCallback
-- uid: UnityEditor.IMGUI.Controls.TreeView.DoubleClickedItem(System.Int32)
-  name: DoubleClickedItem
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DoubleClickedItem.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.DoubleClickedItem(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DoubleClickedItem
-  nameWithType: TreeView.DoubleClickedItem(Int32)
 - uid: UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs
   name: TreeView.DragAndDropArgs
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DragAndDropArgs.html
@@ -45691,6 +45535,18 @@ references:
   commentId: F:UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.insertAtIndex
   fullName: UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.insertAtIndex
   nameWithType: TreeView.DragAndDropArgs.insertAtIndex
+- uid: UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs)~UnityEditor.IMGUI.Controls.TreeView{System.Int32}.DragAndDropArgs
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DragAndDropArgs.Implicit.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs)~UnityEditor.IMGUI.Controls.TreeView{System.Int32}.DragAndDropArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.Implicit
+  nameWithType: TreeView.DragAndDropArgs.Implicit(TreeView.DragAndDropArgs to TreeView<Int32>.DragAndDropArgs)
+- uid: UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.DragAndDropArgs)~UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DragAndDropArgs.Implicit.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.DragAndDropArgs)~UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.Implicit
+  nameWithType: TreeView.DragAndDropArgs.Implicit(TreeView<Int32>.DragAndDropArgs to TreeView.DragAndDropArgs)
 - uid: UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.parentItem
   name: parentItem
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DragAndDropArgs-parentItem.html
@@ -45703,60 +45559,6 @@ references:
   commentId: F:UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.performDrop
   fullName: UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs.performDrop
   nameWithType: TreeView.DragAndDropArgs.performDrop
-- uid: UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition
-  name: TreeView.DragAndDropPosition
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DragAndDropPosition.html
-  commentId: T:UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition
-  nameWithType: TreeView.DragAndDropPosition
-- uid: UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.BetweenItems
-  name: BetweenItems
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DragAndDropPosition.BetweenItems.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.BetweenItems
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.BetweenItems
-  nameWithType: TreeView.DragAndDropPosition.BetweenItems
-- uid: UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.OutsideItems
-  name: OutsideItems
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DragAndDropPosition.OutsideItems.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.OutsideItems
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.OutsideItems
-  nameWithType: TreeView.DragAndDropPosition.OutsideItems
-- uid: UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.UponItem
-  name: UponItem
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.DragAndDropPosition.UponItem.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.UponItem
-  fullName: UnityEditor.IMGUI.Controls.TreeView.DragAndDropPosition.UponItem
-  nameWithType: TreeView.DragAndDropPosition.UponItem
-- uid: UnityEditor.IMGUI.Controls.TreeView.enableItemHovering
-  name: enableItemHovering
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-enableItemHovering.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.enableItemHovering
-  fullName: UnityEditor.IMGUI.Controls.TreeView.enableItemHovering
-  nameWithType: TreeView.enableItemHovering
-- uid: UnityEditor.IMGUI.Controls.TreeView.EndRename
-  name: EndRename
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.EndRename.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.EndRename
-  fullName: UnityEditor.IMGUI.Controls.TreeView.EndRename
-  nameWithType: TreeView.EndRename()
-- uid: UnityEditor.IMGUI.Controls.TreeView.ExpandAll
-  name: ExpandAll
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.ExpandAll.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.ExpandAll
-  fullName: UnityEditor.IMGUI.Controls.TreeView.ExpandAll
-  nameWithType: TreeView.ExpandAll()
-- uid: UnityEditor.IMGUI.Controls.TreeView.ExpandedStateChanged
-  name: ExpandedStateChanged
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.ExpandedStateChanged.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.ExpandedStateChanged
-  fullName: UnityEditor.IMGUI.Controls.TreeView.ExpandedStateChanged
-  nameWithType: TreeView.ExpandedStateChanged()
-- uid: UnityEditor.IMGUI.Controls.TreeView.extraSpaceBeforeIconAndLabel
-  name: extraSpaceBeforeIconAndLabel
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-extraSpaceBeforeIconAndLabel.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.extraSpaceBeforeIconAndLabel
-  fullName: UnityEditor.IMGUI.Controls.TreeView.extraSpaceBeforeIconAndLabel
-  nameWithType: TreeView.extraSpaceBeforeIconAndLabel
 - uid: UnityEditor.IMGUI.Controls.TreeView.FindItem(System.Int32,UnityEditor.IMGUI.Controls.TreeViewItem)
   name: FindItem
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.FindItem.html
@@ -45775,36 +45577,6 @@ references:
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.FindRows(IList{System.Int32})
   fullName: UnityEditor.IMGUI.Controls.TreeView.FindRows
   nameWithType: TreeView.FindRows(IList<Int32>)
-- uid: UnityEditor.IMGUI.Controls.TreeView.foldoutOverride
-  name: foldoutOverride
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-foldoutOverride.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.foldoutOverride
-  fullName: UnityEditor.IMGUI.Controls.TreeView.foldoutOverride
-  nameWithType: TreeView.foldoutOverride
-- uid: UnityEditor.IMGUI.Controls.TreeView.foldoutWidth
-  name: foldoutWidth
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-foldoutWidth.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.foldoutWidth
-  fullName: UnityEditor.IMGUI.Controls.TreeView.foldoutWidth
-  nameWithType: TreeView.foldoutWidth
-- uid: UnityEditor.IMGUI.Controls.TreeView.FrameItem(System.Int32)
-  name: FrameItem
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.FrameItem.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.FrameItem(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.FrameItem
-  nameWithType: TreeView.FrameItem(Int32)
-- uid: UnityEditor.IMGUI.Controls.TreeView.GetAncestors(System.Int32)
-  name: GetAncestors
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetAncestors.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetAncestors(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.GetAncestors
-  nameWithType: TreeView.GetAncestors(Int32)
-- uid: UnityEditor.IMGUI.Controls.TreeView.GetCellRectForTreeFoldouts(UnityEngine.Rect)
-  name: GetCellRectForTreeFoldouts
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetCellRectForTreeFoldouts.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetCellRectForTreeFoldouts(UnityEngine.Rect)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.GetCellRectForTreeFoldouts
-  nameWithType: TreeView.GetCellRectForTreeFoldouts(Rect)
 - uid: UnityEditor.IMGUI.Controls.TreeView.GetContentIndent(UnityEditor.IMGUI.Controls.TreeViewItem)
   name: GetContentIndent
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetContentIndent.html
@@ -45817,24 +45589,6 @@ references:
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetCustomRowHeight(System.Int32,UnityEditor.IMGUI.Controls.TreeViewItem)
   fullName: UnityEditor.IMGUI.Controls.TreeView.GetCustomRowHeight
   nameWithType: TreeView.GetCustomRowHeight(Int32, TreeViewItem)
-- uid: UnityEditor.IMGUI.Controls.TreeView.GetDescendantsThatHaveChildren(System.Int32)
-  name: GetDescendantsThatHaveChildren
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetDescendantsThatHaveChildren.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetDescendantsThatHaveChildren(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.GetDescendantsThatHaveChildren
-  nameWithType: TreeView.GetDescendantsThatHaveChildren(Int32)
-- uid: UnityEditor.IMGUI.Controls.TreeView.GetExpanded
-  name: GetExpanded
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetExpanded.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetExpanded
-  fullName: UnityEditor.IMGUI.Controls.TreeView.GetExpanded
-  nameWithType: TreeView.GetExpanded()
-- uid: UnityEditor.IMGUI.Controls.TreeView.GetFirstAndLastVisibleRows(System.Int32@,System.Int32@)
-  name: GetFirstAndLastVisibleRows
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetFirstAndLastVisibleRows.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetFirstAndLastVisibleRows(System.Int32@,System.Int32@)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.GetFirstAndLastVisibleRows
-  nameWithType: TreeView.GetFirstAndLastVisibleRows(out Int32, out Int32)
 - uid: UnityEditor.IMGUI.Controls.TreeView.GetFoldoutIndent(UnityEditor.IMGUI.Controls.TreeViewItem)
   name: GetFoldoutIndent
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetFoldoutIndent.html
@@ -45859,48 +45613,18 @@ references:
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetRenameRect(UnityEngine.Rect,System.Int32,UnityEditor.IMGUI.Controls.TreeViewItem)
   fullName: UnityEditor.IMGUI.Controls.TreeView.GetRenameRect
   nameWithType: TreeView.GetRenameRect(Rect, Int32, TreeViewItem)
-- uid: UnityEditor.IMGUI.Controls.TreeView.GetRowRect(System.Int32)
-  name: GetRowRect
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetRowRect.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetRowRect(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.GetRowRect
-  nameWithType: TreeView.GetRowRect(Int32)
 - uid: UnityEditor.IMGUI.Controls.TreeView.GetRows
   name: GetRows
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetRows.html
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetRows
   fullName: UnityEditor.IMGUI.Controls.TreeView.GetRows
   nameWithType: TreeView.GetRows()
-- uid: UnityEditor.IMGUI.Controls.TreeView.GetSelection
-  name: GetSelection
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.GetSelection.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.GetSelection
-  fullName: UnityEditor.IMGUI.Controls.TreeView.GetSelection
-  nameWithType: TreeView.GetSelection()
 - uid: UnityEditor.IMGUI.Controls.TreeView.HandleDragAndDrop(UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs)
   name: HandleDragAndDrop
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.HandleDragAndDrop.html
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.HandleDragAndDrop(UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs)
   fullName: UnityEditor.IMGUI.Controls.TreeView.HandleDragAndDrop
   nameWithType: TreeView.HandleDragAndDrop(TreeView.DragAndDropArgs)
-- uid: UnityEditor.IMGUI.Controls.TreeView.HasFocus
-  name: HasFocus
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.HasFocus.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.HasFocus
-  fullName: UnityEditor.IMGUI.Controls.TreeView.HasFocus
-  nameWithType: TreeView.HasFocus()
-- uid: UnityEditor.IMGUI.Controls.TreeView.hasSearch
-  name: hasSearch
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-hasSearch.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.hasSearch
-  fullName: UnityEditor.IMGUI.Controls.TreeView.hasSearch
-  nameWithType: TreeView.hasSearch
-- uid: UnityEditor.IMGUI.Controls.TreeView.HasSelection
-  name: HasSelection
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.HasSelection.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.HasSelection
-  fullName: UnityEditor.IMGUI.Controls.TreeView.HasSelection
-  nameWithType: TreeView.HasSelection()
 - uid: UnityEditor.IMGUI.Controls.TreeView.hoveredItem
   name: hoveredItem
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-hoveredItem.html
@@ -45913,102 +45637,6 @@ references:
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.IsChildListForACollapsedParent(IList{UnityEditor.IMGUI.Controls.TreeViewItem})
   fullName: UnityEditor.IMGUI.Controls.TreeView.IsChildListForACollapsedParent
   nameWithType: TreeView.IsChildListForACollapsedParent(IList<TreeViewItem>)
-- uid: UnityEditor.IMGUI.Controls.TreeView.isDragging
-  name: isDragging
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-isDragging.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.isDragging
-  fullName: UnityEditor.IMGUI.Controls.TreeView.isDragging
-  nameWithType: TreeView.isDragging
-- uid: UnityEditor.IMGUI.Controls.TreeView.IsExpanded(System.Int32)
-  name: IsExpanded
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.IsExpanded.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.IsExpanded(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.IsExpanded
-  nameWithType: TreeView.IsExpanded(Int32)
-- uid: UnityEditor.IMGUI.Controls.TreeView.isInitialized
-  name: isInitialized
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-isInitialized.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.isInitialized
-  fullName: UnityEditor.IMGUI.Controls.TreeView.isInitialized
-  nameWithType: TreeView.isInitialized
-- uid: UnityEditor.IMGUI.Controls.TreeView.IsSelected(System.Int32)
-  name: IsSelected
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.IsSelected.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.IsSelected(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.IsSelected
-  nameWithType: TreeView.IsSelected(Int32)
-- uid: UnityEditor.IMGUI.Controls.TreeView.KeyEvent
-  name: KeyEvent
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.KeyEvent.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.KeyEvent
-  fullName: UnityEditor.IMGUI.Controls.TreeView.KeyEvent
-  nameWithType: TreeView.KeyEvent()
-- uid: UnityEditor.IMGUI.Controls.TreeView.multiColumnHeader
-  name: multiColumnHeader
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-multiColumnHeader.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.multiColumnHeader
-  fullName: UnityEditor.IMGUI.Controls.TreeView.multiColumnHeader
-  nameWithType: TreeView.multiColumnHeader
-- uid: UnityEditor.IMGUI.Controls.TreeView.OnGUI(UnityEngine.Rect)
-  name: OnGUI
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.OnGUI.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.OnGUI(UnityEngine.Rect)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.OnGUI
-  nameWithType: TreeView.OnGUI(Rect)
-- uid: UnityEditor.IMGUI.Controls.TreeView.RefreshCustomRowHeights
-  name: RefreshCustomRowHeights
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RefreshCustomRowHeights.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.RefreshCustomRowHeights
-  fullName: UnityEditor.IMGUI.Controls.TreeView.RefreshCustomRowHeights
-  nameWithType: TreeView.RefreshCustomRowHeights()
-- uid: UnityEditor.IMGUI.Controls.TreeView.Reload
-  name: Reload
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.Reload.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.Reload
-  fullName: UnityEditor.IMGUI.Controls.TreeView.Reload
-  nameWithType: TreeView.Reload()
-- uid: UnityEditor.IMGUI.Controls.TreeView.RenameEnded(UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs)
-  name: RenameEnded
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RenameEnded.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.RenameEnded(UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.RenameEnded
-  nameWithType: TreeView.RenameEnded(TreeView.RenameEndedArgs)
-- uid: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs
-  name: TreeView.RenameEndedArgs
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RenameEndedArgs.html
-  commentId: T:UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs
-  fullName: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs
-  nameWithType: TreeView.RenameEndedArgs
-- uid: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.acceptedRename
-  name: acceptedRename
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RenameEndedArgs-acceptedRename.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.acceptedRename
-  fullName: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.acceptedRename
-  nameWithType: TreeView.RenameEndedArgs.acceptedRename
-- uid: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.itemID
-  name: itemID
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RenameEndedArgs-itemID.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.itemID
-  fullName: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.itemID
-  nameWithType: TreeView.RenameEndedArgs.itemID
-- uid: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.newName
-  name: newName
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RenameEndedArgs-newName.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.newName
-  fullName: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.newName
-  nameWithType: TreeView.RenameEndedArgs.newName
-- uid: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.originalName
-  name: originalName
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RenameEndedArgs-originalName.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.originalName
-  fullName: UnityEditor.IMGUI.Controls.TreeView.RenameEndedArgs.originalName
-  nameWithType: TreeView.RenameEndedArgs.originalName
-- uid: UnityEditor.IMGUI.Controls.TreeView.Repaint
-  name: Repaint
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.Repaint.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.Repaint
-  fullName: UnityEditor.IMGUI.Controls.TreeView.Repaint
-  nameWithType: TreeView.Repaint()
 - uid: UnityEditor.IMGUI.Controls.TreeView.rootItem
   name: rootItem
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-rootItem.html
@@ -46069,6 +45697,18 @@ references:
   commentId: F:UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.label
   fullName: UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.label
   nameWithType: TreeView.RowGUIArgs.label
+- uid: UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs)~UnityEditor.IMGUI.Controls.TreeView{System.Int32}.RowGUIArgs
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RowGUIArgs.Implicit.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs)~UnityEditor.IMGUI.Controls.TreeView{System.Int32}.RowGUIArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.Implicit
+  nameWithType: TreeView.RowGUIArgs.Implicit(TreeView.RowGUIArgs to TreeView<Int32>.RowGUIArgs)
+- uid: UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.RowGUIArgs)~UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RowGUIArgs.Implicit.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.op_Implicit(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.RowGUIArgs)~UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.Implicit
+  nameWithType: TreeView.RowGUIArgs.Implicit(TreeView<Int32>.RowGUIArgs to TreeView.RowGUIArgs)
 - uid: UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.row
   name: row
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.RowGUIArgs-row.html
@@ -46087,180 +45727,918 @@ references:
   commentId: F:UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.selected
   fullName: UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs.selected
   nameWithType: TreeView.RowGUIArgs.selected
-- uid: UnityEditor.IMGUI.Controls.TreeView.rowHeight
-  name: rowHeight
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-rowHeight.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.rowHeight
-  fullName: UnityEditor.IMGUI.Controls.TreeView.rowHeight
-  nameWithType: TreeView.rowHeight
-- uid: UnityEditor.IMGUI.Controls.TreeView.SearchChanged(System.String)
-  name: SearchChanged
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SearchChanged.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SearchChanged(System.String)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SearchChanged
-  nameWithType: TreeView.SearchChanged(String)
-- uid: UnityEditor.IMGUI.Controls.TreeView.searchString
-  name: searchString
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-searchString.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.searchString
-  fullName: UnityEditor.IMGUI.Controls.TreeView.searchString
-  nameWithType: TreeView.searchString
-- uid: UnityEditor.IMGUI.Controls.TreeView.SelectAllRows
-  name: SelectAllRows
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SelectAllRows.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SelectAllRows
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SelectAllRows
-  nameWithType: TreeView.SelectAllRows()
-- uid: UnityEditor.IMGUI.Controls.TreeView.SelectionChanged(IList{System.Int32})
-  name: SelectionChanged
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SelectionChanged.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SelectionChanged(IList{System.Int32})
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SelectionChanged
-  nameWithType: TreeView.SelectionChanged(IList<Int32>)
 - uid: UnityEditor.IMGUI.Controls.TreeView.SelectionClick(UnityEditor.IMGUI.Controls.TreeViewItem,System.Boolean)
   name: SelectionClick
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SelectionClick.html
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.SelectionClick(UnityEditor.IMGUI.Controls.TreeViewItem,System.Boolean)
   fullName: UnityEditor.IMGUI.Controls.TreeView.SelectionClick
   nameWithType: TreeView.SelectionClick(TreeViewItem, Boolean)
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetExpanded(IList{System.Int32})
-  name: SetExpanded
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetExpanded.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetExpanded(IList{System.Int32})
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetExpanded
-  nameWithType: TreeView.SetExpanded(IList<Int32>)
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetExpanded(System.Int32,System.Boolean)
-  name: SetExpanded
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetExpanded.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetExpanded(System.Int32,System.Boolean)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetExpanded
-  nameWithType: TreeView.SetExpanded(Int32, Boolean)
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetExpandedRecursive(System.Int32,System.Boolean)
-  name: SetExpandedRecursive
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetExpandedRecursive.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetExpandedRecursive(System.Int32,System.Boolean)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetExpandedRecursive
-  nameWithType: TreeView.SetExpandedRecursive(Int32, Boolean)
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetFocus
-  name: SetFocus
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetFocus.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetFocus
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetFocus
-  nameWithType: TreeView.SetFocus()
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetFocusAndEnsureSelectedItem
-  name: SetFocusAndEnsureSelectedItem
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetFocusAndEnsureSelectedItem.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetFocusAndEnsureSelectedItem
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetFocusAndEnsureSelectedItem
-  nameWithType: TreeView.SetFocusAndEnsureSelectedItem()
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetSelection(IList{System.Int32},UnityEditor.IMGUI.Controls.TreeViewSelectionOptions)
-  name: SetSelection
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetSelection.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetSelection(IList{System.Int32},UnityEditor.IMGUI.Controls.TreeViewSelectionOptions)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetSelection
-  nameWithType: TreeView.SetSelection(IList<Int32>, TreeViewSelectionOptions)
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetSelection(IList{System.Int32})
-  name: SetSelection
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetSelection.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetSelection(IList{System.Int32})
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetSelection
-  nameWithType: TreeView.SetSelection(IList<Int32>)
 - uid: UnityEditor.IMGUI.Controls.TreeView.SetupDepthsFromParentsAndChildren(UnityEditor.IMGUI.Controls.TreeViewItem)
   name: SetupDepthsFromParentsAndChildren
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetupDepthsFromParentsAndChildren.html
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetupDepthsFromParentsAndChildren(UnityEditor.IMGUI.Controls.TreeViewItem)
   fullName: UnityEditor.IMGUI.Controls.TreeView.SetupDepthsFromParentsAndChildren
   nameWithType: TreeView.SetupDepthsFromParentsAndChildren(TreeViewItem)
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDrop(UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs)
-  name: SetupDragAndDrop
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetupDragAndDrop.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDrop(UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDrop
-  nameWithType: TreeView.SetupDragAndDrop(TreeView.SetupDragAndDropArgs)
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs
-  name: TreeView.SetupDragAndDropArgs
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetupDragAndDropArgs.html
-  commentId: T:UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs
-  nameWithType: TreeView.SetupDragAndDropArgs
-- uid: UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs.draggedItemIDs
-  name: draggedItemIDs
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetupDragAndDropArgs-draggedItemIDs.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs.draggedItemIDs
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs.draggedItemIDs
-  nameWithType: TreeView.SetupDragAndDropArgs.draggedItemIDs
 - uid: UnityEditor.IMGUI.Controls.TreeView.SetupParentsAndChildrenFromDepths(UnityEditor.IMGUI.Controls.TreeViewItem,IList{UnityEditor.IMGUI.Controls.TreeViewItem})
   name: SetupParentsAndChildrenFromDepths
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SetupParentsAndChildrenFromDepths.html
   commentId: M:UnityEditor.IMGUI.Controls.TreeView.SetupParentsAndChildrenFromDepths(UnityEditor.IMGUI.Controls.TreeViewItem,IList{UnityEditor.IMGUI.Controls.TreeViewItem})
   fullName: UnityEditor.IMGUI.Controls.TreeView.SetupParentsAndChildrenFromDepths
   nameWithType: TreeView.SetupParentsAndChildrenFromDepths(TreeViewItem, IList<TreeViewItem>)
-- uid: UnityEditor.IMGUI.Controls.TreeView.showAlternatingRowBackgrounds
-  name: showAlternatingRowBackgrounds
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-showAlternatingRowBackgrounds.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.showAlternatingRowBackgrounds
-  fullName: UnityEditor.IMGUI.Controls.TreeView.showAlternatingRowBackgrounds
-  nameWithType: TreeView.showAlternatingRowBackgrounds
-- uid: UnityEditor.IMGUI.Controls.TreeView.showBorder
-  name: showBorder
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-showBorder.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.showBorder
-  fullName: UnityEditor.IMGUI.Controls.TreeView.showBorder
-  nameWithType: TreeView.showBorder
-- uid: UnityEditor.IMGUI.Controls.TreeView.showingHorizontalScrollBar
-  name: showingHorizontalScrollBar
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-showingHorizontalScrollBar.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.showingHorizontalScrollBar
-  fullName: UnityEditor.IMGUI.Controls.TreeView.showingHorizontalScrollBar
-  nameWithType: TreeView.showingHorizontalScrollBar
-- uid: UnityEditor.IMGUI.Controls.TreeView.showingVerticalScrollBar
-  name: showingVerticalScrollBar
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-showingVerticalScrollBar.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.showingVerticalScrollBar
-  fullName: UnityEditor.IMGUI.Controls.TreeView.showingVerticalScrollBar
-  nameWithType: TreeView.showingVerticalScrollBar
-- uid: UnityEditor.IMGUI.Controls.TreeView.SingleClickedItem(System.Int32)
-  name: SingleClickedItem
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SingleClickedItem.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SingleClickedItem(System.Int32)
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SingleClickedItem
-  nameWithType: TreeView.SingleClickedItem(Int32)
-- uid: UnityEditor.IMGUI.Controls.TreeView.SortItemIDsInRowOrder(IList{System.Int32})
-  name: SortItemIDsInRowOrder
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.SortItemIDsInRowOrder.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeView.SortItemIDsInRowOrder(IList{System.Int32})
-  fullName: UnityEditor.IMGUI.Controls.TreeView.SortItemIDsInRowOrder
-  nameWithType: TreeView.SortItemIDsInRowOrder(IList<Int32>)
 - uid: UnityEditor.IMGUI.Controls.TreeView.state
   name: state
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-state.html
   commentId: P:UnityEditor.IMGUI.Controls.TreeView.state
   fullName: UnityEditor.IMGUI.Controls.TreeView.state
   nameWithType: TreeView.state
-- uid: UnityEditor.IMGUI.Controls.TreeView.totalHeight
+- uid: UnityEditor.IMGUI.Controls.TreeView`1
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.#ctor(UnityEditor.IMGUI.Controls.TreeViewState{`0},UnityEditor.IMGUI.Controls.MultiColumnHeader)
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.#ctor(UnityEditor.IMGUI.Controls.TreeViewState{`0},UnityEditor.IMGUI.Controls.MultiColumnHeader)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.TreeView(TreeViewState<TIdentifier>, MultiColumnHeader)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.#ctor(UnityEditor.IMGUI.Controls.TreeViewState{`0})
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.#ctor(UnityEditor.IMGUI.Controls.TreeViewState{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.TreeView(TreeViewState<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.AddExpandedRows(UnityEditor.IMGUI.Controls.TreeViewItem{`0},IList{UnityEditor.IMGUI.Controls.TreeViewItem{`0}})
+  name: AddExpandedRows
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.AddExpandedRows(UnityEditor.IMGUI.Controls.TreeViewItem{`0},IList{UnityEditor.IMGUI.Controls.TreeViewItem{`0}})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.AddExpandedRows(TreeViewItem<TIdentifier>, IList<TreeViewItem<TIdentifier>>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.AfterRowsGUI
+  name: AfterRowsGUI
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.AfterRowsGUI
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.AfterRowsGUI()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.baseIndent
+  name: baseIndent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-baseIndent.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.baseIndent
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.baseIndent
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.BeforeRowsGUI
+  name: BeforeRowsGUI
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.BeforeRowsGUI
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.BeforeRowsGUI()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.BeginRename(UnityEditor.IMGUI.Controls.TreeViewItem{`0},System.Single)
+  name: BeginRename
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.BeginRename(UnityEditor.IMGUI.Controls.TreeViewItem{`0},System.Single)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.BeginRename(TreeViewItem<TIdentifier>, Single)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.BeginRename(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: BeginRename
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.BeginRename(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.BeginRename(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.BuildRoot
+  name: BuildRoot
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.BuildRoot
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.BuildRoot()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.BuildRows(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: BuildRows
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.BuildRows(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.BuildRows(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CanBeParent(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: CanBeParent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CanBeParent(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CanBeParent(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CanChangeExpandedState(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: CanChangeExpandedState
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CanChangeExpandedState(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CanChangeExpandedState(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CanMultiSelect(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: CanMultiSelect
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CanMultiSelect(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CanMultiSelect(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CanRename(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: CanRename
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CanRename(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CanRename(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CanStartDrag(UnityEditor.IMGUI.Controls.TreeView{`0}.CanStartDragArgs)
+  name: CanStartDrag
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CanStartDrag(UnityEditor.IMGUI.Controls.TreeView{`0}.CanStartDragArgs)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CanStartDrag(TreeView<TIdentifier>.CanStartDragArgs)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CanStartDragArgs
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.CanStartDragArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CanStartDragArgs
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CanStartDragArgs.draggedItem
+  name: draggedItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.CanStartDragArgs-draggedItem.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.CanStartDragArgs.draggedItem
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CanStartDragArgs.draggedItem
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CanStartDragArgs.draggedItemIDs
+  name: draggedItemIDs
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.CanStartDragArgs-draggedItemIDs.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.CanStartDragArgs.draggedItemIDs
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CanStartDragArgs.draggedItemIDs
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.cellMargin
+  name: cellMargin
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-cellMargin.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.cellMargin
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.cellMargin
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CenterRectUsingSingleLineHeight(UnityEngine.Rect@)
+  name: CenterRectUsingSingleLineHeight
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CenterRectUsingSingleLineHeight(UnityEngine.Rect@)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CenterRectUsingSingleLineHeight(ref Rect)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CollapseAll
+  name: CollapseAll
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CollapseAll
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CollapseAll()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.columnIndexForTreeFoldouts
+  name: columnIndexForTreeFoldouts
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-columnIndexForTreeFoldouts.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.columnIndexForTreeFoldouts
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.columnIndexForTreeFoldouts
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CommandEventHandling
+  name: CommandEventHandling
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CommandEventHandling
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CommandEventHandling()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.ContextClicked
+  name: ContextClicked
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.ContextClicked
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.ContextClicked()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.ContextClickedItem(`0)
+  name: ContextClickedItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.ContextClickedItem(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.ContextClickedItem(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.CreateChildListForCollapsedParent
+  name: CreateChildListForCollapsedParent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.CreateChildListForCollapsedParent
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.CreateChildListForCollapsedParent()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.customFoldoutYOffset
+  name: customFoldoutYOffset
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-customFoldoutYOffset.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.customFoldoutYOffset
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.customFoldoutYOffset
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultGUI
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.BoldLabel(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  name: BoldLabel
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.BoldLabel(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultGUI.BoldLabel(Rect, String, Boolean, Boolean)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.BoldLabelRightAligned(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  name: BoldLabelRightAligned
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.BoldLabelRightAligned(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultGUI.BoldLabelRightAligned(Rect, String, Boolean, Boolean)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.FoldoutLabel(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  name: FoldoutLabel
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.FoldoutLabel(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultGUI.FoldoutLabel(Rect, String, Boolean, Boolean)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.Label(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  name: Label
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.Label(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultGUI.Label(Rect, String, Boolean, Boolean)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.LabelRightAligned(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  name: LabelRightAligned
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.DefaultGUI.LabelRightAligned(UnityEngine.Rect,System.String,System.Boolean,System.Boolean)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultGUI.LabelRightAligned(Rect, String, Boolean, Boolean)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultStyles
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.backgroundEven
+  name: backgroundEven
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DefaultStyles-backgroundEven.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.backgroundEven
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultStyles.backgroundEven
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.backgroundOdd
+  name: backgroundOdd
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DefaultStyles-backgroundOdd.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.backgroundOdd
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultStyles.backgroundOdd
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.boldLabel
+  name: boldLabel
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DefaultStyles-boldLabel.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.boldLabel
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultStyles.boldLabel
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.boldLabelRightAligned
+  name: boldLabelRightAligned
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DefaultStyles-boldLabelRightAligned.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.boldLabelRightAligned
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultStyles.boldLabelRightAligned
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.foldoutLabel
+  name: foldoutLabel
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DefaultStyles-foldoutLabel.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.foldoutLabel
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultStyles.foldoutLabel
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.label
+  name: label
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DefaultStyles-label.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.label
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultStyles.label
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.labelRightAligned
+  name: labelRightAligned
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DefaultStyles-labelRightAligned.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DefaultStyles.labelRightAligned
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DefaultStyles.labelRightAligned
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.depthIndentWidth
+  name: depthIndentWidth
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-depthIndentWidth.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.depthIndentWidth
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.depthIndentWidth
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DoesItemMatchSearch(UnityEditor.IMGUI.Controls.TreeViewItem{`0},System.String)
+  name: DoesItemMatchSearch
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.DoesItemMatchSearch(UnityEditor.IMGUI.Controls.TreeViewItem{`0},System.String)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DoesItemMatchSearch(TreeViewItem<TIdentifier>, String)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DoFoldoutCallback
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.DoFoldoutCallback
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DoFoldoutCallback
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DoubleClickedItem(`0)
+  name: DoubleClickedItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.DoubleClickedItem(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DoubleClickedItem(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropArgs
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs.dragAndDropPosition
+  name: dragAndDropPosition
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DragAndDropArgs-dragAndDropPosition.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs.dragAndDropPosition
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropArgs.dragAndDropPosition
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs.insertAtIndex
+  name: insertAtIndex
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DragAndDropArgs-insertAtIndex.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs.insertAtIndex
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropArgs.insertAtIndex
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs.parentItem
+  name: parentItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DragAndDropArgs-parentItem.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs.parentItem
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropArgs.parentItem
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs.performDrop
+  name: performDrop
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DragAndDropArgs-performDrop.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropArgs.performDrop
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropArgs.performDrop
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropPosition
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropPosition
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropPosition
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropPosition.BetweenItems
+  name: BetweenItems
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DragAndDropPosition.BetweenItems.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropPosition.BetweenItems
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropPosition.BetweenItems
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropPosition.OutsideItems
+  name: OutsideItems
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DragAndDropPosition.OutsideItems.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropPosition.OutsideItems
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropPosition.OutsideItems
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropPosition.UponItem
+  name: UponItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.DragAndDropPosition.UponItem.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.DragAndDropPosition.UponItem
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.DragAndDropPosition.UponItem
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.enableItemHovering
+  name: enableItemHovering
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-enableItemHovering.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.enableItemHovering
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.enableItemHovering
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.EndRename
+  name: EndRename
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.EndRename
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.EndRename()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.ExpandAll
+  name: ExpandAll
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.ExpandAll
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.ExpandAll()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.ExpandedStateChanged
+  name: ExpandedStateChanged
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.ExpandedStateChanged
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.ExpandedStateChanged()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.extraSpaceBeforeIconAndLabel
+  name: extraSpaceBeforeIconAndLabel
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-extraSpaceBeforeIconAndLabel.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.extraSpaceBeforeIconAndLabel
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.extraSpaceBeforeIconAndLabel
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.FindItem(`0,UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: FindItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.FindItem(`0,UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.FindItem(TIdentifier, TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.FindRowOfItem(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: FindRowOfItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.FindRowOfItem(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.FindRowOfItem(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.FindRows(IList{`0})
+  name: FindRows
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.FindRows(IList{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.FindRows(IList<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.foldoutOverride
+  name: foldoutOverride
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-foldoutOverride.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.foldoutOverride
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.foldoutOverride
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.foldoutWidth
+  name: foldoutWidth
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-foldoutWidth.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.foldoutWidth
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.foldoutWidth
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.FrameItem(`0)
+  name: FrameItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.FrameItem(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.FrameItem(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetAncestors(`0)
+  name: GetAncestors
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetAncestors(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetAncestors(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetCellRectForTreeFoldouts(UnityEngine.Rect)
+  name: GetCellRectForTreeFoldouts
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetCellRectForTreeFoldouts(UnityEngine.Rect)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetCellRectForTreeFoldouts(Rect)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetContentIndent(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: GetContentIndent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetContentIndent(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetContentIndent(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetCustomRowHeight(System.Int32,UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: GetCustomRowHeight
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetCustomRowHeight(System.Int32,UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetCustomRowHeight(Int32, TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetDescendantsThatHaveChildren(`0)
+  name: GetDescendantsThatHaveChildren
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetDescendantsThatHaveChildren(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetDescendantsThatHaveChildren(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetExpanded
+  name: GetExpanded
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetExpanded
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetExpanded()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetFirstAndLastVisibleRows(System.Int32@,System.Int32@)
+  name: GetFirstAndLastVisibleRows
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetFirstAndLastVisibleRows(System.Int32@,System.Int32@)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetFirstAndLastVisibleRows(out Int32, out Int32)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetFoldoutIndent(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: GetFoldoutIndent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetFoldoutIndent(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetFoldoutIndent(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetNewSelectionFunction
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.GetNewSelectionFunction
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetNewSelectionFunction
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.getNewSelectionOverride
+  name: getNewSelectionOverride
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-getNewSelectionOverride.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.getNewSelectionOverride
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.getNewSelectionOverride
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetRenameRect(UnityEngine.Rect,System.Int32,UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: GetRenameRect
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetRenameRect(UnityEngine.Rect,System.Int32,UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetRenameRect(Rect, Int32, TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetRowRect(System.Int32)
+  name: GetRowRect
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetRowRect(System.Int32)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetRowRect(Int32)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetRows
+  name: GetRows
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetRows
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetRows()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.GetSelection
+  name: GetSelection
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.GetSelection
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.GetSelection()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.HandleDragAndDrop(UnityEditor.IMGUI.Controls.TreeView{`0}.DragAndDropArgs)
+  name: HandleDragAndDrop
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.HandleDragAndDrop(UnityEditor.IMGUI.Controls.TreeView{`0}.DragAndDropArgs)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.HandleDragAndDrop(TreeView<TIdentifier>.DragAndDropArgs)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.HasFocus
+  name: HasFocus
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.HasFocus
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.HasFocus()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.hasSearch
+  name: hasSearch
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-hasSearch.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.hasSearch
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.hasSearch
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.HasSelection
+  name: HasSelection
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.HasSelection
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.HasSelection()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.hoveredItem
+  name: hoveredItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-hoveredItem.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.hoveredItem
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.hoveredItem
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.IsChildListForACollapsedParent(IList{UnityEditor.IMGUI.Controls.TreeViewItem{`0}})
+  name: IsChildListForACollapsedParent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.IsChildListForACollapsedParent(IList{UnityEditor.IMGUI.Controls.TreeViewItem{`0}})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.IsChildListForACollapsedParent(IList<TreeViewItem<TIdentifier>>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.isDragging
+  name: isDragging
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-isDragging.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.isDragging
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.isDragging
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.IsExpanded(`0)
+  name: IsExpanded
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.IsExpanded(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.IsExpanded(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.isInitialized
+  name: isInitialized
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-isInitialized.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.isInitialized
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.isInitialized
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.IsSelected(`0)
+  name: IsSelected
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.IsSelected(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.IsSelected(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.KeyEvent
+  name: KeyEvent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.KeyEvent
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.KeyEvent()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.multiColumnHeader
+  name: multiColumnHeader
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-multiColumnHeader.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.multiColumnHeader
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.multiColumnHeader
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.OnGUI(UnityEngine.Rect)
+  name: OnGUI
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.OnGUI(UnityEngine.Rect)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.OnGUI(Rect)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RefreshCustomRowHeights
+  name: RefreshCustomRowHeights
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.RefreshCustomRowHeights
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RefreshCustomRowHeights()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.Reload
+  name: Reload
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.Reload
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.Reload()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RenameEnded(UnityEditor.IMGUI.Controls.TreeView{`0}.RenameEndedArgs)
+  name: RenameEnded
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.RenameEnded(UnityEditor.IMGUI.Controls.TreeView{`0}.RenameEndedArgs)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RenameEnded(TreeView<TIdentifier>.RenameEndedArgs)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RenameEndedArgs
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs.acceptedRename
+  name: acceptedRename
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RenameEndedArgs-acceptedRename.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs.acceptedRename
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RenameEndedArgs.acceptedRename
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs.itemID
+  name: itemID
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RenameEndedArgs-itemID.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs.itemID
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RenameEndedArgs.itemID
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs.newName
+  name: newName
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RenameEndedArgs-newName.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs.newName
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RenameEndedArgs.newName
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs.originalName
+  name: originalName
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RenameEndedArgs-originalName.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RenameEndedArgs.originalName
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RenameEndedArgs.originalName
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.Repaint
+  name: Repaint
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.Repaint
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.Repaint()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.rootItem
+  name: rootItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-rootItem.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.rootItem
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.rootItem
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUI(UnityEditor.IMGUI.Controls.TreeView{`0}.RowGUIArgs)
+  name: RowGUI
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.RowGUI(UnityEditor.IMGUI.Controls.TreeView{`0}.RowGUIArgs)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUI(TreeView<TIdentifier>.RowGUIArgs)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.focused
+  name: focused
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RowGUIArgs-focused.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.focused
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.focused
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.GetCellRect(System.Int32)
+  name: GetCellRect
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.GetCellRect(System.Int32)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.GetCellRect(Int32)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.GetColumn(System.Int32)
+  name: GetColumn
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.GetColumn(System.Int32)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.GetColumn(Int32)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.GetNumVisibleColumns
+  name: GetNumVisibleColumns
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.GetNumVisibleColumns
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.GetNumVisibleColumns()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.isRenaming
+  name: isRenaming
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RowGUIArgs-isRenaming.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.isRenaming
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.isRenaming
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.item
+  name: item
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RowGUIArgs-item.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.item
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.item
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.label
+  name: label
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RowGUIArgs-label.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.label
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.label
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.row
+  name: row
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RowGUIArgs-row.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.row
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.row
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.rowRect
+  name: rowRect
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RowGUIArgs-rowRect.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.rowRect
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.rowRect
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.selected
+  name: selected
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.RowGUIArgs-selected.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.RowGUIArgs.selected
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.RowGUIArgs.selected
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.rowHeight
+  name: rowHeight
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-rowHeight.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.rowHeight
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.rowHeight
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SearchChanged(System.String)
+  name: SearchChanged
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SearchChanged(System.String)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SearchChanged(String)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.searchString
+  name: searchString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-searchString.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.searchString
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.searchString
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SelectAllRows
+  name: SelectAllRows
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SelectAllRows
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SelectAllRows()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SelectionChanged(IList{`0})
+  name: SelectionChanged
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SelectionChanged(IList{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SelectionChanged(IList<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SelectionClick(UnityEditor.IMGUI.Controls.TreeViewItem{`0},System.Boolean)
+  name: SelectionClick
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SelectionClick(UnityEditor.IMGUI.Controls.TreeViewItem{`0},System.Boolean)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SelectionClick(TreeViewItem<TIdentifier>, Boolean)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetExpanded(`0,System.Boolean)
+  name: SetExpanded
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetExpanded(`0,System.Boolean)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetExpanded(TIdentifier, Boolean)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetExpanded(IList{`0})
+  name: SetExpanded
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetExpanded(IList{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetExpanded(IList<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetExpandedRecursive(`0,System.Boolean)
+  name: SetExpandedRecursive
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetExpandedRecursive(`0,System.Boolean)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetExpandedRecursive(TIdentifier, Boolean)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetFocus
+  name: SetFocus
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetFocus
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetFocus()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetFocusAndEnsureSelectedItem
+  name: SetFocusAndEnsureSelectedItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetFocusAndEnsureSelectedItem
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetFocusAndEnsureSelectedItem()
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetSelection(IList{`0},UnityEditor.IMGUI.Controls.TreeViewSelectionOptions)
+  name: SetSelection
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetSelection(IList{`0},UnityEditor.IMGUI.Controls.TreeViewSelectionOptions)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetSelection(IList<TIdentifier>, TreeViewSelectionOptions)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetSelection(IList{`0})
+  name: SetSelection
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetSelection(IList{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetSelection(IList<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetupDepthsFromParentsAndChildren(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: SetupDepthsFromParentsAndChildren
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetupDepthsFromParentsAndChildren(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetupDepthsFromParentsAndChildren(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetupDragAndDrop(UnityEditor.IMGUI.Controls.TreeView{`0}.SetupDragAndDropArgs)
+  name: SetupDragAndDrop
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetupDragAndDrop(UnityEditor.IMGUI.Controls.TreeView{`0}.SetupDragAndDropArgs)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetupDragAndDrop(TreeView<TIdentifier>.SetupDragAndDropArgs)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetupDragAndDropArgs
+  name: TreeView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeView`1.SetupDragAndDropArgs
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetupDragAndDropArgs
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetupDragAndDropArgs.draggedItemIDs
+  name: draggedItemIDs
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1.SetupDragAndDropArgs-draggedItemIDs.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeView`1.SetupDragAndDropArgs.draggedItemIDs
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetupDragAndDropArgs.draggedItemIDs
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SetupParentsAndChildrenFromDepths(UnityEditor.IMGUI.Controls.TreeViewItem{`0},IList{UnityEditor.IMGUI.Controls.TreeViewItem{`0}})
+  name: SetupParentsAndChildrenFromDepths
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SetupParentsAndChildrenFromDepths(UnityEditor.IMGUI.Controls.TreeViewItem{`0},IList{UnityEditor.IMGUI.Controls.TreeViewItem{`0}})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SetupParentsAndChildrenFromDepths(TreeViewItem<TIdentifier>, IList<TreeViewItem<TIdentifier>>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.showAlternatingRowBackgrounds
+  name: showAlternatingRowBackgrounds
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-showAlternatingRowBackgrounds.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.showAlternatingRowBackgrounds
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.showAlternatingRowBackgrounds
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.showBorder
+  name: showBorder
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-showBorder.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.showBorder
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.showBorder
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.showingHorizontalScrollBar
+  name: showingHorizontalScrollBar
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-showingHorizontalScrollBar.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.showingHorizontalScrollBar
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.showingHorizontalScrollBar
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.showingVerticalScrollBar
+  name: showingVerticalScrollBar
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-showingVerticalScrollBar.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.showingVerticalScrollBar
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.showingVerticalScrollBar
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SingleClickedItem(`0)
+  name: SingleClickedItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SingleClickedItem(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SingleClickedItem(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.SortItemIDsInRowOrder(IList{`0})
+  name: SortItemIDsInRowOrder
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeView`1.SortItemIDsInRowOrder(IList{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.SortItemIDsInRowOrder(IList<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.state
+  name: state
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-state.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.state
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.state
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.totalHeight
   name: totalHeight
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-totalHeight.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.totalHeight
-  fullName: UnityEditor.IMGUI.Controls.TreeView.totalHeight
-  nameWithType: TreeView.totalHeight
-- uid: UnityEditor.IMGUI.Controls.TreeView.treeViewControlID
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-totalHeight.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.totalHeight
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.totalHeight
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.treeViewControlID
   name: treeViewControlID
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-treeViewControlID.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.treeViewControlID
-  fullName: UnityEditor.IMGUI.Controls.TreeView.treeViewControlID
-  nameWithType: TreeView.treeViewControlID
-- uid: UnityEditor.IMGUI.Controls.TreeView.treeViewRect
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-treeViewControlID.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.treeViewControlID
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.treeViewControlID
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.treeViewRect
   name: treeViewRect
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-treeViewRect.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.treeViewRect
-  fullName: UnityEditor.IMGUI.Controls.TreeView.treeViewRect
-  nameWithType: TreeView.treeViewRect
-- uid: UnityEditor.IMGUI.Controls.TreeView.useScrollView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-treeViewRect.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.treeViewRect
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.treeViewRect
+- uid: UnityEditor.IMGUI.Controls.TreeView`1.useScrollView
   name: useScrollView
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView-useScrollView.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeView.useScrollView
-  fullName: UnityEditor.IMGUI.Controls.TreeView.useScrollView
-  nameWithType: TreeView.useScrollView
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeView`1-useScrollView.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeView`1.useScrollView
+  fullName: UnityEditor.IMGUI.Controls.TreeView
+  nameWithType: TreeView<TIdentifier>.useScrollView
+- uid: UnityEditor.IMGUI.Controls.TreeViewInternal
+  name: TreeViewInternal
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewInternal.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeViewInternal
+  fullName: UnityEditor.IMGUI.Controls.TreeViewInternal
+  nameWithType: TreeViewInternal
+- uid: UnityEditor.IMGUI.Controls.TreeViewInternal.#ctor(UnityEditor.IMGUI.Controls.TreeViewState,UnityEditor.IMGUI.Controls.MultiColumnHeader)
+  name: TreeViewInternal
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewInternal.TreeViewInternal.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewInternal.#ctor(UnityEditor.IMGUI.Controls.TreeViewState,UnityEditor.IMGUI.Controls.MultiColumnHeader)
+  fullName: UnityEditor.IMGUI.Controls.TreeViewInternal.TreeViewInternal
+  nameWithType: TreeViewInternal.TreeViewInternal(TreeViewState, MultiColumnHeader)
+- uid: UnityEditor.IMGUI.Controls.TreeViewInternal.#ctor(UnityEditor.IMGUI.Controls.TreeViewState)
+  name: TreeViewInternal
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewInternal.TreeViewInternal.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewInternal.#ctor(UnityEditor.IMGUI.Controls.TreeViewState)
+  fullName: UnityEditor.IMGUI.Controls.TreeViewInternal.TreeViewInternal
+  nameWithType: TreeViewInternal.TreeViewInternal(TreeViewState)
+- uid: UnityEditor.IMGUI.Controls.TreeViewInternal.BuildRoot
+  name: BuildRoot
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewInternal.BuildRoot.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewInternal.BuildRoot
+  fullName: UnityEditor.IMGUI.Controls.TreeViewInternal.BuildRoot
+  nameWithType: TreeViewInternal.BuildRoot()
 - uid: UnityEditor.IMGUI.Controls.TreeViewItem
   name: TreeViewItem
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
@@ -46309,48 +46687,102 @@ references:
   commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem.CompareTo(UnityEditor.IMGUI.Controls.TreeViewItem)
   fullName: UnityEditor.IMGUI.Controls.TreeViewItem.CompareTo
   nameWithType: TreeViewItem.CompareTo(TreeViewItem)
-- uid: UnityEditor.IMGUI.Controls.TreeViewItem.depth
-  name: depth
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem-depth.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem.depth
-  fullName: UnityEditor.IMGUI.Controls.TreeViewItem.depth
-  nameWithType: TreeViewItem.depth
-- uid: UnityEditor.IMGUI.Controls.TreeViewItem.displayName
-  name: displayName
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem-displayName.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem.displayName
-  fullName: UnityEditor.IMGUI.Controls.TreeViewItem.displayName
-  nameWithType: TreeViewItem.displayName
-- uid: UnityEditor.IMGUI.Controls.TreeViewItem.hasChildren
-  name: hasChildren
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem-hasChildren.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem.hasChildren
-  fullName: UnityEditor.IMGUI.Controls.TreeViewItem.hasChildren
-  nameWithType: TreeViewItem.hasChildren
-- uid: UnityEditor.IMGUI.Controls.TreeViewItem.icon
-  name: icon
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem-icon.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem.icon
-  fullName: UnityEditor.IMGUI.Controls.TreeViewItem.icon
-  nameWithType: TreeViewItem.icon
-- uid: UnityEditor.IMGUI.Controls.TreeViewItem.id
-  name: id
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem-id.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem.id
-  fullName: UnityEditor.IMGUI.Controls.TreeViewItem.id
-  nameWithType: TreeViewItem.id
 - uid: UnityEditor.IMGUI.Controls.TreeViewItem.parent
   name: parent
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem-parent.html
   commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem.parent
   fullName: UnityEditor.IMGUI.Controls.TreeViewItem.parent
   nameWithType: TreeViewItem.parent
-- uid: UnityEditor.IMGUI.Controls.TreeViewItem.ToString
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1
+  name: TreeViewItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeViewItem`1
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.#ctor
+  name: TreeViewItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem`1.#ctor
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.TreeViewItem()
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.#ctor(`0,System.Int32,System.String)
+  name: TreeViewItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem`1.#ctor(`0,System.Int32,System.String)
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.TreeViewItem(TIdentifier, Int32, String)
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.#ctor(`0,System.Int32)
+  name: TreeViewItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem`1.#ctor(`0,System.Int32)
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.TreeViewItem(TIdentifier, Int32)
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.#ctor(`0)
+  name: TreeViewItem
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem`1.#ctor(`0)
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.TreeViewItem(TIdentifier)
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.AddChild(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: AddChild
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem`1.AddChild(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.AddChild(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.children
+  name: children
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem`1-children.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem`1.children
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.children
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.CompareTo(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  name: CompareTo
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem`1.CompareTo(UnityEditor.IMGUI.Controls.TreeViewItem{`0})
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.CompareTo(TreeViewItem<TIdentifier>)
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.depth
+  name: depth
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem`1-depth.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem`1.depth
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.depth
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.displayName
+  name: displayName
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem`1-displayName.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem`1.displayName
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.displayName
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.hasChildren
+  name: hasChildren
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem`1-hasChildren.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem`1.hasChildren
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.hasChildren
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.icon
+  name: icon
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem`1-icon.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem`1.icon
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.icon
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.id
+  name: id
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem`1-id.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem`1.id
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.id
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.parent
+  name: parent
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem`1-parent.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewItem`1.parent
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.parent
+- uid: UnityEditor.IMGUI.Controls.TreeViewItem`1.ToString
   name: ToString
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.ToString.html
-  commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem.ToString
-  fullName: UnityEditor.IMGUI.Controls.TreeViewItem.ToString
-  nameWithType: TreeViewItem.ToString()
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewItem.html
+  commentId: M:UnityEditor.IMGUI.Controls.TreeViewItem`1.ToString
+  fullName: UnityEditor.IMGUI.Controls.TreeViewItem
+  nameWithType: TreeViewItem<TIdentifier>.ToString()
 - uid: UnityEditor.IMGUI.Controls.TreeViewSelectionOptions
   name: TreeViewSelectionOptions
   href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewSelectionOptions.html
@@ -46381,36 +46813,42 @@ references:
   commentId: T:UnityEditor.IMGUI.Controls.TreeViewState
   fullName: UnityEditor.IMGUI.Controls.TreeViewState
   nameWithType: TreeViewState
-- uid: UnityEditor.IMGUI.Controls.TreeViewState.expandedIDs
+- uid: UnityEditor.IMGUI.Controls.TreeViewState`1
+  name: TreeViewState
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState.html
+  commentId: T:UnityEditor.IMGUI.Controls.TreeViewState`1
+  fullName: UnityEditor.IMGUI.Controls.TreeViewState
+  nameWithType: TreeViewState<TIdentifier>
+- uid: UnityEditor.IMGUI.Controls.TreeViewState`1.expandedIDs
   name: expandedIDs
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState-expandedIDs.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewState.expandedIDs
-  fullName: UnityEditor.IMGUI.Controls.TreeViewState.expandedIDs
-  nameWithType: TreeViewState.expandedIDs
-- uid: UnityEditor.IMGUI.Controls.TreeViewState.lastClickedID
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState`1-expandedIDs.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewState`1.expandedIDs
+  fullName: UnityEditor.IMGUI.Controls.TreeViewState
+  nameWithType: TreeViewState<TIdentifier>.expandedIDs
+- uid: UnityEditor.IMGUI.Controls.TreeViewState`1.lastClickedID
   name: lastClickedID
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState-lastClickedID.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewState.lastClickedID
-  fullName: UnityEditor.IMGUI.Controls.TreeViewState.lastClickedID
-  nameWithType: TreeViewState.lastClickedID
-- uid: UnityEditor.IMGUI.Controls.TreeViewState.scrollPos
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState`1-lastClickedID.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewState`1.lastClickedID
+  fullName: UnityEditor.IMGUI.Controls.TreeViewState
+  nameWithType: TreeViewState<TIdentifier>.lastClickedID
+- uid: UnityEditor.IMGUI.Controls.TreeViewState`1.scrollPos
   name: scrollPos
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState-scrollPos.html
-  commentId: F:UnityEditor.IMGUI.Controls.TreeViewState.scrollPos
-  fullName: UnityEditor.IMGUI.Controls.TreeViewState.scrollPos
-  nameWithType: TreeViewState.scrollPos
-- uid: UnityEditor.IMGUI.Controls.TreeViewState.searchString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState`1-scrollPos.html
+  commentId: F:UnityEditor.IMGUI.Controls.TreeViewState`1.scrollPos
+  fullName: UnityEditor.IMGUI.Controls.TreeViewState
+  nameWithType: TreeViewState<TIdentifier>.scrollPos
+- uid: UnityEditor.IMGUI.Controls.TreeViewState`1.searchString
   name: searchString
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState-searchString.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewState.searchString
-  fullName: UnityEditor.IMGUI.Controls.TreeViewState.searchString
-  nameWithType: TreeViewState.searchString
-- uid: UnityEditor.IMGUI.Controls.TreeViewState.selectedIDs
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState`1-searchString.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewState`1.searchString
+  fullName: UnityEditor.IMGUI.Controls.TreeViewState
+  nameWithType: TreeViewState<TIdentifier>.searchString
+- uid: UnityEditor.IMGUI.Controls.TreeViewState`1.selectedIDs
   name: selectedIDs
-  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState-selectedIDs.html
-  commentId: P:UnityEditor.IMGUI.Controls.TreeViewState.selectedIDs
-  fullName: UnityEditor.IMGUI.Controls.TreeViewState.selectedIDs
-  nameWithType: TreeViewState.selectedIDs
+  href: https://docs.unity3d.com/Documentation/ScriptReference/IMGUI.Controls.TreeViewState`1-selectedIDs.html
+  commentId: P:UnityEditor.IMGUI.Controls.TreeViewState`1.selectedIDs
+  fullName: UnityEditor.IMGUI.Controls.TreeViewState
+  nameWithType: TreeViewState<TIdentifier>.selectedIDs
 - uid: UnityEditor.ImportAssetOptions
   name: ImportAssetOptions
   href: https://docs.unity3d.com/Documentation/ScriptReference/ImportAssetOptions.html
@@ -73693,18 +74131,18 @@ references:
   commentId: M:UnityEditor.Search.PropertyTable.BuildRoot
   fullName: UnityEditor.Search.PropertyTable.BuildRoot
   nameWithType: PropertyTable.BuildRoot()
-- uid: UnityEditor.Search.PropertyTable.BuildRows(UnityEditor.IMGUI.Controls.TreeViewItem)
+- uid: UnityEditor.Search.PropertyTable.BuildRows(UnityEditor.IMGUI.Controls.TreeViewItem{System.Int32})
   name: BuildRows
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.PropertyTable.BuildRows.html
-  commentId: M:UnityEditor.Search.PropertyTable.BuildRows(UnityEditor.IMGUI.Controls.TreeViewItem)
+  commentId: M:UnityEditor.Search.PropertyTable.BuildRows(UnityEditor.IMGUI.Controls.TreeViewItem{System.Int32})
   fullName: UnityEditor.Search.PropertyTable.BuildRows
-  nameWithType: PropertyTable.BuildRows(TreeViewItem)
-- uid: UnityEditor.Search.PropertyTable.CanStartDrag(UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs)
+  nameWithType: PropertyTable.BuildRows(TreeViewItem<Int32>)
+- uid: UnityEditor.Search.PropertyTable.CanStartDrag(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.CanStartDragArgs)
   name: CanStartDrag
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.PropertyTable.CanStartDrag.html
-  commentId: M:UnityEditor.Search.PropertyTable.CanStartDrag(UnityEditor.IMGUI.Controls.TreeView.CanStartDragArgs)
+  commentId: M:UnityEditor.Search.PropertyTable.CanStartDrag(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.CanStartDragArgs)
   fullName: UnityEditor.Search.PropertyTable.CanStartDrag
-  nameWithType: PropertyTable.CanStartDrag(TreeView.CanStartDragArgs)
+  nameWithType: PropertyTable.CanStartDrag(TreeView<Int32>.CanStartDragArgs)
 - uid: UnityEditor.Search.PropertyTable.Dispose
   name: Dispose
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.PropertyTable.Dispose.html
@@ -73723,12 +74161,12 @@ references:
   commentId: M:UnityEditor.Search.PropertyTable.FrameColumn(System.Int32)
   fullName: UnityEditor.Search.PropertyTable.FrameColumn
   nameWithType: PropertyTable.FrameColumn(Int32)
-- uid: UnityEditor.Search.PropertyTable.HandleDragAndDrop(UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs)
+- uid: UnityEditor.Search.PropertyTable.HandleDragAndDrop(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.DragAndDropArgs)
   name: HandleDragAndDrop
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.PropertyTable.HandleDragAndDrop.html
-  commentId: M:UnityEditor.Search.PropertyTable.HandleDragAndDrop(UnityEditor.IMGUI.Controls.TreeView.DragAndDropArgs)
+  commentId: M:UnityEditor.Search.PropertyTable.HandleDragAndDrop(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.DragAndDropArgs)
   fullName: UnityEditor.Search.PropertyTable.HandleDragAndDrop
-  nameWithType: PropertyTable.HandleDragAndDrop(TreeView.DragAndDropArgs)
+  nameWithType: PropertyTable.HandleDragAndDrop(TreeView<Int32>.DragAndDropArgs)
 - uid: UnityEditor.Search.PropertyTable.KeyEvent
   name: KeyEvent
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.PropertyTable.KeyEvent.html
@@ -73741,24 +74179,24 @@ references:
   commentId: M:UnityEditor.Search.PropertyTable.OnGUI(UnityEngine.Rect)
   fullName: UnityEditor.Search.PropertyTable.OnGUI
   nameWithType: PropertyTable.OnGUI(Rect)
-- uid: UnityEditor.Search.PropertyTable.RowGUI(UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs)
+- uid: UnityEditor.Search.PropertyTable.RowGUI(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.RowGUIArgs)
   name: RowGUI
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.PropertyTable.RowGUI.html
-  commentId: M:UnityEditor.Search.PropertyTable.RowGUI(UnityEditor.IMGUI.Controls.TreeView.RowGUIArgs)
+  commentId: M:UnityEditor.Search.PropertyTable.RowGUI(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.RowGUIArgs)
   fullName: UnityEditor.Search.PropertyTable.RowGUI
-  nameWithType: PropertyTable.RowGUI(TreeView.RowGUIArgs)
+  nameWithType: PropertyTable.RowGUI(TreeView<Int32>.RowGUIArgs)
 - uid: UnityEditor.Search.PropertyTable.SelectionChanged(System.Collections.Generic.IList{System.Int32})
   name: SelectionChanged
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.PropertyTable.SelectionChanged.html
   commentId: M:UnityEditor.Search.PropertyTable.SelectionChanged(System.Collections.Generic.IList{System.Int32})
   fullName: UnityEditor.Search.PropertyTable.SelectionChanged
   nameWithType: PropertyTable.SelectionChanged(Collections.Generic.IList<Int32>)
-- uid: UnityEditor.Search.PropertyTable.SetupDragAndDrop(UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs)
+- uid: UnityEditor.Search.PropertyTable.SetupDragAndDrop(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.SetupDragAndDropArgs)
   name: SetupDragAndDrop
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.PropertyTable.SetupDragAndDrop.html
-  commentId: M:UnityEditor.Search.PropertyTable.SetupDragAndDrop(UnityEditor.IMGUI.Controls.TreeView.SetupDragAndDropArgs)
+  commentId: M:UnityEditor.Search.PropertyTable.SetupDragAndDrop(UnityEditor.IMGUI.Controls.TreeView{System.Int32}.SetupDragAndDropArgs)
   fullName: UnityEditor.Search.PropertyTable.SetupDragAndDrop
-  nameWithType: PropertyTable.SetupDragAndDrop(TreeView.SetupDragAndDropArgs)
+  nameWithType: PropertyTable.SetupDragAndDrop(TreeView<Int32>.SetupDragAndDropArgs)
 - uid: UnityEditor.Search.Providers
   name: UnityEditor.Search.Providers
   href: https://docs.unity3d.com/Documentation/ScriptReference/Search.Providers.html
@@ -108409,12 +108847,12 @@ references:
   commentId: M:UnityEngine.AnimationCurve.GetHashCode
   fullName: UnityEngine.AnimationCurve.GetHashCode
   nameWithType: AnimationCurve.GetHashCode()
-- uid: UnityEngine.AnimationCurve.GetKeys(Unity.Collections.NativeArray{UnityEngine.Keyframe})
+- uid: UnityEngine.AnimationCurve.GetKeys(Span{UnityEngine.Keyframe})
   name: GetKeys
   href: https://docs.unity3d.com/Documentation/ScriptReference/AnimationCurve.GetKeys.html
-  commentId: M:UnityEngine.AnimationCurve.GetKeys(Unity.Collections.NativeArray{UnityEngine.Keyframe})
+  commentId: M:UnityEngine.AnimationCurve.GetKeys(Span{UnityEngine.Keyframe})
   fullName: UnityEngine.AnimationCurve.GetKeys
-  nameWithType: AnimationCurve.GetKeys(NativeArray<Keyframe>)
+  nameWithType: AnimationCurve.GetKeys(Span<Keyframe>)
 - uid: UnityEngine.AnimationCurve.Item(System.Int32)
   name: Item[Int32]
   href: https://docs.unity3d.com/Documentation/ScriptReference/AnimationCurve.Item[Int32].html
@@ -108463,12 +108901,12 @@ references:
   commentId: M:UnityEngine.AnimationCurve.RemoveKey(System.Int32)
   fullName: UnityEngine.AnimationCurve.RemoveKey
   nameWithType: AnimationCurve.RemoveKey(Int32)
-- uid: UnityEngine.AnimationCurve.SetKeys(Unity.Collections.NativeArray{UnityEngine.Keyframe})
+- uid: UnityEngine.AnimationCurve.SetKeys(ReadOnlySpan{UnityEngine.Keyframe})
   name: SetKeys
   href: https://docs.unity3d.com/Documentation/ScriptReference/AnimationCurve.SetKeys.html
-  commentId: M:UnityEngine.AnimationCurve.SetKeys(Unity.Collections.NativeArray{UnityEngine.Keyframe})
+  commentId: M:UnityEngine.AnimationCurve.SetKeys(ReadOnlySpan{UnityEngine.Keyframe})
   fullName: UnityEngine.AnimationCurve.SetKeys
-  nameWithType: AnimationCurve.SetKeys(NativeArray<Keyframe>)
+  nameWithType: AnimationCurve.SetKeys(ReadOnlySpan<Keyframe>)
 - uid: UnityEngine.AnimationCurve.SmoothTangents(System.Int32,System.Single)
   name: SmoothTangents
   href: https://docs.unity3d.com/Documentation/ScriptReference/AnimationCurve.SmoothTangents.html
@@ -109231,6 +109669,12 @@ references:
   commentId: T:UnityEngine.Animations.AnimationSceneHandleUtility
   fullName: UnityEngine.Animations.AnimationSceneHandleUtility
   nameWithType: AnimationSceneHandleUtility
+- uid: UnityEngine.Animations.AnimationSceneHandleUtility.ReadEntityIds(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertySceneHandle},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  name: ReadEntityIds
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.AnimationSceneHandleUtility.ReadEntityIds.html
+  commentId: M:UnityEngine.Animations.AnimationSceneHandleUtility.ReadEntityIds(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertySceneHandle},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  fullName: UnityEngine.Animations.AnimationSceneHandleUtility.ReadEntityIds
+  nameWithType: AnimationSceneHandleUtility.ReadEntityIds(AnimationStream, NativeArray<PropertySceneHandle>, NativeArray<EntityId>)
 - uid: UnityEngine.Animations.AnimationSceneHandleUtility.ReadFloats(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertySceneHandle},Unity.Collections.NativeArray{System.Single})
   name: ReadFloats
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.AnimationSceneHandleUtility.ReadFloats.html
@@ -109393,6 +109837,12 @@ references:
   commentId: T:UnityEngine.Animations.AnimationStreamHandleUtility
   fullName: UnityEngine.Animations.AnimationStreamHandleUtility
   nameWithType: AnimationStreamHandleUtility
+- uid: UnityEngine.Animations.AnimationStreamHandleUtility.ReadEntityIds(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertyStreamHandle},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  name: ReadEntityIds
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.AnimationStreamHandleUtility.ReadEntityIds.html
+  commentId: M:UnityEngine.Animations.AnimationStreamHandleUtility.ReadEntityIds(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertyStreamHandle},Unity.Collections.NativeArray{UnityEngine.EntityId})
+  fullName: UnityEngine.Animations.AnimationStreamHandleUtility.ReadEntityIds
+  nameWithType: AnimationStreamHandleUtility.ReadEntityIds(AnimationStream, NativeArray<PropertyStreamHandle>, NativeArray<EntityId>)
 - uid: UnityEngine.Animations.AnimationStreamHandleUtility.ReadFloats(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertyStreamHandle},Unity.Collections.NativeArray{System.Single})
   name: ReadFloats
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.AnimationStreamHandleUtility.ReadFloats.html
@@ -109405,6 +109855,12 @@ references:
   commentId: M:UnityEngine.Animations.AnimationStreamHandleUtility.ReadInts(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertyStreamHandle},Unity.Collections.NativeArray{System.Int32})
   fullName: UnityEngine.Animations.AnimationStreamHandleUtility.ReadInts
   nameWithType: AnimationStreamHandleUtility.ReadInts(AnimationStream, NativeArray<PropertyStreamHandle>, NativeArray<Int32>)
+- uid: UnityEngine.Animations.AnimationStreamHandleUtility.WriteEntityIds(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertyStreamHandle},Unity.Collections.NativeArray{UnityEngine.EntityId},System.Boolean)
+  name: WriteEntityIds
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.AnimationStreamHandleUtility.WriteEntityIds.html
+  commentId: M:UnityEngine.Animations.AnimationStreamHandleUtility.WriteEntityIds(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertyStreamHandle},Unity.Collections.NativeArray{UnityEngine.EntityId},System.Boolean)
+  fullName: UnityEngine.Animations.AnimationStreamHandleUtility.WriteEntityIds
+  nameWithType: AnimationStreamHandleUtility.WriteEntityIds(AnimationStream, NativeArray<PropertyStreamHandle>, NativeArray<EntityId>, Boolean)
 - uid: UnityEngine.Animations.AnimationStreamHandleUtility.WriteFloats(UnityEngine.Animations.AnimationStream,Unity.Collections.NativeArray{UnityEngine.Animations.PropertyStreamHandle},Unity.Collections.NativeArray{System.Single},System.Boolean)
   name: WriteFloats
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.AnimationStreamHandleUtility.WriteFloats.html
@@ -110749,6 +111205,12 @@ references:
   commentId: M:UnityEngine.Animations.PropertySceneHandle.GetBool(UnityEngine.Animations.AnimationStream)
   fullName: UnityEngine.Animations.PropertySceneHandle.GetBool
   nameWithType: PropertySceneHandle.GetBool(AnimationStream)
+- uid: UnityEngine.Animations.PropertySceneHandle.GetEntityId(UnityEngine.Animations.AnimationStream)
+  name: GetEntityId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.PropertySceneHandle.GetEntityId.html
+  commentId: M:UnityEngine.Animations.PropertySceneHandle.GetEntityId(UnityEngine.Animations.AnimationStream)
+  fullName: UnityEngine.Animations.PropertySceneHandle.GetEntityId
+  nameWithType: PropertySceneHandle.GetEntityId(AnimationStream)
 - uid: UnityEngine.Animations.PropertySceneHandle.GetFloat(UnityEngine.Animations.AnimationStream)
   name: GetFloat
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.PropertySceneHandle.GetFloat.html
@@ -110809,6 +111271,12 @@ references:
   commentId: M:UnityEngine.Animations.PropertyStreamHandle.GetBool(UnityEngine.Animations.AnimationStream)
   fullName: UnityEngine.Animations.PropertyStreamHandle.GetBool
   nameWithType: PropertyStreamHandle.GetBool(AnimationStream)
+- uid: UnityEngine.Animations.PropertyStreamHandle.GetEntityId(UnityEngine.Animations.AnimationStream)
+  name: GetEntityId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.PropertyStreamHandle.GetEntityId.html
+  commentId: M:UnityEngine.Animations.PropertyStreamHandle.GetEntityId(UnityEngine.Animations.AnimationStream)
+  fullName: UnityEngine.Animations.PropertyStreamHandle.GetEntityId
+  nameWithType: PropertyStreamHandle.GetEntityId(AnimationStream)
 - uid: UnityEngine.Animations.PropertyStreamHandle.GetFloat(UnityEngine.Animations.AnimationStream)
   name: GetFloat
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.PropertyStreamHandle.GetFloat.html
@@ -110851,6 +111319,12 @@ references:
   commentId: M:UnityEngine.Animations.PropertyStreamHandle.SetBool(UnityEngine.Animations.AnimationStream,System.Boolean)
   fullName: UnityEngine.Animations.PropertyStreamHandle.SetBool
   nameWithType: PropertyStreamHandle.SetBool(AnimationStream, Boolean)
+- uid: UnityEngine.Animations.PropertyStreamHandle.SetEntityId(UnityEngine.Animations.AnimationStream,UnityEngine.EntityId)
+  name: SetEntityId
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.PropertyStreamHandle.SetEntityId.html
+  commentId: M:UnityEngine.Animations.PropertyStreamHandle.SetEntityId(UnityEngine.Animations.AnimationStream,UnityEngine.EntityId)
+  fullName: UnityEngine.Animations.PropertyStreamHandle.SetEntityId
+  nameWithType: PropertyStreamHandle.SetEntityId(AnimationStream, EntityId)
 - uid: UnityEngine.Animations.PropertyStreamHandle.SetFloat(UnityEngine.Animations.AnimationStream,System.Single)
   name: SetFloat
   href: https://docs.unity3d.com/Documentation/ScriptReference/Animations.PropertyStreamHandle.SetFloat.html
@@ -137899,12 +138373,24 @@ references:
   commentId: M:UnityEngine.Gradient.#ctor
   fullName: UnityEngine.Gradient.Gradient
   nameWithType: Gradient.Gradient()
+- uid: UnityEngine.Gradient.alphaKeyCount
+  name: alphaKeyCount
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient-alphaKeyCount.html
+  commentId: P:UnityEngine.Gradient.alphaKeyCount
+  fullName: UnityEngine.Gradient.alphaKeyCount
+  nameWithType: Gradient.alphaKeyCount
 - uid: UnityEngine.Gradient.alphaKeys
   name: alphaKeys
   href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient-alphaKeys.html
   commentId: P:UnityEngine.Gradient.alphaKeys
   fullName: UnityEngine.Gradient.alphaKeys
   nameWithType: Gradient.alphaKeys
+- uid: UnityEngine.Gradient.colorKeyCount
+  name: colorKeyCount
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient-colorKeyCount.html
+  commentId: P:UnityEngine.Gradient.colorKeyCount
+  fullName: UnityEngine.Gradient.colorKeyCount
+  nameWithType: Gradient.colorKeyCount
 - uid: UnityEngine.Gradient.colorKeys
   name: colorKeys
   href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient-colorKeys.html
@@ -137941,6 +138427,18 @@ references:
   commentId: M:UnityEngine.Gradient.Finalize
   fullName: UnityEngine.Gradient.Finalize
   nameWithType: Gradient.Finalize()
+- uid: UnityEngine.Gradient.GetAlphaKeys(Span{UnityEngine.GradientAlphaKey})
+  name: GetAlphaKeys
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient.GetAlphaKeys.html
+  commentId: M:UnityEngine.Gradient.GetAlphaKeys(Span{UnityEngine.GradientAlphaKey})
+  fullName: UnityEngine.Gradient.GetAlphaKeys
+  nameWithType: Gradient.GetAlphaKeys(Span<GradientAlphaKey>)
+- uid: UnityEngine.Gradient.GetColorKeys(Span{UnityEngine.GradientColorKey})
+  name: GetColorKeys
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient.GetColorKeys.html
+  commentId: M:UnityEngine.Gradient.GetColorKeys(Span{UnityEngine.GradientColorKey})
+  fullName: UnityEngine.Gradient.GetColorKeys
+  nameWithType: Gradient.GetColorKeys(Span<GradientColorKey>)
 - uid: UnityEngine.Gradient.GetHashCode
   name: GetHashCode
   href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient.GetHashCode.html
@@ -137953,6 +138451,24 @@ references:
   commentId: P:UnityEngine.Gradient.mode
   fullName: UnityEngine.Gradient.mode
   nameWithType: Gradient.mode
+- uid: UnityEngine.Gradient.SetAlphaKeys(ReadOnlySpan{UnityEngine.GradientAlphaKey})
+  name: SetAlphaKeys
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient.SetAlphaKeys.html
+  commentId: M:UnityEngine.Gradient.SetAlphaKeys(ReadOnlySpan{UnityEngine.GradientAlphaKey})
+  fullName: UnityEngine.Gradient.SetAlphaKeys
+  nameWithType: Gradient.SetAlphaKeys(ReadOnlySpan<GradientAlphaKey>)
+- uid: UnityEngine.Gradient.SetColorKeys(ReadOnlySpan{UnityEngine.GradientColorKey})
+  name: SetColorKeys
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient.SetColorKeys.html
+  commentId: M:UnityEngine.Gradient.SetColorKeys(ReadOnlySpan{UnityEngine.GradientColorKey})
+  fullName: UnityEngine.Gradient.SetColorKeys
+  nameWithType: Gradient.SetColorKeys(ReadOnlySpan<GradientColorKey>)
+- uid: UnityEngine.Gradient.SetKeys(ReadOnlySpan{UnityEngine.GradientColorKey},ReadOnlySpan{UnityEngine.GradientAlphaKey})
+  name: SetKeys
+  href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient.SetKeys.html
+  commentId: M:UnityEngine.Gradient.SetKeys(ReadOnlySpan{UnityEngine.GradientColorKey},ReadOnlySpan{UnityEngine.GradientAlphaKey})
+  fullName: UnityEngine.Gradient.SetKeys
+  nameWithType: Gradient.SetKeys(ReadOnlySpan<GradientColorKey>, ReadOnlySpan<GradientAlphaKey>)
 - uid: UnityEngine.Gradient.SetKeys(UnityEngine.GradientColorKey[],UnityEngine.GradientAlphaKey[])
   name: SetKeys
   href: https://docs.unity3d.com/Documentation/ScriptReference/Gradient.SetKeys.html
@@ -206791,6 +207307,12 @@ references:
   commentId: F:UnityEngine.TextCore.LowLevel.GlyphRenderMode.COLOR_HINTED
   fullName: UnityEngine.TextCore.LowLevel.GlyphRenderMode.COLOR_HINTED
   nameWithType: GlyphRenderMode.COLOR_HINTED
+- uid: UnityEngine.TextCore.LowLevel.GlyphRenderMode.DEFAULT
+  name: DEFAULT
+  href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.LowLevel.GlyphRenderMode.DEFAULT.html
+  commentId: F:UnityEngine.TextCore.LowLevel.GlyphRenderMode.DEFAULT
+  fullName: UnityEngine.TextCore.LowLevel.GlyphRenderMode.DEFAULT
+  nameWithType: GlyphRenderMode.DEFAULT
 - uid: UnityEngine.TextCore.LowLevel.GlyphRenderMode.RASTER
   name: RASTER
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.LowLevel.GlyphRenderMode.RASTER.html
@@ -236257,6 +236779,12 @@ references:
   commentId: P:UnityEngine.UIElements.UIDocument.pivotReferenceSize
   fullName: UnityEngine.UIElements.UIDocument.pivotReferenceSize
   nameWithType: UIDocument.pivotReferenceSize
+- uid: UnityEngine.UIElements.UIDocument.position
+  name: position
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument-position.html
+  commentId: P:UnityEngine.UIElements.UIDocument.position
+  fullName: UnityEngine.UIElements.UIDocument.position
+  nameWithType: UIDocument.position
 - uid: UnityEngine.UIElements.UIDocument.rootVisualElement
   name: rootVisualElement
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument-rootVisualElement.html
@@ -236281,6 +236809,36 @@ references:
   commentId: P:UnityEngine.UIElements.UIDocument.visualTreeAsset
   fullName: UnityEngine.UIElements.UIDocument.visualTreeAsset
   nameWithType: UIDocument.visualTreeAsset
+- uid: UnityEngine.UIElements.UIDocument.worldSpaceSize
+  name: worldSpaceSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument-worldSpaceSize.html
+  commentId: P:UnityEngine.UIElements.UIDocument.worldSpaceSize
+  fullName: UnityEngine.UIElements.UIDocument.worldSpaceSize
+  nameWithType: UIDocument.worldSpaceSize
+- uid: UnityEngine.UIElements.UIDocument.worldSpaceSizeMode
+  name: worldSpaceSizeMode
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument-worldSpaceSizeMode.html
+  commentId: P:UnityEngine.UIElements.UIDocument.worldSpaceSizeMode
+  fullName: UnityEngine.UIElements.UIDocument.worldSpaceSizeMode
+  nameWithType: UIDocument.worldSpaceSizeMode
+- uid: UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode
+  name: UIDocument.WorldSpaceSizeMode
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument.WorldSpaceSizeMode.html
+  commentId: T:UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode
+  fullName: UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode
+  nameWithType: UIDocument.WorldSpaceSizeMode
+- uid: UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode.Dynamic
+  name: Dynamic
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument.WorldSpaceSizeMode.Dynamic.html
+  commentId: F:UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode.Dynamic
+  fullName: UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode.Dynamic
+  nameWithType: UIDocument.WorldSpaceSizeMode.Dynamic
+- uid: UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode.Fixed
+  name: Fixed
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIDocument.WorldSpaceSizeMode.Fixed.html
+  commentId: F:UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode.Fixed
+  fullName: UnityEngine.UIElements.UIDocument.WorldSpaceSizeMode.Fixed
+  nameWithType: UIDocument.WorldSpaceSizeMode.Fixed
 - uid: UnityEngine.UIElements.UIRenderer
   name: UIRenderer
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.UIRenderer.html
