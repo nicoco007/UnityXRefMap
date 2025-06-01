@@ -241801,6 +241801,12 @@ references:
   commentId: M:UnityEngine.VFX.VFXManager.ProcessCamera(UnityEngine.Camera)
   fullName: UnityEngine.VFX.VFXManager.ProcessCamera
   nameWithType: VFXManager.ProcessCamera(Camera)
+- uid: UnityEngine.VFX.VFXManager.ProcessCameraCommand(UnityEngine.Camera,UnityEngine.Rendering.CommandBuffer,UnityEngine.VFX.VFXCameraXRSettings,UnityEngine.Rendering.CullingResults,UnityEngine.Rendering.CullingResults)
+  name: ProcessCameraCommand
+  href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXManager.ProcessCameraCommand.html
+  commentId: M:UnityEngine.VFX.VFXManager.ProcessCameraCommand(UnityEngine.Camera,UnityEngine.Rendering.CommandBuffer,UnityEngine.VFX.VFXCameraXRSettings,UnityEngine.Rendering.CullingResults,UnityEngine.Rendering.CullingResults)
+  fullName: UnityEngine.VFX.VFXManager.ProcessCameraCommand
+  nameWithType: VFXManager.ProcessCameraCommand(Camera, CommandBuffer, VFXCameraXRSettings, CullingResults, CullingResults)
 - uid: UnityEngine.VFX.VFXManager.ProcessCameraCommand(UnityEngine.Camera,UnityEngine.Rendering.CommandBuffer,UnityEngine.VFX.VFXCameraXRSettings,UnityEngine.Rendering.CullingResults)
   name: ProcessCameraCommand
   href: https://docs.unity3d.com/Documentation/ScriptReference/VFX.VFXManager.ProcessCameraCommand.html
