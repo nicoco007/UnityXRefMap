@@ -205855,6 +205855,12 @@ references:
   commentId: F:UnityEngine.TextCore.LowLevel.GlyphRenderMode.COLOR_HINTED
   fullName: UnityEngine.TextCore.LowLevel.GlyphRenderMode.COLOR_HINTED
   nameWithType: GlyphRenderMode.COLOR_HINTED
+- uid: UnityEngine.TextCore.LowLevel.GlyphRenderMode.DEFAULT
+  name: DEFAULT
+  href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.LowLevel.GlyphRenderMode.DEFAULT.html
+  commentId: F:UnityEngine.TextCore.LowLevel.GlyphRenderMode.DEFAULT
+  fullName: UnityEngine.TextCore.LowLevel.GlyphRenderMode.DEFAULT
+  nameWithType: GlyphRenderMode.DEFAULT
 - uid: UnityEngine.TextCore.LowLevel.GlyphRenderMode.RASTER
   name: RASTER
   href: https://docs.unity3d.com/Documentation/ScriptReference/TextCore.LowLevel.GlyphRenderMode.RASTER.html

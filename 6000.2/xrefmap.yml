@@ -226423,6 +226423,12 @@ references:
   commentId: P:UnityEngine.UIElements.IStyle.unityTextAlign
   fullName: UnityEngine.UIElements.IStyle.unityTextAlign
   nameWithType: IStyle.unityTextAlign
+- uid: UnityEngine.UIElements.IStyle.unityTextAutoSize
+  name: unityTextAutoSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IStyle-unityTextAutoSize.html
+  commentId: P:UnityEngine.UIElements.IStyle.unityTextAutoSize
+  fullName: UnityEngine.UIElements.IStyle.unityTextAutoSize
+  nameWithType: IStyle.unityTextAutoSize
 - uid: UnityEngine.UIElements.IStyle.unityTextGenerator
   name: unityTextGenerator
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.IStyle-unityTextGenerator.html
@@ -233653,6 +233659,84 @@ references:
   commentId: P:UnityEngine.UIElements.StyleSheet.importedWithWarnings
   fullName: UnityEngine.UIElements.StyleSheet.importedWithWarnings
   nameWithType: StyleSheet.importedWithWarnings
+- uid: UnityEngine.UIElements.StyleTextAutoSize
+  name: StyleTextAutoSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.html
+  commentId: T:UnityEngine.UIElements.StyleTextAutoSize
+  fullName: UnityEngine.UIElements.StyleTextAutoSize
+  nameWithType: StyleTextAutoSize
+- uid: UnityEngine.UIElements.StyleTextAutoSize.#ctor(UnityEngine.UIElements.StyleKeyword)
+  name: StyleTextAutoSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.StyleTextAutoSize.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.#ctor(UnityEngine.UIElements.StyleKeyword)
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.StyleTextAutoSize
+  nameWithType: StyleTextAutoSize.StyleTextAutoSize(StyleKeyword)
+- uid: UnityEngine.UIElements.StyleTextAutoSize.#ctor(UnityEngine.UIElements.TextAutoSize)
+  name: StyleTextAutoSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.StyleTextAutoSize.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.#ctor(UnityEngine.UIElements.TextAutoSize)
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.StyleTextAutoSize
+  nameWithType: StyleTextAutoSize.StyleTextAutoSize(TextAutoSize)
+- uid: UnityEngine.UIElements.StyleTextAutoSize.Equals(System.Object)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.Equals.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.Equals(System.Object)
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.Equals
+  nameWithType: StyleTextAutoSize.Equals(Object)
+- uid: UnityEngine.UIElements.StyleTextAutoSize.Equals(UnityEngine.UIElements.StyleTextAutoSize)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.Equals.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.Equals(UnityEngine.UIElements.StyleTextAutoSize)
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.Equals
+  nameWithType: StyleTextAutoSize.Equals(StyleTextAutoSize)
+- uid: UnityEngine.UIElements.StyleTextAutoSize.GetHashCode
+  name: GetHashCode
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.GetHashCode.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.GetHashCode
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.GetHashCode
+  nameWithType: StyleTextAutoSize.GetHashCode()
+- uid: UnityEngine.UIElements.StyleTextAutoSize.keyword
+  name: keyword
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize-keyword.html
+  commentId: P:UnityEngine.UIElements.StyleTextAutoSize.keyword
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.keyword
+  nameWithType: StyleTextAutoSize.keyword
+- uid: UnityEngine.UIElements.StyleTextAutoSize.op_Equality(UnityEngine.UIElements.StyleTextAutoSize,UnityEngine.UIElements.StyleTextAutoSize)
+  name: Equality
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.Equality.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.op_Equality(UnityEngine.UIElements.StyleTextAutoSize,UnityEngine.UIElements.StyleTextAutoSize)
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.Equality
+  nameWithType: StyleTextAutoSize.Equality(StyleTextAutoSize, StyleTextAutoSize)
+- uid: UnityEngine.UIElements.StyleTextAutoSize.op_Implicit(UnityEngine.UIElements.StyleKeyword)~UnityEngine.UIElements.StyleTextAutoSize
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.Implicit.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.op_Implicit(UnityEngine.UIElements.StyleKeyword)~UnityEngine.UIElements.StyleTextAutoSize
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.Implicit
+  nameWithType: StyleTextAutoSize.Implicit(StyleKeyword to StyleTextAutoSize)
+- uid: UnityEngine.UIElements.StyleTextAutoSize.op_Implicit(UnityEngine.UIElements.TextAutoSize)~UnityEngine.UIElements.StyleTextAutoSize
+  name: Implicit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.Implicit.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.op_Implicit(UnityEngine.UIElements.TextAutoSize)~UnityEngine.UIElements.StyleTextAutoSize
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.Implicit
+  nameWithType: StyleTextAutoSize.Implicit(TextAutoSize to StyleTextAutoSize)
+- uid: UnityEngine.UIElements.StyleTextAutoSize.op_Inequality(UnityEngine.UIElements.StyleTextAutoSize,UnityEngine.UIElements.StyleTextAutoSize)
+  name: Inequality
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.Inequality.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.op_Inequality(UnityEngine.UIElements.StyleTextAutoSize,UnityEngine.UIElements.StyleTextAutoSize)
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.Inequality
+  nameWithType: StyleTextAutoSize.Inequality(StyleTextAutoSize, StyleTextAutoSize)
+- uid: UnityEngine.UIElements.StyleTextAutoSize.ToString
+  name: ToString
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize.ToString.html
+  commentId: M:UnityEngine.UIElements.StyleTextAutoSize.ToString
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.ToString
+  nameWithType: StyleTextAutoSize.ToString()
+- uid: UnityEngine.UIElements.StyleTextAutoSize.value
+  name: value
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextAutoSize-value.html
+  commentId: P:UnityEngine.UIElements.StyleTextAutoSize.value
+  fullName: UnityEngine.UIElements.StyleTextAutoSize.value
+  nameWithType: StyleTextAutoSize.value
 - uid: UnityEngine.UIElements.StyleTextShadow
   name: StyleTextShadow
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.StyleTextShadow.html
@@ -234385,6 +234469,90 @@ references:
   commentId: M:UnityEngine.UIElements.TempMeshAllocator.AllocateTempMesh(System.Int32,System.Int32,Unity.Collections.NativeSlice{UnityEngine.UIElements.Vertex}@,Unity.Collections.NativeSlice{System.UInt16}@)
   fullName: UnityEngine.UIElements.TempMeshAllocator.AllocateTempMesh
   nameWithType: TempMeshAllocator.AllocateTempMesh(Int32, Int32, out NativeSlice<Vertex>, out NativeSlice<UInt16>)
+- uid: UnityEngine.UIElements.TextAutoSize
+  name: TextAutoSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize.html
+  commentId: T:UnityEngine.UIElements.TextAutoSize
+  fullName: UnityEngine.UIElements.TextAutoSize
+  nameWithType: TextAutoSize
+- uid: UnityEngine.UIElements.TextAutoSize.#ctor(UnityEngine.UIElements.TextAutoSizeMode,UnityEngine.UIElements.Length,UnityEngine.UIElements.Length)
+  name: TextAutoSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize.TextAutoSize.html
+  commentId: M:UnityEngine.UIElements.TextAutoSize.#ctor(UnityEngine.UIElements.TextAutoSizeMode,UnityEngine.UIElements.Length,UnityEngine.UIElements.Length)
+  fullName: UnityEngine.UIElements.TextAutoSize.TextAutoSize
+  nameWithType: TextAutoSize.TextAutoSize(TextAutoSizeMode, Length, Length)
+- uid: UnityEngine.UIElements.TextAutoSize.Equals(System.Object)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize.Equals.html
+  commentId: M:UnityEngine.UIElements.TextAutoSize.Equals(System.Object)
+  fullName: UnityEngine.UIElements.TextAutoSize.Equals
+  nameWithType: TextAutoSize.Equals(Object)
+- uid: UnityEngine.UIElements.TextAutoSize.Equals(UnityEngine.UIElements.TextAutoSize)
+  name: Equals
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize.Equals.html
+  commentId: M:UnityEngine.UIElements.TextAutoSize.Equals(UnityEngine.UIElements.TextAutoSize)
+  fullName: UnityEngine.UIElements.TextAutoSize.Equals
+  nameWithType: TextAutoSize.Equals(TextAutoSize)
+- uid: UnityEngine.UIElements.TextAutoSize.GetHashCode
+  name: GetHashCode
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize.GetHashCode.html
+  commentId: M:UnityEngine.UIElements.TextAutoSize.GetHashCode
+  fullName: UnityEngine.UIElements.TextAutoSize.GetHashCode
+  nameWithType: TextAutoSize.GetHashCode()
+- uid: UnityEngine.UIElements.TextAutoSize.maxSize
+  name: maxSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize-maxSize.html
+  commentId: P:UnityEngine.UIElements.TextAutoSize.maxSize
+  fullName: UnityEngine.UIElements.TextAutoSize.maxSize
+  nameWithType: TextAutoSize.maxSize
+- uid: UnityEngine.UIElements.TextAutoSize.minSize
+  name: minSize
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize-minSize.html
+  commentId: P:UnityEngine.UIElements.TextAutoSize.minSize
+  fullName: UnityEngine.UIElements.TextAutoSize.minSize
+  nameWithType: TextAutoSize.minSize
+- uid: UnityEngine.UIElements.TextAutoSize.mode
+  name: mode
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize-mode.html
+  commentId: P:UnityEngine.UIElements.TextAutoSize.mode
+  fullName: UnityEngine.UIElements.TextAutoSize.mode
+  nameWithType: TextAutoSize.mode
+- uid: UnityEngine.UIElements.TextAutoSize.None
+  name: None
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize.None.html
+  commentId: M:UnityEngine.UIElements.TextAutoSize.None
+  fullName: UnityEngine.UIElements.TextAutoSize.None
+  nameWithType: TextAutoSize.None()
+- uid: UnityEngine.UIElements.TextAutoSize.op_Equality(UnityEngine.UIElements.TextAutoSize,UnityEngine.UIElements.TextAutoSize)
+  name: Equality
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize.Equality.html
+  commentId: M:UnityEngine.UIElements.TextAutoSize.op_Equality(UnityEngine.UIElements.TextAutoSize,UnityEngine.UIElements.TextAutoSize)
+  fullName: UnityEngine.UIElements.TextAutoSize.Equality
+  nameWithType: TextAutoSize.Equality(TextAutoSize, TextAutoSize)
+- uid: UnityEngine.UIElements.TextAutoSize.op_Inequality(UnityEngine.UIElements.TextAutoSize,UnityEngine.UIElements.TextAutoSize)
+  name: Inequality
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSize.Inequality.html
+  commentId: M:UnityEngine.UIElements.TextAutoSize.op_Inequality(UnityEngine.UIElements.TextAutoSize,UnityEngine.UIElements.TextAutoSize)
+  fullName: UnityEngine.UIElements.TextAutoSize.Inequality
+  nameWithType: TextAutoSize.Inequality(TextAutoSize, TextAutoSize)
+- uid: UnityEngine.UIElements.TextAutoSizeMode
+  name: TextAutoSizeMode
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSizeMode.html
+  commentId: T:UnityEngine.UIElements.TextAutoSizeMode
+  fullName: UnityEngine.UIElements.TextAutoSizeMode
+  nameWithType: TextAutoSizeMode
+- uid: UnityEngine.UIElements.TextAutoSizeMode.BestFit
+  name: BestFit
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSizeMode.BestFit.html
+  commentId: F:UnityEngine.UIElements.TextAutoSizeMode.BestFit
+  fullName: UnityEngine.UIElements.TextAutoSizeMode.BestFit
+  nameWithType: TextAutoSizeMode.BestFit
+- uid: UnityEngine.UIElements.TextAutoSizeMode.None
+  name: None
+  href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextAutoSizeMode.None.html
+  commentId: F:UnityEngine.UIElements.TextAutoSizeMode.None
+  fullName: UnityEngine.UIElements.TextAutoSizeMode.None
+  nameWithType: TextAutoSizeMode.None
 - uid: UnityEngine.UIElements.TextElement
   name: TextElement
   href: https://docs.unity3d.com/Documentation/ScriptReference/UIElements.TextElement.html
